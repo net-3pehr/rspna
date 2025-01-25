@@ -1,0 +1,2532 @@
+all:
+  children:
+    default_group:
+      hosts:
+        CISCO-BRAS1:
+          ansible_host: 10.0.1.233
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Allameh-Karaj-1:
+          ansible_host: 10.0.19.170
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Allameh-Karaj-G:
+          ansible_host: 10.0.19.169
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Valiasr-Karaj-1:
+          ansible_host: 10.0.19.153
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Valiasr-Karaj-G:
+          ansible_host: 10.0.19.152
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Arses-1:
+          ansible_host: 10.0.19.149
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Arses-G:
+          ansible_host: 10.0.19.148
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Binalood1:
+          ansible_host: 10.0.19.168
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Binalood2:
+          ansible_host: 10.0.19.171
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        BinaloodG:
+          ansible_host: 10.0.19.167
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Tarazob-G:
+          ansible_host: 10.0.19.7
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Derakhti-1:
+          ansible_host: 10.0.19.13
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Derakhti-2:
+          ansible_host: 10.0.19.161
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Derakhti-G:
+          ansible_host: 10.0.19.5
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-EmadAra-2:
+          ansible_host: 10.0.19.166
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        EmadAra-1:
+          ansible_host: 10.0.19.147
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        EmadAra-G:
+          ansible_host: 10.0.19.146
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Iran-Kaveh-1:
+          ansible_host: 10.0.19.174
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Iran-Kaveh-G:
+          ansible_host: 10.0.19.173
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        1:
+          ansible_host: 10.0.1.182
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Latif-2:
+          ansible_host: 10.0.19.162
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Latif-G:
+          ansible_host: 10.0.19.9
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        G:
+          ansible_host: 10.0.6.28
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Karaj-1:
+          ansible_host: 10.0.12.44
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Karaj-2:
+          ansible_host: 10.0.12.45
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Karaj-3:
+          ansible_host: 10.0.12.46
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Karaj-4:
+          ansible_host: 10.0.12.47
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        NavardKaraj-5:
+          ansible_host: 10.0.12.48
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-PakTeliseh-1:
+          ansible_host: 10.0.19.15
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-PakTeliseh-2:
+          ansible_host: 172.23.51.26
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-PakTeliseh-3:
+          ansible_host: 10.0.19.150
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-PakTeliseh-G:
+          ansible_host: 10.0.19.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Karaj-PC-1:
+          ansible_host: 10.0.19.1
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Karaj-PC-2:
+          ansible_host: 10.0.19.172
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-RadSystem-1:
+          ansible_host: 10.0.6.183
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-RadSystem-2:
+          ansible_host: 10.0.6.254
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-RadSystem-G:
+          ansible_host: 10.0.6.234
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Safadasht-1:
+          ansible_host: 10.0.19.145
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Safadasht-2:
+          ansible_host: 10.0.19.164
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ALZ-Safadasht-G:
+          ansible_host: 10.0.19.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yademan-1:
+          ansible_host: 10.0.19.4
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yademan-2:
+          ansible_host: 10.0.19.8
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yademan-3:
+          ansible_host: 10.0.19.14
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yademan-Lan:
+          ansible_host: 10.0.19.34
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ARD-Ardebil-PC:
+          ansible_host: 10.0.50.43
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-BNG-ASR1:
+          ansible_host: 10.0.1.248
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-BNG-ASR2:
+          ansible_host: 172.24.43.58
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        AGH-Orumieh-PC:
+          ansible_host: 10.0.50.14
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        AGH-Orumieh-PC-1:
+          ansible_host: 10.0.50.75
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Khoy-PC:
+          ansible_host: 10.0.50.69
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ParkJangali-G:
+          ansible_host: 10.0.50.67
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Ailinkam-G:
+          ansible_host: 10.0.20.21
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Mianeh-PC:
+          ansible_host: 192.168.7.218
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        2:
+          ansible_host: 10.0.1.187
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Ahar-PC:
+          ansible_host: 10.0.50.15
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Alipour-G:
+          ansible_host: 10.0.20.24
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Arpadarasi:
+          ansible_host: 192.168.23.102
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Hamgaman-G:
+          ansible_host: 10.0.20.12
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-EmaratSaba-1:
+          ansible_host: 10.0.20.10
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-EmaratSaba-2:
+          ansible_host: 172.23.57.54
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-EmaratSaba-G:
+          ansible_host: 10.0.21.38
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Farhangian-1:
+          ansible_host: 10.0.20.13
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Farhangian-2:
+          ansible_host: 10.0.20.18
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Farhangian-G:
+          ansible_host: 10.0.20.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Layegh-1:
+          ansible_host: 10.0.20.25
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Layegh-G:
+          ansible_host: 10.0.20.23
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Safa-1:
+          ansible_host: 10.0.20.20
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-Safa-G:
+          ansible_host: 10.0.20.19
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tabriz-SC2:
+          ansible_host: 10.0.20.1
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-VarzPazhooh-1:
+          ansible_host: 10.0.20.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-VarzPazhooh-2:
+          ansible_host: 172.23.72.22
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ASH-VarzPazhooh-G:
+          ansible_host: 10.0.20.15
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        PC:
+          ansible_host: 10.0.50.44
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        BSHR-Asalouyeh-PC:
+          ansible_host: 10.0.50.7
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        CHB_ShahreKord_PC:
+          ansible_host: 10.0.50.33
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        SW:
+          ansible_host: 10.0.6.81
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Router:
+          ansible_host: 10.0.1.104
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-AAA-SW:
+          ansible_host: 10.0.1.191
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-Core-SW:
+          ansible_host: 192.168.119.116
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-IXP-SW:
+          ansible_host: 10.0.12.69
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-New-Core-SW:
+          ansible_host: 10.0.12.75
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-CRT:
+          ansible_host: 10.0.1.103
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-EDGE:
+          ansible_host: 10.0.1.215
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-EDGE-2:
+          ansible_host: 10.0.1.183
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-EDGE-TEMP:
+          ansible_host: 10.0.6.14
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-Iran-Edge:
+          ansible_host: 10.0.1.198
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-VPLS:
+          ansible_host: 10.0.1.169
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        New-Core-Switch:
+          ansible_host: 10.0.6.18
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-Iran-Edge:
+          ansible_host: 192.168.80.21
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-VPLS-Nexus:
+          ansible_host: 192.168.0.126
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ahvaz:
+          ansible_host: 192.168.168.226
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        sc1:
+          ansible_host: 10.0.1.254
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Mashhad-SC2-G1:
+          ansible_host: 10.0.22.1
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-CSW1:
+          ansible_host: 10.0.1.64
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-CSW2:
+          ansible_host: 10.0.1.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-CSW3:
+          ansible_host: 10.0.6.206
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-CSW4:
+          ansible_host: 10.0.6.134
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        209:
+          ansible_host: 10.0.1.209
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Almas-3-Dslam:
+          ansible_host: 172.23.184.98
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        baran-mahmodiye:
+          ansible_host: 192.168.180.114
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Erfan-D1:
+          ansible_host: 192.168.56.26
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Erfan-D2:
+          ansible_host: 192.168.56.30
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-EADGE:
+          ansible_host: 10.0.1.215
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        New:
+          ansible_host: 192.168.9.170
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ELM-Eilam-PC:
+          ansible_host: 10.0.50.20
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDC-Juniper-Firewall:
+          ansible_host: 10.0.1.44
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MT:
+          ansible_host: 192.168.152.186
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MT2:
+          ansible_host: 10.0.1.219
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG1:
+          ansible_host: 10.0.1.43
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG2:
+          ansible_host: 10.0.1.68
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Servers:
+          ansible_host: 10.0.1.137
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-IDCG-11:
+          ansible_host: 10.0.6.82
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-IDCG-12:
+          ansible_host: 10.0.12.78
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-IDCG-3:
+          ansible_host: 10.0.1.196
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-IDCG-4:
+          ansible_host: 192.168.155.46
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-IDCG-5:
+          ansible_host: 10.0.1.231
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-IDCG-6:
+          ansible_host: 10.0.1.80
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-IDCG-7:
+          ansible_host: 10.0.6.47
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDC-Juniper:
+          ansible_host: 10.0.1.143
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Dehkadeh-G:
+          ansible_host: 10.0.50.41
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Eram-1:
+          ansible_host: 10.0.16.9
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Eram-G:
+          ansible_host: 10.0.16.21
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-JahanSabz-G:
+          ansible_host: 10.0.17.168
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Jahrom-PC:
+          ansible_host: 10.0.16.17
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Kazeroon-DanaG:
+          ansible_host: 10.0.1.232
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Kazeroon-PC:
+          ansible_host: 192.168.117.195
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Lar-PC:
+          ansible_host: 10.0.50.12
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MarvdashtPC:
+          ansible_host: 10.0.50.4
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Mirdamad-1:
+          ansible_host: 10.0.17.165
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Mirdamad-2:
+          ansible_host: 10.0.17.175
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Mirdamad-G:
+          ansible_host: 10.0.16.13
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Pajooheshkadeh-Mechanic-1:
+          ansible_host: 10.0.17.173
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Pajooheshkadeh-Mechanic-G:
+          ansible_host: 10.0.17.172
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Persian-Pad-1:
+          ansible_host: 10.0.16.20
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Persian-Pad-G:
+          ansible_host: 10.0.16.10
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-IDC-CustomerSW:
+          ansible_host: 10.0.16.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-SC2-IDC-SW1:
+          ansible_host: 192.168.9.170
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Shiraz-SC2-G1-Old:
+          ansible_host: 10.0.16.1
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Shiraz-SC2-G2-New:
+          ansible_host: 10.0.17.176
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Shiraz-SC2-G2-Old:
+          ansible_host: 10.0.16.25
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Shiraz-SC2-POP-SW-1:
+          ansible_host: 10.0.17.177
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Shahr-1:
+          ansible_host: 10.0.17.167
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Shahr-2:
+          ansible_host: 10.0.17.171
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Shahr-G:
+          ansible_host: 10.0.16.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Yeganeh-1:
+          ansible_host: 10.0.16.4
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Yeganeh-2:
+          ansible_host: 10.0.16.7
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Yeganeh-3:
+          ansible_host: 10.0.16.8
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        FRS-Yeganeh-G:
+          ansible_host: 10.0.16.2
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yeganeh-Lan:
+          ansible_host: 10.0.17.2
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yeganeh-LAN1:
+          ansible_host: 10.0.17.2
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Gil-Anzali-PC-G:
+          ansible_host: 10.0.50.47
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        GIL-Rasht-PC-G2-1:
+          ansible_host: 10.0.50.26
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        GIL-Rasht-PC-G2-2:
+          ansible_host: 10.0.50.139
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        GIL-Rasht-PC-IDC-SW:
+          ansible_host: 10.0.50.32
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        GLS-GonbadKavoos-PC:
+          ansible_host: 10.0.50.71
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        GLS-Gorgan-PC:
+          ansible_host: 10.0.50.148
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Hamedan-SC2:
+          ansible_host: 10.0.50.11
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Malayer-PC:
+          ansible_host: 10.0.50.53
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        HMG-Bandar-Emam-Ali:
+          ansible_host: 10.0.50.21
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        HMG-Bandar-Emam-Khomeini:
+          ansible_host: 10.0.50.56
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        HMG-BandarLengeh-G:
+          ansible_host: 10.0.50.1
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        HMG-Kish-PC:
+          ansible_host: 10.0.50.59
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        HMG-Minab-PC:
+          ansible_host: 10.0.50.22
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        HMG-Qeshm-Negin:
+          ansible_host: 10.0.50.45
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        HMG-Toreh-PC:
+          ansible_host: 10.0.50.147
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        HMG-Media-1:
+          ansible_host: 10.0.50.153
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        HMG-Media-G:
+          ansible_host: 10.0.50.152
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Murchehkhort-G:
+          ansible_host: 10.0.25.37
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        AlamAra-LAN:
+          ansible_host: 10.0.25.2
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-AlamAra-1:
+          ansible_host: 10.0.24.2
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-AlamAra-2:
+          ansible_host: 10.0.24.4
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-AlamAra-3:
+          ansible_host: 10.0.24.35
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-AlamAra-G:
+          ansible_host: 10.0.24.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-GitiPasand-G:
+          ansible_host: 10.0.24.13
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Jey-1:
+          ansible_host: 10.0.24.15
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Jey-G:
+          ansible_host: 10.0.24.5
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Kashan-PC:
+          ansible_host: 10.0.50.13
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Kaveh-1:
+          ansible_host: 10.0.24.17
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Kaveh-2:
+          ansible_host: 10.0.24.18
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Kaveh-G:
+          ansible_host: 10.0.24.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Naen-PC:
+          ansible_host: 10.0.24.12
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Isfahan-SC1-G1:
+          ansible_host: 10.0.1.127
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Isfahan-SC1-G2:
+          ansible_host: 10.0.50.74
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-Isfahan-SC2:
+          ansible_host: 10.0.24.10
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ISF-TakNegin-G:
+          ansible_host: 10.0.24.9
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MC:
+          ansible_host: 10.0.50.146
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KRM-Bam-PC:
+          ansible_host: 10.0.50.77
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KRM-Kerman-1:
+          ansible_host: 10.0.50.66
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KRM-Kerman-PC:
+          ansible_host: 10.0.50.28
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KRM-Rafsanjan-pc:
+          ansible_host: 10.0.50.35
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KRM-Sirjan-PC:
+          ansible_host: 10.0.50.134
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KRS-Kermanshah-PC-G1:
+          ansible_host: 10.0.50.2
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KRS-Kermanshah-PC-G2:
+          ansible_host: 10.0.50.78
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Aran-1:
+          ansible_host: 10.0.22.5
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-AranG:
+          ansible_host: 10.0.22.11
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHJ-Birjand-PC:
+          ansible_host: 10.0.50.54
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHSH-Bojnoord-PC:
+          ansible_host: 10.0.50.34
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Etminan:
+          ansible_host: 10.0.22.10
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Etminan-1:
+          ansible_host: 10.0.22.17
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Gonabad-PC:
+          ansible_host: 10.0.50.137
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Khorshid1:
+          ansible_host: 10.0.22.9
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KhorshidG:
+          ansible_host: 10.0.22.7
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Mashhad-SC2-G2:
+          ansible_host: 10.0.22.13
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Neishaboor-PC:
+          ansible_host: 10.0.50.42
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Sabzevar-PC:
+          ansible_host: 10.0.23.36
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Shargh-Raya-1:
+          ansible_host: 10.0.22.8
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Shargh-Raya-2:
+          ansible_host: 10.0.22.15
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Shargh-Raya-G:
+          ansible_host: 10.0.22.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Sepehr-1:
+          ansible_host: 10.0.22.14
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-SepehrG:
+          ansible_host: 10.0.22.12
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Sinoor-1:
+          ansible_host: 10.0.22.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Sinoor-G:
+          ansible_host: 10.0.22.4
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHRZ-Torbat-PC:
+          ansible_host: 10.0.50.58
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        SarbandarG:
+          ansible_host: 10.0.50.40
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHUZ-Dezfoul-PC:
+          ansible_host: 10.0.50.136
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Abadan-PCG:
+          ansible_host: 10.0.50.23
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHUZ-Ahvaz-SC1-G1-1:
+          ansible_host: 10.0.1.254
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHUZ-Ahvaz-SC1-G1-2:
+          ansible_host: 10.0.50.128
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHUZ-Ahvaz-SC1-G2:
+          ansible_host: 10.0.1.243
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHUZ-Ahvaz-SC2-G:
+          ansible_host: 10.0.1.17
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHUZ-Eghbal-1:
+          ansible_host: 10.0.1.78
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KHUZ-Eghbal-G:
+          ansible_host: 10.0.1.77
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KB-Dogonbadan-PC:
+          ansible_host: 10.0.50.3
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KB-Yasuj-PC:
+          ansible_host: 10.0.50.52
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        KRD-Sanandaj-PC:
+          ansible_host: 10.0.50.51
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-Emam-IDCG-7:
+          ansible_host: 10.0.6.47
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-CORE-SW:
+          ansible_host: 10.0.1.209
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-HCC1-SW:
+          ansible_host: 10.0.1.150
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-HCC2-SW:
+          ansible_host: 172.24.43.56
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-LCT-HCC-FCP-SW:
+          ansible_host: 172.24.43.57
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-Server1:
+          ansible_host: 10.0.2.153
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-Server2:
+          ansible_host: 10.0.2.154
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RSPN-Sheikhfazlollah-2:
+          ansible_host: 192.168.198.210
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-IDC-SW1:
+          ansible_host: 10.0.1.216
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-IDC-SW2:
+          ansible_host: 10.0.1.217
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LCT-IDC-SW3:
+          ansible_host: 192.168.153.76
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LRS-KhoramAbad-PC:
+          ansible_host: 10.0.50.19
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MKZ-Khomein-PC:
+          ansible_host: 10.0.50.62
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MRK-Arak-PC:
+          ansible_host: 10.0.50.18
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MRK-Saveh-PC:
+          ansible_host: 10.0.50.49
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MAZ-Amol-PC:
+          ansible_host: 10.0.50.61
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MZN-Chalous:
+          ansible_host: 10.0.50.38
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MZN-Babol-SC2:
+          ansible_host: 10.0.50.8
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MZN-Sari-PC:
+          ansible_host: 10.0.50.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        QAZ-Qazvin-PC:
+          ansible_host: 10.0.50.37
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        QAZ-BalinTech-1:
+          ansible_host: 10.0.50.132
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        QAZ-BalinTech-2:
+          ansible_host: 172.23.30.54
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        QAZ-BalinTech-3:
+          ansible_host: 10.0.50.68
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        QAZ-BalinTech-G:
+          ansible_host: 10.0.50.50
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        QAZ-Barajin:
+          ansible_host: 10.0.50.145
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        QAZ-Parsa-Polymer-1:
+          ansible_host: 10.0.50.73
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        QAZ-Parsa-Polymer-G:
+          ansible_host: 10.0.50.72
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Qom-PC-1:
+          ansible_host: 10.0.50.64
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Qom-PC-G:
+          ansible_host: 10.0.50.80
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Damghan-PC:
+          ansible_host: 10.0.50.65
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Semnan-PC:
+          ansible_host: 10.0.50.60
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        SMN-Shahrood-PC:
+          ansible_host: 10.0.50.144
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        SISTAN-Zabol-PC:
+          ansible_host: 10.0.50.46
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Chabahar:
+          ansible_host: 10.0.50.27
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Zahedan:
+          ansible_host: 10.0.50.17
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-RSPN-Eghtesad-Novin:
+          ansible_host: 10.0.6.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-RSPN-Saudi-Arabia-Embassy:
+          ansible_host: 10.0.7.17
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Abrenik-Core-SW-1:
+          ansible_host: 10.0.10.0
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Abrenik-IDC-Customer-SW:
+          ansible_host: 10.0.10.21
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Abrenik-IDCG-1:
+          ansible_host: 10.0.10.1
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Abrenik-ILO-SW1:
+          ansible_host: 10.0.10.201
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Abrenik-VPN-Concentrator-MT:
+          ansible_host: 10.0.10.22
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aftab-1:
+          ansible_host: 10.0.6.156
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aftab-2:
+          ansible_host: 10.0.7.2
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aftab-3:
+          ansible_host: 10.0.1.180
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aftab-G:
+          ansible_host: 10.0.6.128
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ahangari-1:
+          ansible_host: 10.0.1.25
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ahangari-2:
+          ansible_host: 10.0.12.39
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ahangari-G:
+          ansible_host: 10.0.1.24
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Alborz-1:
+          ansible_host: 10.0.1.108
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Alborz-2:
+          ansible_host: 10.0.1.47
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Alborz-3:
+          ansible_host: 10.0.1.157
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Alborz-4:
+          ansible_host: 10.0.6.75
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Alborz-5:
+          ansible_host: 10.0.1.22
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Allameh-1:
+          ansible_host: 10.0.12.27
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Allameh-G:
+          ansible_host: 10.0.12.26
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Almahdi-1:
+          ansible_host: 10.0.1.203
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Alvand-1:
+          ansible_host: 10.0.6.68
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Alvand-2:
+          ansible_host: 10.0.6.151
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Alvand-3:
+          ansible_host: 10.0.6.23
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Alvand-G:
+          ansible_host: 10.0.6.232
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-AmirAbad-1:
+          ansible_host: 10.0.6.216
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-AmirAbad-2:
+          ansible_host: 10.0.6.145
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-AmirAbad-G:
+          ansible_host: 10.0.1.28
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Anahita-1:
+          ansible_host: 10.0.6.245
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Anahita-2:
+          ansible_host: 172.23.156.234
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Anahita-3:
+          ansible_host: 10.0.12.74
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Anahita-G:
+          ansible_host: 10.0.6.244
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Andisheh-1:
+          ansible_host: 192.168.222.154
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Andisheh-2:
+          ansible_host: 10.0.1.240
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Andisheh-3:
+          ansible_host: 10.0.6.211
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Andisheh-G:
+          ansible_host: 10.0.6.87
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ansar-1:
+          ansible_host: 10.0.6.150
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ansar-2:
+          ansible_host: 10.0.6.199
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ansar-3:
+          ansible_host: 10.0.6.45
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ansar-G:
+          ansible_host: 10.0.6.230
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ariyan-1:
+          ansible_host: 10.0.6.129
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ariyan-2:
+          ansible_host: 10.0.6.24
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ariyan-3:
+          ansible_host: 10.0.6.131
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ariyan-G:
+          ansible_host: 10.0.6.127
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Arjantin-1:
+          ansible_host: 10.0.12.11
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Arjantin-2:
+          ansible_host: 10.0.12.41
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Arjantin-3:
+          ansible_host: 10.0.12.62
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Arjantin-G:
+          ansible_host: 10.0.12.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Asareh-1:
+          ansible_host: 10.0.6.246
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Asareh-2:
+          ansible_host: 10.0.6.20
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Asareh-3:
+          ansible_host: 10.0.12.4
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aseman-1:
+          ansible_host: 10.0.6.29
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aseman-2:
+          ansible_host: 10.0.6.233
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aseman-3:
+          ansible_host: 10.0.1.237
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aseman-G:
+          ansible_host: 10.0.1.7
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aseman-Varamin-1:
+          ansible_host: 10.0.7.18
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Aseman-Varamin-G:
+          ansible_host: 10.0.1.86
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atisaz-1:
+          ansible_host: 10.0.1.51
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atisaz-2:
+          ansible_host: 10.0.1.121
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atisaz-3:
+          ansible_host: 10.0.1.123
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atisaz-4:
+          ansible_host: 10.0.1.124
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atisaz-G:
+          ansible_host: 10.0.6.190
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        AtisazB-1:
+          ansible_host: 10.0.1.146
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        AtisazB-2:
+          ansible_host: 10.0.1.153
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        AtisazB-3:
+          ansible_host: 10.0.1.212
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        AtisazB-G:
+          ansible_host: 10.0.1.13
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atlas-1:
+          ansible_host: 10.0.1.36
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atlas-2:
+          ansible_host: 10.0.1.74
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atlas-3:
+          ansible_host: 10.0.1.151
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atlas-4:
+          ansible_host: 10.0.1.221
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Atlas-5:
+          ansible_host: 10.0.12.68
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Artemis-1:
+          ansible_host: 10.0.1.249
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Artemis-2:
+          ansible_host: 172.23.187.198
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Artemis-3:
+          ansible_host: 10.0.6.8
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Artemis-4:
+          ansible_host: 10.0.12.52
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Artemis-G:
+          ansible_host: 10.0.1.228
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Azadi-1:
+          ansible_host: 10.0.6.243
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Azadi-2:
+          ansible_host: 10.0.1.136
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Azadi-3:
+          ansible_host: 10.0.6.146
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Azadi-4:
+          ansible_host: 10.0.6.222
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Azadi-5:
+          ansible_host: 10.0.12.5
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Azadi-6:
+          ansible_host: 10.0.1.190
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Azadi-7:
+          ansible_host: 10.0.12.60
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Azadi-G:
+          ansible_host: 10.0.6.49
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Behesht-1:
+          ansible_host: 10.0.6.78
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Behesht-2:
+          ansible_host: 10.0.6.119
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Behesht-3:
+          ansible_host: 10.0.1.56
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Behesht-G:
+          ansible_host: 10.0.6.64
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Booali-1:
+          ansible_host: 10.0.1.131
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Booali-2:
+          ansible_host: 10.0.1.45
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Booali-3:
+          ansible_host: 10.0.1.194
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Borj-Lar-1:
+          ansible_host: 10.0.6.175
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Borj-Lar-2:
+          ansible_host: 10.0.1.26
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Borj-Lar-3:
+          ansible_host: 10.0.12.49
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Borj-Lar-G:
+          ansible_host: 172.23.190.17
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-BorjeMehr-1:
+          ansible_host: 10.0.6.118
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-BorjeMehr-2:
+          ansible_host: 10.0.6.79
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-BorjeMehr-3:
+          ansible_host: 10.0.6.203
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-BorjeMehr-G:
+          ansible_host: 10.0.6.224
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Boukan1:
+          ansible_host: 10.0.6.188
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Boukan-G:
+          ansible_host: 10.0.6.182
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Bozorg-Mehr-1:
+          ansible_host: 10.0.6.74
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Bozorg-Mehr-2:
+          ansible_host: 10.0.6.130
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Bozorg-Mehr-3:
+          ansible_host: 10.0.6.200
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Bozorg-Mehr-4:
+          ansible_host: 10.0.1.57
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Bozorg-Mehr-G:
+          ansible_host: 10.0.6.27
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        BUM-Aghigh-1:
+          ansible_host: 10.0.6.132
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        BUM-Aghigh-G:
+          ansible_host: 10.0.6.10
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-ChehelSotoun-1:
+          ansible_host: 192.168.58.170
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-ChehelSotoun-2:
+          ansible_host: 10.0.6.77
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-ChehelSotoun-3:
+          ansible_host: 10.0.6.161
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-ChehelSotoun-4:
+          ansible_host: 172.23.162.22
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-ChehelSotoun-5:
+          ansible_host: 10.0.12.21
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-ChehelSotoun-G:
+          ansible_host: 10.0.1.128
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-ILO-SW1:
+          ansible_host: 192.168.153.230
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Emam-ILO-SW2:
+          ansible_host: 192.168.153.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Edge:
+          ansible_host: 10.0.1.215
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Darabad-1:
+          ansible_host: 10.0.1.129
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Darabad-G:
+          ansible_host: 10.0.1.114
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Dariush-1:
+          ansible_host: 10.0.6.218
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Dariush-G:
+          ansible_host: 10.0.6.217
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Darya-1:
+          ansible_host: 10.0.6.116
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Darya-G:
+          ansible_host: 10.0.6.227
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        5:
+          ansible_host: 10.0.6.34
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Dooma-1:
+          ansible_host: 10.0.1.70
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Dooma-2:
+          ansible_host: 10.0.1.76
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Dooma-3:
+          ansible_host: 10.0.1.82
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Dooma-4:
+          ansible_host: 10.0.1.85
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        EbneSina-1:
+          ansible_host: 10.0.6.73
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        EbneSina-2:
+          ansible_host: 10.0.6.86
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        EbneSina-3:
+          ansible_host: 10.0.6.44
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        EbneSina-4:
+          ansible_host: 10.0.6.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        EbneSina-G:
+          ansible_host: 10.0.6.220
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        EmamzadeGhasem2:
+          ansible_host: 10.0.12.42
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-EmamzadeGhasem-1:
+          ansible_host: 10.0.6.219
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-EmamzadeGhasem-G:
+          ansible_host: 10.0.6.153
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Erfan-1:
+          ansible_host: 10.0.6.149
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Erfan-G:
+          ansible_host: 10.0.1.8
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Eskan-1:
+          ansible_host: 10.0.6.59
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Eskan-2:
+          ansible_host: 10.0.1.11
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Eskan-3:
+          ansible_host: 10.0.6.35
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Eskan-4:
+          ansible_host: 10.0.6.76
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Eskan-G:
+          ansible_host: 10.0.1.173
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-EskanC-1:
+          ansible_host: 10.0.6.85
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-EskanC-2:
+          ansible_host: 10.0.6.144
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-EskanC-3:
+          ansible_host: 172.23.172.10
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-EskanC-G:
+          ansible_host: 10.0.6.242
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Eslamshahr-1:
+          ansible_host: 10.0.50.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Eslamshahr-PC:
+          ansible_host: 10.0.50.141
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-JouyaFelez-1:
+          ansible_host: 10.0.6.43
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-JouyaFelez-2:
+          ansible_host: 10.0.6.19
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-JouyaFelez-G:
+          ansible_host: 10.0.6.42
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Irankhodro-1:
+          ansible_host: 10.0.1.199
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Irankhodro-2:
+          ansible_host: 10.0.1.145
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Irankhodro-3:
+          ansible_host: 10.0.12.9
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Irankhodro-G:
+          ansible_host: 10.0.1.223
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-FarhangianE2-1:
+          ansible_host: 10.0.6.221
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-FarhangianE2-2:
+          ansible_host: 172.23.134.162
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-FarhangianE2-G:
+          ansible_host: 172.23.134.165
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Ferdosi-1:
+          ansible_host: 10.0.1.141
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Ferdosi-2:
+          ansible_host: 10.0.1.147
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Ferdosi-3:
+          ansible_host: 10.0.1.154
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Ferdosi-4:
+          ansible_host: 10.0.1.218
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Gholhak-1:
+          ansible_host: 10.0.6.12
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Gholhak-2:
+          ansible_host: 10.0.12.1
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Gholhak-G:
+          ansible_host: 10.0.6.11
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ghouchak-PC:
+          ansible_host: 10.0.12.54
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Golnaz-1:
+          ansible_host: 10.0.1.193
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Golnaz-2:
+          ansible_host: 10.0.1.213
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Golnaz-3:
+          ansible_host: 10.0.1.234
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        SW7:
+          ansible_host: 192.168.119.116
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG-1:
+          ansible_host: 10.0.1.43
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG-10:
+          ansible_host: 10.0.6.208
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG-2:
+          ansible_host: 10.0.1.68
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG-3:
+          ansible_host: 10.0.1.196
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG-4:
+          ansible_host: 10.0.1.230
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG-5:
+          ansible_host: 10.0.1.231
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG-6:
+          ansible_host: 10.0.1.80
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDCG-8:
+          ansible_host: 10.0.6.13
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        EmamIDCG-7:
+          ansible_host: 10.0.6.47
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Juniper:
+          ansible_host: 10.0.1.143
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        IDC-SW3:
+          ansible_host: 10.0.6.214
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Iranchap-1:
+          ansible_host: 10.0.6.166
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Iranchap-2:
+          ansible_host: 10.0.12.0
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Iranchap-G:
+          ansible_host: 10.0.6.165
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Iranian-1:
+          ansible_host: 10.0.1.107
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Iranian-2:
+          ansible_host: 10.0.1.69
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Iranian-3:
+          ansible_host: 10.0.1.120
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Iranian-4:
+          ansible_host: 10.0.1.40
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-JamCenter-1:
+          ansible_host: 10.0.1.179
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-JamCenter-G:
+          ansible_host: 10.0.6.41
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Jame-Jam-1:
+          ansible_host: 10.0.12.12
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Jame-Jam-2:
+          ansible_host: 10.0.6.148
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Jame-Jam-G:
+          ansible_host: 10.0.12.13
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Karimkhan-1:
+          ansible_host: 10.0.1.139
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Karimkhan-2:
+          ansible_host: 10.0.1.144
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Karimkhan-3:
+          ansible_host: 10.0.1.116
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Karimkhan-4:
+          ansible_host: 10.0.1.27
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Koohestan-G:
+          ansible_host: 10.0.1.6
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Kosar-1:
+          ansible_host: 10.0.1.59
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Kosar-G:
+          ansible_host: 10.0.1.23
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Lavasan-1:
+          ansible_host: 10.0.12.58
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Lavasan-G:
+          ansible_host: 10.0.12.57
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MahestanB-1:
+          ansible_host: 10.0.1.94
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MahestanB-2:
+          ansible_host: 10.0.1.101
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MahestanB-3:
+          ansible_host: 10.0.1.113
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MahestanB-4:
+          ansible_host: 10.0.1.126
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MahestanB-5:
+          ansible_host: 10.0.1.229
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Mahestanb-6:
+          ansible_host: 10.0.6.238
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MahestanB-7:
+          ansible_host: 10.0.6.32
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        MahestanB-G:
+          ansible_host: 10.0.1.102
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Marjan-1:
+          ansible_host: 10.0.6.158
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Marjan-2:
+          ansible_host: 10.0.1.9
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Marjan-3:
+          ansible_host: 10.0.12.40
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Marjan-G:
+          ansible_host: 10.0.6.157
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-MicroMoj-1:
+          ansible_host: 172.23.201.2
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-MicroMoj-2:
+          ansible_host: 10.0.1.55
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-MicroMoj-3:
+          ansible_host: 10.0.7.12
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-MicroMoj-G:
+          ansible_host: 10.0.6.235
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Mina-1:
+          ansible_host: 10.0.1.67
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Mina-2:
+          ansible_host: 10.0.1.81
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Mina-3:
+          ansible_host: 10.0.1.95
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Mina-4:
+          ansible_host: 10.0.1.88
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Morvarid-1:
+          ansible_host: 10.0.6.3
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Morvarid-2:
+          ansible_host: 10.0.12.38
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Morvarid-G:
+          ansible_host: 10.0.6.2
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Navard-1:
+          ansible_host: 10.0.1.60
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Navard-2:
+          ansible_host: 10.0.1.48
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Navard-3:
+          ansible_host: 10.0.1.62
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Navard-4:
+          ansible_host: 10.0.1.72
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Negin-1:
+          ansible_host: 10.0.1.135
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Negin-2:
+          ansible_host: 10.0.1.49
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Negin-3:
+          ansible_host: 10.0.1.152
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Negin-4:
+          ansible_host: 10.0.1.33
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Negin-5:
+          ansible_host: 10.0.6.70
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Ofogh-4:
+          ansible_host: 10.0.6.83
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Ofogh-G:
+          ansible_host: 10.0.1.206
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-PamA-1:
+          ansible_host: 10.0.1.91
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-PamA-2:
+          ansible_host: 10.0.1.98
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-PamA-3:
+          ansible_host: 10.0.1.106
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-PamA-4:
+          ansible_host: 10.0.1.112
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-PamA-5:
+          ansible_host: 10.0.1.53
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-PamB-1:
+          ansible_host: 10.0.12.33
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-PamB-2:
+          ansible_host: 10.0.12.61
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Pam-G:
+          ansible_host: 10.0.12.32
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Pamchal-1:
+          ansible_host: 10.0.1.201
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Pamchal-2:
+          ansible_host: 10.0.6.36
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Pardis-1:
+          ansible_host: 10.0.6.210
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Pardis-G:
+          ansible_host: 10.0.6.209
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Pardisan-1:
+          ansible_host: 10.0.6.21
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Pardisan-2:
+          ansible_host: 10.0.6.7
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Pardisan-G:
+          ansible_host: 10.0.6.176
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-ParsElectric-1:
+          ansible_host: 10.0.12.29
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-ParsElectric-G:
+          ansible_host: 10.0.12.28
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Pirooz-1:
+          ansible_host: 10.0.6.57
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Pirooz-2:
+          ansible_host: 10.0.6.67
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Pirooz-G:
+          ansible_host: 10.0.6.31
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Rayan-1:
+          ansible_host: 10.0.6.250
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Rayan-2:
+          ansible_host: 10.0.6.9
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Rayan-3:
+          ansible_host: 10.0.12.51
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Rayan-4:
+          ansible_host: 10.0.6.248
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Rayan-G:
+          ansible_host: 172.23.189.1
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Razaviyeh-1:
+          ansible_host: 10.0.12.91
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Razaviyeh-G:
+          ansible_host: 10.0.12.90
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RezinNational-1:
+          ansible_host: 10.0.12.15
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RezinNational-G:
+          ansible_host: 10.0.12.14
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Rose-1:
+          ansible_host: 10.0.6.223
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Rose-2:
+          ansible_host: 192.168.210.234
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Rose-G:
+          ansible_host: 10.0.6.117
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RoseMirdamadG:
+          ansible_host: 10.0.1.181
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RoseMirdamad-Mojtamae-1:
+          ansible_host: 10.0.12.64
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        RoseMirdamad-Mojtamae-G:
+          ansible_host: 10.0.12.63
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Saadi-1:
+          ansible_host: 10.0.6.180
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Saadi-G:
+          ansible_host: 10.0.6.163
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Saba-1:
+          ansible_host: 10.0.1.39
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Saba-2:
+          ansible_host: 10.0.1.84
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Saba-3:
+          ansible_host: 10.0.1.34
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Saba-4:
+          ansible_host: 10.0.1.222
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Saba-5:
+          ansible_host: 10.0.1.189
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Sadaf-1:
+          ansible_host: 10.0.1.93
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Sadaf-2:
+          ansible_host: 10.0.1.111
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Sadaf-3:
+          ansible_host: 10.0.1.61
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Sadaf-4:
+          ansible_host: 10.0.1.122
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Saei-1:
+          ansible_host: 10.0.12.128
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Saei-G:
+          ansible_host: 10.0.1.188
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Safir-1:
+          ansible_host: 10.0.1.96
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Safir-2:
+          ansible_host: 10.0.1.100
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Safir-3:
+          ansible_host: 10.0.1.109
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Safir-4:
+          ansible_host: 10.0.1.117
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Saman-1:
+          ansible_host: 192.168.57.146
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Saman-G:
+          ansible_host: 10.0.1.158
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Samarghand-1:
+          ansible_host: 10.0.1.105
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Samarghand-2:
+          ansible_host: 10.0.1.211
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Samarghand-3:
+          ansible_host: 10.0.6.66
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Samarghand-4:
+          ansible_host: 10.0.12.59
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Samarghand-G:
+          ansible_host: 10.0.1.210
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Sazman-Ab-1:
+          ansible_host: 10.0.1.239
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Sazman-Ab-2:
+          ansible_host: 10.0.1.251
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Sazman-Ab-3:
+          ansible_host: 10.0.6.177
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Sazman-Ab-G:
+          ansible_host: 10.0.1.238
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        SedaSima-1:
+          ansible_host: 10.0.1.142
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        SedaSima-2:
+          ansible_host: 10.0.1.149
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        SedaSima-3:
+          ansible_host: 10.0.1.71
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Sedasima-4:
+          ansible_host: 10.0.1.155
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-SedaSimaA-1:
+          ansible_host: 10.0.6.162
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-SedaSimaA-2:
+          ansible_host: 10.0.6.247
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-SedaSimaA-3:
+          ansible_host: 10.0.6.201
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-SedaSimaA-G:
+          ansible_host: 10.0.6.69
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-SepehrNiavaran-1:
+          ansible_host: 10.0.1.185
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-SepehrNiavaran-G:
+          ansible_host: 10.0.1.184
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Seraj-1:
+          ansible_host: 10.0.12.93
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Seraj-G:
+          ansible_host: 10.0.12.92
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Shahparian-1:
+          ansible_host: 10.0.7.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Shahparian-G:
+          ansible_host: 10.0.7.15
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Shemshal-1:
+          ansible_host: 10.0.6.181
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Shemshal-2:
+          ansible_host: 10.0.6.17
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Simachoub-1:
+          ansible_host: 10.0.12.23
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Simachoub-2:
+          ansible_host: 10.0.12.53
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Simachoub-G:
+          ansible_host: 10.0.12.22
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tandis-1:
+          ansible_host: 10.0.1.227
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tandis-2:
+          ansible_host: 10.0.1.242
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tandis-3:
+          ansible_host: 10.0.6.71
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tandis-4:
+          ansible_host: 10.0.6.22
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tandis-G:
+          ansible_host: 10.0.1.226
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        DMZ:
+          ansible_host: 10.0.4.5
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        LAN-Tavanir:
+          ansible_host: 10.0.2.158
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        PIX:
+          ansible_host: 10.0.3.141
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        UTM:
+          ansible_host: 10.0.0.33
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tavanir-1:
+          ansible_host: 10.0.1.148
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tavanir-2:
+          ansible_host: 10.0.1.92
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tavanir-3:
+          ansible_host: 10.0.1.110
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tavanir-4:
+          ansible_host: 10.0.1.118
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tavanir-5:
+          ansible_host: 10.0.1.12
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tavanir-Colocation:
+          ansible_host: 10.0.1.132
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tavanir-G:
+          ansible_host: 10.0.1.10
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tehransar-1:
+          ansible_host: 10.0.1.247
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tehransar-2:
+          ansible_host: 10.0.6.226
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tehransar-3:
+          ansible_host: 10.0.6.84
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tehransar-4:
+          ansible_host: 10.0.6.155
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tehransar-G:
+          ansible_host: 10.0.1.246
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tochal-1:
+          ansible_host: 10.0.6.187
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tochal-G:
+          ansible_host: 10.0.6.186
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tohid-1:
+          ansible_host: 10.0.12.10
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tohid-2:
+          ansible_host: 10.0.12.65
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Tohid-G:
+          ansible_host: 10.0.12.7
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Tonel-G:
+          ansible_host: 10.0.6.215
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Interanet:
+          ansible_host: 10.0.1.54
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Valiasr-2:
+          ansible_host: 10.0.1.83
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Valiasr-5:
+          ansible_host: 10.0.1.99
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Valiasr-G:
+          ansible_host: 10.0.1.119
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        NEW-TEH-Venous-1:
+          ansible_host: 10.0.12.17
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        NEW-TEH-Venous-3:
+          ansible_host: 10.0.12.19
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Venus-2:
+          ansible_host: 10.0.12.18
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Venus-G:
+          ansible_host: 10.0.12.16
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yaran-1:
+          ansible_host: 10.0.6.240
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yaran-2:
+          ansible_host: 10.0.6.135
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yaran-3:
+          ansible_host: 10.0.6.174
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Yaran-G:
+          ansible_host: 10.0.1.29
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Zeytoun-1:
+          ansible_host: 10.0.12.25
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Zeytoun-2:
+          ansible_host: 10.0.12.34
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Zeytun-G:
+          ansible_host: 10.0.12.24
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ziba-1:
+          ansible_host: 10.0.6.236
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ziba-2:
+          ansible_host: 10.0.6.229
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ziba-3:
+          ansible_host: 10.0.6.56
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ziba-4:
+          ansible_host: 10.0.6.58
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        TEH-Ziba-G:
+          ansible_host: 10.0.6.225
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        YZ-Yazd-PC-1:
+          ansible_host: 10.0.50.70
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        YZ-Yazd-PC-G:
+          ansible_host: 10.0.50.36
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        Zanjan-PC-G:
+          ansible_host: 10.0.50.133
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        ADSL:
+          ansible_host: 10.0.16.14
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
+        CRT:
+          ansible_host: 10.0.1.103
+          ansible_password: 3pehr.emAAAAA
+          ansible_user: se.emami
