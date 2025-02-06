@@ -1,0 +1,3998 @@
+ipaddress   Description                                                                          
+5.160.20.88	Eedeh Negar Saadat Abaad					
+5.160.20.89	Eedeh Negar Saadat Abaad					
+5.160.20.90	Eedeh Negar Saadat Abaad					
+5.160.20.91	Eedeh Negar Saadat Abaad					
+5.160.20.92	Eedeh Negar Saadat Abaad					
+5.160.20.93	Eedeh Negar Saadat Abaad					
+5.160.20.94	Eedeh Negar Saadat Abaad					
+5.160.20.95	Eedeh Negar Saadat Abaad					
+5.160.52.241	RTE-P1-001----loopback1			RTE-P1-001		
+5.160.52.242	RTE-P1-001----loopback1			RTE-P1-001		
+5.160.53.209	TEH-Tavanir-G___Gi 1/34			TEH-Tavanir-G		
+5.160.53.210	RTE-P1-001----Eth2			RTE-P1-001		
+5.160.53.241						
+5.160.53.253	IP Gateway			SWDMZ		
+5.160.53.254	mis.respina.net	Pedaran				
+5.160.90.250	probe-lct.respina.net					
+5.160.127.227	Mr.Mohammadzadeh					
+5.160.127.228	Mr.Sarkari					
+5.160.127.229	Ms.IzadPanah						Ms.IzadPanah
+5.160.127.230	Ms.Nazeriyan						Ms.Nazeriyan
+5.160.138.97	RSPN-ESX-ILO					
+5.160.138.98	RSPN-ESX-ILO					
+5.160.139.18	PSW01					
+5.160.139.19	PSW02					
+5.160.139.20	PSW03					
+5.160.139.21	PSW04					
+5.160.139.22	PSW05					
+5.160.139.23	PSW06					
+5.160.139.24	PSW07					
+5.160.139.25	PSW08					
+5.160.139.26	PSW09					
+5.160.139.27	PSW10					
+5.160.139.28	sib-rspn-ir					
+5.160.139.70	db-postgres-mongo 					
+5.160.139.74	IBSng-DataBase					
+5.160.139.170	IBSng-DataBase					
+5.160.139.242	iLO					
+5.160.176.1	RTL-BS-001-Bridge Vlan 101	Shiraz				
+5.160.176.9		Shiraz	RSPNS-Yeganeh-CSWG			
+5.160.176.10		Shiraz	Yeganeh-Firewall			
+5.160.176.65	PRTG					
+5.160.176.66							Was Uplink Checker NAT
+5.160.176.67	Mr.Sayadi	TCC				
+5.160.176.68	Mr.Soleymani	TCC				
+5.160.176.69	Mr.Rais Zadeh	Sales				
+5.160.176.70	Mr.Saadat	NOC				
+5.160.176.71	Mr.Ghorbanzadeh	Management				
+5.160.176.72	Ms.Deghat	Sales				
+5.160.176.73	Ms.Soltanian	Finance				
+5.160.176.74	Ms.Hafez Zadeh	HR				
+5.160.176.75	OP Manager					
+5.160.176.76	STG Server					
+5.160.176.77	DC					
+5.160.176.78	Mr.Sheybani	Sales				
+5.160.176.79	Ms.Hemat	Sales				
+5.160.176.80	Uplink Checker NAT					
+5.160.176.81	Mr.Borzoo	Sale				
+5.160.176.82	Ms.Davanizadeh					
+5.160.176.94						
+5.160.177.0	Loopback02 Valiasr PPPOE-Server						Loopback02 Valiasr PPPOE-Server
+5.160.243.84						
+10.0.0.37	G.W					
+10.0.0.38							
+10.0.1.3	Sazman-Ab-2					
+10.0.1.4				TEH-Venus-G-Mgmt		
+10.0.1.5				TEH-Booali-G		
+10.0.1.6		Koohestan Loopback					Koohestan
+10.0.1.7		Teh-Aseman-Loopback		Teh-Aseman-		
+10.0.1.11	TEH-Eskan-G-New						TEH-Eskan-G-New
+10.0.1.17	Saba 4					
+10.0.1.18	Atlas 4					
+10.0.1.27	Pasdaran - Parseh					
+10.0.1.33	Negin 4						Negin 4
+10.0.1.34	Saba3					
+10.0.1.35	AtlasG					
+10.0.1.36	Atlas1					
+10.0.1.37	KarimkhanG-Lo2					
+10.0.1.38	SabaG					
+10.0.1.39	Saba1					
+10.0.1.40	Iranian4					
+10.0.1.41	LCT Router-Lo3					
+10.0.1.42	GolnazG					
+10.0.1.43	Emam-IDC-G1					
+10.0.1.44	Emam-IDC-Firewall					
+10.0.1.45	Booali2					
+10.0.1.46	SafirG					
+10.0.1.47	Alborz2					
+10.0.1.48	Navard2					
+10.0.1.49	Negin 2					
+10.0.1.50	IranianG					
+10.0.1.51	Atisaz1					
+10.0.1.52	AtisazG					
+10.0.1.53	Pam5 					
+10.0.1.54	Tunnel5					
+10.0.1.55	Free					
+10.0.1.56	Free					
+10.0.1.57	Free					
+10.0.1.58	Hezardastan-3560E					
+10.0.1.59	Navard Karaj1					
+10.0.1.60	Navard1					
+10.0.1.61	Sadaf3					
+10.0.1.62	Navard3					
+10.0.1.64	CSW01-3850						CSW01-3850
+10.0.1.65	SedaSimaG					
+10.0.1.66	TEH-Ariyan3					
+10.0.1.67	Mina1					
+10.0.1.68	Emam-IDC-G2-Lo0					
+10.0.1.69	Iranian2					
+10.0.1.70	Dooma1					
+10.0.1.71	SedaSima3					
+10.0.1.72	Access1-Lo4					
+10.0.1.73	TEH-Venous-G-New					
+10.0.1.74	Atlas2					
+10.0.1.75	TEH-Eskan-G-New					
+10.0.1.76	Dooma2					
+10.0.1.77	Navard Karaj2					
+10.0.1.78	Navard KarajG					
+10.0.1.79	Valiasr1					
+10.0.1.80	Free					
+10.0.1.81	Mina2					
+10.0.1.82	Dooma3					
+10.0.1.83	Valiasr2					
+10.0.1.84	Saba2					
+10.0.1.85	Dooma4					
+10.0.1.86	Valiasr3					
+10.0.1.87	Tavanir1					
+10.0.1.88	Mina4					
+10.0.1.89	Valiasr4					
+10.0.1.90	Navard Karaj3					
+10.0.1.91	Pam1					
+10.0.1.92	Tavanir2					
+10.0.1.93	Sadaf1					
+10.0.1.94	MahestanB1					
+10.0.1.95	Mina3					
+10.0.1.96	Safir1					
+10.0.1.97	DoomaG					
+10.0.1.98	Pam2					
+10.0.1.99	Valiasr5					
+10.0.1.100	Safir2					
+10.0.1.101	MahestanB2					
+10.0.1.102	MahestanBG					
+10.0.1.103	LCT Router					
+10.0.1.104	Imam Router					
+10.0.1.105	ُSamarghand1					
+10.0.1.106	Pam3					
+10.0.1.107	Iranian1					
+10.0.1.108	Alborz1					
+10.0.1.109	Safir3					
+10.0.1.110	Tavanir3					
+10.0.1.111	Sadaf2					
+10.0.1.112	Pam4					
+10.0.1.113	MahestanB3 					
+10.0.1.114	NavardKaraj4					
+10.0.1.115	NavardG					
+10.0.1.116	Karimkhan3					
+10.0.1.117	Safir4					
+10.0.1.118	Tavanir4					
+10.0.1.119	ValiasrG					
+10.0.1.120	Iranian3					
+10.0.1.121	Atisaz2					
+10.0.1.122	Sadaf4					
+10.0.1.123	Atisaz3					
+10.0.1.124	Atisaz4					
+10.0.1.125	MinaG					
+10.0.1.126	MahesatnB4					
+10.0.1.128	Chehelsoton					
+10.0.1.129	PamG					
+10.0.1.130	TavanirG					
+10.0.1.131	Booali1					
+10.0.1.132	Tavanir Colocation					
+10.0.1.133	Tunnel5					
+10.0.1.134	NeginG					
+10.0.1.135	Negin1					
+10.0.1.136						
+10.0.1.137	Emam-Servers					
+10.0.1.138	KarimkhanG					
+10.0.1.139	Karimkhan1					
+10.0.1.140	FerdosiG					
+10.0.1.141	Ferdosi1					
+10.0.1.142	Seda Sima1					
+10.0.1.143	Emam-IDC-Juniper					
+10.0.1.144	Karimkhan2					
+10.0.1.145	Free					
+10.0.1.146	AtisazB1					
+10.0.1.147	Ferdosi2					
+10.0.1.148	LCT Tunnel					
+10.0.1.149	Seda Sima2					
+10.0.1.150	KDC1					
+10.0.1.151	Atlas3					
+10.0.1.152	Negin3					
+10.0.1.153	AtisazB3					
+10.0.1.154	Ferdosi3					
+10.0.1.155	Sedasima4					
+10.0.1.156	Tunnel Source for Golestan Borj Sayeh					
+10.0.1.157	Alborz3					
+10.0.1.158	Hotel Saman					
+10.0.1.159	Emam-Spammer					
+10.0.1.160							
+10.0.1.161						
+10.0.1.169	LCT-Core-Router					
+10.0.1.170	LCT-Edge-Router					
+10.0.1.171	LCT-Core-SW1					
+10.0.1.172	LCT-Core-SW2					
+10.0.1.173	TEH-Eskan-G-New						TEH-Eskan-G-New
+10.0.1.192	TEH-Venous-2						TEH-Venous-2
+10.0.1.193	Golnaz1					
+10.0.1.194	Booali3					
+10.0.1.195	SadafG					
+10.0.1.196	IDCG03	IDC Emam	3560E			
+10.0.1.197	EMAM Router New		3560v2			
+10.0.1.198	LCT-Iran-Edge					
+10.0.1.199	TEH-Irankhodro-1		TEH-Irankhodro-1			
+10.0.1.200	PamchalG					
+10.0.1.201	Pamchal1					
+10.0.1.202	Loopback LCT 66					
+10.0.1.203	Almahdi1					
+10.0.1.204	AlmahdiG					
+10.0.1.205	LoopbackTest For CRT Cacti					
+10.0.1.206	OfoghG					
+10.0.1.207	Ofogh1					
+10.0.1.208	Free					
+10.0.1.209	Free					
+10.0.1.210	SamarghandG					
+10.0.1.211	Samarghand2					
+10.0.1.212	AtisazB3					
+10.0.1.213	Golnaz2					
+10.0.1.214	AlborzG					
+10.0.1.215	RSPN-LCT-Edge					
+10.0.1.216	LCT-IDC-SW1					
+10.0.1.217	LCT-IDC-SW2					
+10.0.1.218	LCT-IDC-Mik-Loopback1	LCT-IDC	LCT-IDC-Mik	LCT-IDC-Mik		
+10.0.1.219	LCT-IDC-Mik-Loopback2	LCT-IDC	LCT-IDC-Mik	LCT-IDC-Mik		
+10.0.1.220	LCT-CRT Loopback77					
+10.0.1.221	Atlas4					
+10.0.1.222	Saba4					
+10.0.1.223	Irankhodro					
+10.0.1.224	Free					
+10.0.1.225	ADSL-LNS1					
+10.0.1.226	TandisG					
+10.0.1.227	Tandis1					
+10.0.1.228	Free					
+10.0.1.229	Mahestan-B5					
+10.0.1.230	EmamIDCG4					
+10.0.1.231	Emam-IDC-G5					
+10.0.1.232	FRS-Kazeroon					
+10.0.1.233	LCT CISCO BRAS 02					
+10.0.1.234	Golnaz3					
+10.0.1.235	QOM-PC1-G					
+10.0.1.236	SW-Qeshm-VPLS					
+10.0.1.237	TEH-Aseman-3					
+10.0.1.238	Sazman-Ab-G					
+10.0.1.239	Sazman-Ab-1					
+10.0.1.240	Boomerang					
+10.0.1.241	Source Tunnel-For Asalouye					
+10.0.1.242	Ahwaz-Sc2					
+10.0.1.243	Free					
+10.0.1.244	Source Tunnel-For Asalouye					
+10.0.1.245	Asalouyeh Loopback2					
+10.0.1.246	TEH-Tehransar-G					
+10.0.1.247	TEH-Tehransar-1					
+10.0.1.248	Esfehan-SC1-1G-Switch					
+10.0.1.249	Free					
+10.0.1.250	LCT-Spam-Filter	Edge-Gi2/1	Mikrotik			
+10.0.1.251	Sazman-Ab-2					
+10.0.1.252	TEH-Ofogh-2		Cisco 3560G			
+10.0.1.253	Mikrotik-BRAS-3					
+10.0.1.254	AWZ-SC1					
+10.0.1.255	Tavanir-Mikrotik-Monitor Port					
+10.0.2.57						
+10.0.2.58						
+10.0.2.145						
+10.0.2.146						
+10.0.2.147						
+10.0.2.148						
+10.0.2.149						
+10.0.2.150						
+10.0.2.151						
+10.0.2.152						
+10.0.2.153						
+10.0.2.154						
+10.0.2.155						
+10.0.2.158						
+10.0.2.161						
+10.0.2.162						
+10.0.2.163						
+10.0.2.164						
+10.0.2.165						
+10.0.2.166						
+10.0.2.167						
+10.0.2.168						
+10.0.2.169						
+10.0.2.170						
+10.0.2.171						
+10.0.2.172						
+10.0.2.173						
+10.0.2.193						
+10.0.2.194						
+10.0.2.195						
+10.0.2.196						
+10.0.3.1						
+10.0.3.2	 PRTG-BB-LCT.respina.net					
+10.0.3.6	 IVW67-PRTGCS-1.respina.net					
+10.0.3.10	 IVW62-PRTGCS2-1.respina.net					
+10.0.3.14	 IVW75-PRTGVIP1.respina.net					
+10.0.3.58						
+10.0.3.59						
+10.0.3.129						
+10.0.3.131						
+10.0.3.133							"
+"
+10.0.3.145						
+10.0.3.146						
+10.0.3.161						
+10.0.3.162						
+10.0.3.163						
+10.0.3.178						
+10.0.3.179						
+10.0.3.180						
+10.0.3.190						
+10.0.4.5						
+10.0.5.1	Default Gateway__vlan 6 on SWC-P1-001			SWC-P1-001		
+10.0.5.2						
+10.0.5.3						
+10.0.5.4						
+10.0.5.5						
+10.0.5.6						
+10.0.5.7						
+10.0.5.8				TEH-Tavanir-G__vlan3		
+10.0.5.9	Uplink Checker Vlan3 on TEH-Tavanir-G			TEH-Tavanir-G__vlan3		
+10.0.5.10				TEH-Tavanir-G__vlan3		
+10.0.5.11				TEH-Tavanir-G__vlan3		
+10.0.5.12				TEH-Tavanir-G__vlan3		
+10.0.5.13				TEH-Tavanir-G__vlan3		
+10.0.5.14				TEH-Tavanir-G__vlan3		
+10.0.5.15				TEH-Tavanir-G__vlan3		
+10.0.5.16						
+10.0.5.17	uplinkchecker#11		Vlan 6 __ SWC-P1-001	uplink.respina.net		
+10.0.5.18	New Uplink Checker#12		the same machine as 10.0.5.17			
+10.0.5.19	New Uplink Checker#13		the same machine as 10.0.5.17			
+10.0.5.20	New Uplink Checker#14		the same machine as 10.0.5.17			
+10.0.5.21	New Uplink Checker#15		the same machine as 10.0.5.17			
+10.0.5.22						
+10.0.5.23						
+10.0.5.24						
+10.0.5.25						
+10.0.5.26						
+10.0.5.27						
+10.0.5.28						
+10.0.5.29						
+10.0.5.30						
+10.0.5.36	DC5.respina.net					
+10.0.5.45	Gateway __Vlan 10 _ SWS-Core-P1-000-	Pedaran		SWS-Core-P1-000-		
+10.0.5.55	DC1.respina.net					
+10.0.5.65	g.w					
+10.0.5.66	HA-PRTGCUSTOMER2					
+10.0.5.69	GW					
+10.0.5.70	NOC-Monitoring-Server	SWA-P2-001 __ Fa 0/4		DESKTOP-E9JV8AU		
+10.0.5.73	Default Gateway - Vlan 7			SWC-P1-001		
+10.0.5.74	NOC monitoring PC					
+10.0.5.77	GW			SWS-P1-000-Core__Vlan8		
+10.0.5.78	IVL-NTP01.respina.net					
+10.0.5.81	GW			SWC-P1-001--Vlan7		
+10.0.5.82	PRTG-WAN-PROBE(NAT-IP)			EDGE-Anti-LCT-Spammer-MT			
+10.0.5.83	PRTG-WAN-PROBE(NAT-IP)			EDGE-Anti-LCT-Spammer-MT		
+10.0.5.84	prtg-backbone						prtg-backbone
+10.0.5.85	PRTG-WAN-PROBE(NAT-IP)			EDGE-Anti-LCT-Spammer-MT		
+10.0.5.86	PRTG-WAN-PROBE(NAT-IP)			EDGE-Anti-LCT-Spammer-MT		
+10.0.5.89	SWC-P1-001__Vlan7					
+10.0.5.90						
+10.0.5.93	Default Gateway - Vlan 10			SWS-P1-000-Core		
+10.0.5.94	Active Directory & DNS Server			dc1.respina.net			"pdc.respina.net
+dc6.respina.net"
+10.0.5.97	SWC-P1-001__Vlan7					
+10.0.5.98	PRTG-Customer-Probe-2					
+10.0.5.101	GW			SWC-P1-001--Vlan7		
+10.0.5.102	PRTG-Customer-Probe-3			SWC-P1-001--Vlan7		
+10.0.5.105	Gateway					
+10.0.5.106	Tavanir Device					
+10.0.5.107						
+10.0.5.108						
+10.0.5.109						
+10.0.5.113	Switch Core Gateway Secondary - Vlan 7 					
+10.0.5.114	PRTG-PROBE4.respina.net					
+10.0.5.115	Prtg-Cluster-Main					
+10.0.5.116	Prtg Vip					
+10.0.5.123	Terminal Server						Terminal Server
+10.0.5.125	New Terminal Server					
+10.0.5.126							
+10.0.5.129	Mr. Sadeghein Laptop						
+10.0.5.130	Smartphone Mr.Sadeghein						
+10.0.5.131	Mr. Sadeghein Tablet						
+10.0.5.132	Ms.Noori						
+10.0.5.133	Ms. Azar-PC						
+10.0.5.134	Mr.Masoumi						
+10.0.5.135	Mr.Masoumi						It was Reserved for Wireless
+10.0.5.136	Ms. Azar-Phone						
+10.0.5.137	Mr Sadeghein System						Mr Sadeghein System
+10.0.5.138	Mr.Masoumi-Surface						Was Atropaten Before
+10.0.5.139							
+10.0.5.140	Default Gateway - Vlan 7			SWC-P1-001			
+10.0.5.141	Fax Server					
+10.0.5.142	TelC						TelC
+10.0.5.143	Mr.Masomi-Laptop Vaio						
+10.0.5.144	Mr.Masoumi-Telephone						It was Mrs.Azadeh
+10.0.5.145	Mr.Ghorbanzadeh						
+10.0.5.146						
+10.0.5.147	Mr. hazrati-Phone						
+10.0.5.148	Mr. sarchahi-PC						
+10.0.5.149	Mr. sarchahi-Phone						
+10.0.5.150							
+10.0.5.151							
+10.0.5.152	Mr. sabiri-Pc						
+10.0.5.153							
+10.0.5.154	Mr. sabiri-Phone					
+10.0.5.155							
+10.0.5.156							
+10.0.5.157							
+10.0.5.158							
+10.0.5.159							
+10.0.5.160	app.respina.net						Sales-Formula
+10.0.5.161							
+10.0.5.162						
+10.0.5.163	Mr.Masoumi					
+10.0.5.164	Mr Masoumi					
+10.0.5.165							
+10.0.5.166						
+10.0.5.167							
+10.0.5.168							
+10.0.5.169							
+10.0.5.170						
+10.0.5.171							
+10.0.5.172							
+10.0.5.173							
+10.0.5.174							
+10.0.5.175	Mr.Mosoumi					
+10.0.5.176	Mr. Sadeghian device 		ATCOM Technology	Mr.Sadeghein FAX (1393/12/16)			
+10.0.5.177	Financial Server - Tadvin			TADVIN.respina.net			
+10.0.5.178	tadvin19.respina.net					
+10.0.5.179							
+10.0.5.180						
+10.0.5.181						
+10.0.5.182							
+10.0.5.183						
+10.0.5.184							
+10.0.5.185							
+10.0.5.186							
+10.0.5.187							
+10.0.5.188							
+10.0.5.189							
+10.0.5.190						
+10.0.5.191							
+10.0.5.192							
+10.0.5.193							
+10.0.5.194							
+10.0.5.195	NOC Monitoring Server						It was atropaten
+10.0.5.196							
+10.0.5.197						
+10.0.5.198	ACP-P5-001					
+10.0.5.199	NAS Server						NAS Server
+10.0.5.200	NOC monitoring PC - Monitoring						
+10.0.5.201						
+10.0.5.202							
+10.0.5.203	Mr.Masoumi					
+10.0.5.204							
+10.0.5.205							
+10.0.5.206							
+10.0.5.207							
+10.0.5.208							
+10.0.5.209						
+10.0.5.210							
+10.0.5.211							
+10.0.5.212							
+10.0.5.213						
+10.0.5.214							
+10.0.5.215							
+10.0.5.216						
+10.0.5.217						
+10.0.5.218							
+10.0.5.219							
+10.0.5.220						
+10.0.5.221							
+10.0.5.222						
+10.0.5.223							
+10.0.5.224							
+10.0.5.225							
+10.0.5.226						
+10.0.5.227							
+10.0.5.228							
+10.0.5.229						
+10.0.5.230						
+10.0.5.231						
+10.0.5.232							
+10.0.5.233							
+10.0.5.234							
+10.0.5.235	NOC SD Windows 10 VM						
+10.0.5.236						
+10.0.5.237						
+10.0.5.238							
+10.0.5.239							
+10.0.5.240							
+10.0.5.241							
+10.0.5.242	NOC-Monitoring						
+10.0.5.243							
+10.0.5.245	Server STG DSS					
+10.0.5.246	NOC DSS Monitoring VM					
+10.0.5.247	NOC DSS Monitoring VM					
+10.0.5.248	NOC SD VIP STG Server						
+10.0.5.249	NOC monitoring PC - STG Server		SWA-P2-001__Fa 0/3			
+10.0.5.250	DSS Monitoring					
+10.0.5.251	NOC STG Graph vm host			NOC-GRAPH		
+10.0.5.252	PRTG					
+10.0.5.253	PRTG Backbone Probe						
+10.0.5.254	NOC DSS Monitoring STG Server		From ESX11				
+10.0.6.1	Free					
+10.0.6.2	Free					
+10.0.6.3	Free					
+10.0.6.4	Free					
+10.0.6.5	Free					
+10.0.6.6	Free					
+10.0.6.7	Free					
+10.0.6.8	Free					
+10.0.6.9	Free					
+10.0.6.10	Free					
+10.0.6.17						
+10.0.6.18						
+10.0.6.19						
+10.0.6.32	TEH-MahestanB-7			TEH-MahestanB-7			TEH-MahestanB-7
+10.0.6.35	TEH-Eskan-3-New					
+10.0.6.58	Customer-Switch					
+10.0.6.65	Emam Khomeini Air Line (IKAC)						Emam Khomeini Air Line (IKAC)
+10.0.6.66	TEH-Samarghand-3						TEH-Samarghand-3
+10.0.6.67	TEH-Pirooz-3					
+10.0.6.81						
+10.0.6.119	TEH-Behesht-2						TEH-Behesht-2
+10.0.6.128	Ariyan-G						Ariyan-G
+10.0.6.129	Aryan-1					
+10.0.6.130	Aryan-2					
+10.0.6.131	Aryan-3					
+10.0.6.196	LCT-IDC-R1						LCT-IDC-R1
+10.0.6.197	LCT-IDC-R2					
+10.0.6.198	LCT-IDC-R3					
+10.0.6.224	Borje Mehr					
+10.0.6.225	TEH-Ziba					
+10.0.6.226	Tehransar-2		Tehransar-2	Tehransar-2		
+10.0.6.227	TEH-Darya-G					
+10.0.6.228	LCT-IDC-Router-3					
+10.0.6.229	Ziba2					
+10.0.6.230	Ansar-G					
+10.0.6.231	Chehelsoton-1					
+10.0.6.232	TEH-Alvand-G					
+10.0.6.233	TEH-Derakhti-G					
+10.0.6.234	Teh-RadSystem					
+10.0.6.235						
+10.0.6.236	TEH-Ziba-1					
+10.0.6.237	Free					
+10.0.6.238	 TEH-MahestanB-6					
+10.0.6.239	TEH-OFOGH-3					
+10.0.6.241	IDC Emam-VPN-Concentrator					
+10.0.6.242	EskanC-G					
+10.0.6.243	TEH-Azadi-1					
+10.0.6.244	TEH-Anahita-G					
+10.0.6.245	TEH-Anahita-1					
+10.0.6.246	TEH-Asareh-1					
+10.0.6.247	TEH-Azadi-4					
+10.0.6.248	TEH-Daryaye-Noor-G					
+10.0.6.249	TEH-Daryaye-Noor-1					
+10.0.7.9	GW			SWS-P1-000-Core__Vlan8		
+10.0.7.10	free					
+10.0.7.13						
+10.0.7.14						
+10.0.7.17	Free					
+10.0.7.18						
+10.0.7.19						
+10.0.7.20						
+10.0.7.21						
+10.0.7.22						
+10.0.7.23						
+10.0.7.27						
+10.0.8.1	GW for new smokeping			SWS-P1-000-Core__Vlan8		
+10.0.8.2	smokeping__ saturn.respina.net 					
+10.0.8.3						
+10.0.8.4						
+10.0.8.5	GW			SWS-P1-000-Core__Vlan8		
+10.0.8.6	smokeping - internal		(machine is powered off)			
+10.0.8.7						
+10.0.8.8	Sdp Customer 					
+10.0.8.9						
+10.0.8.10						
+10.0.8.11						
+10.0.8.12						
+10.0.8.13						
+10.0.8.14						
+10.0.8.15						
+10.0.8.16						
+10.0.8.17						
+10.0.8.18						
+10.0.8.19						
+10.0.8.20						
+10.0.8.21						
+10.0.8.22						
+10.0.8.23						
+10.0.8.24						
+10.0.8.25						
+10.0.8.26						
+10.0.8.27						
+10.0.8.28						
+10.0.8.29						
+10.0.8.30						
+10.0.8.31						
+10.0.8.32						
+10.0.8.33						
+10.0.8.34						
+10.0.8.35						
+10.0.8.36						
+10.0.8.37						
+10.0.8.38						
+10.0.8.39						
+10.0.8.40						
+10.0.8.41						
+10.0.8.42						
+10.0.8.43						
+10.0.8.44						
+10.0.8.45						
+10.0.8.46						
+10.0.8.47						
+10.0.8.48						
+10.0.8.49						
+10.0.8.50						
+10.0.8.51						
+10.0.8.52						
+10.0.8.53						
+10.0.8.54						
+10.0.8.55						
+10.0.8.56						
+10.0.8.57						
+10.0.8.58						
+10.0.8.59						
+10.0.8.60						
+10.0.8.61						
+10.0.8.62						
+10.0.8.63						
+10.0.8.64						
+10.0.8.65						
+10.0.8.66						
+10.0.8.67						
+10.0.8.68						
+10.0.8.69						
+10.0.8.70						
+10.0.8.71						
+10.0.8.72						
+10.0.8.73						
+10.0.8.74						
+10.0.8.75						
+10.0.8.76						
+10.0.8.77						
+10.0.8.78						
+10.0.8.79						
+10.0.8.80						
+10.0.8.81						
+10.0.8.82						
+10.0.8.83						
+10.0.8.84						
+10.0.8.85						
+10.0.8.86						
+10.0.8.87						
+10.0.8.88						
+10.0.8.89						
+10.0.8.90						
+10.0.8.91						
+10.0.8.92						
+10.0.8.93						
+10.0.8.94						
+10.0.8.95						
+10.0.8.96						
+10.0.8.97						
+10.0.8.98						
+10.0.8.99						
+10.0.8.100						
+10.0.8.101						
+10.0.8.102						
+10.0.8.103						
+10.0.8.104						
+10.0.8.105						
+10.0.8.106						
+10.0.8.107						
+10.0.8.108						
+10.0.8.109						
+10.0.8.110						
+10.0.8.111						
+10.0.8.112						
+10.0.8.113						
+10.0.8.114						
+10.0.8.115						
+10.0.8.116						
+10.0.8.117						
+10.0.8.118						
+10.0.8.119						
+10.0.8.120						
+10.0.8.121						
+10.0.8.122						
+10.0.8.123						
+10.0.8.124						
+10.0.8.125						
+10.0.8.126						
+10.0.8.129	Gateway	Pedaran		SWC-P1-001--Vlan19		
+10.0.8.130	Mr. Mohammadzadeh Laptop					
+10.0.8.131	Mr. Mohammadzadeh					
+10.0.8.134	Ms. Nami					
+10.0.8.136	SME Network Mikrotik					
+10.0.8.137	Mr. Masoumi-Laptop					
+10.0.8.140	Parseh to Pedaran Motorola Microwave Management					
+10.0.8.142	Mr. MalekZadeh					
+10.0.8.143	Free					
+10.0.8.145	SME STG Server					
+10.0.8.146	Mr. Mojtabaei					
+10.0.8.147	Mr. Emami					
+10.0.8.148	-					
+10.0.8.149	NOC Server ESXi Management					
+10.0.8.150	SME Printer		HP LJ-P2055			
+10.0.8.151	SME Server Monitoring			SME-RADIO		
+10.0.8.152	Mr. RahPeik					
+10.0.8.153	TC Mr. Mohammadzade _ For monitoring		in front Mr. Mohammdzade on pedaran Floor 4 (Abrenik) (linux-TC)			
+10.0.8.154						
+10.0.8.155	SME Temp					
+10.0.8.156						
+10.0.8.157	Router-Mikrotik-Pedaran Floor 4					
+10.0.8.158	Huawei-Server					
+10.0.8.159						
+10.0.8.160	10.0.8.160/30 For Unifi Server					
+10.0.8.161	Unifi Server Gateway			RSPN-Tavanir-Colocation-- Gi 1/0/1		
+10.0.8.162	Unifi Server					
+10.0.8.163	10.0.8.160/30 For Unifi Server					
+10.0.8.164	yusefi			Aghazadeh-PC1.respina.net		
+10.0.8.165	sme monitoring system					
+10.0.8.166				TN-2855-PC		
+10.0.8.167						
+10.0.8.168						
+10.0.8.169						
+10.0.8.170	Nat ip To Wan					
+10.0.8.171	somayeh sadat					
+10.0.8.172						
+10.0.8.173						
+10.0.8.174						
+10.0.8.175						
+10.0.8.176	unifi /30					
+10.0.8.177	for unifi server       			RSPN-Tavanir-Colocation-- Gi 1/0/1		
+10.0.8.178	unifi /30			ESX		
+10.0.8.179	unifi /30					
+10.0.8.180	Masoumi for test					
+10.0.8.181						
+10.0.8.182						
+10.0.8.183						
+10.0.8.184						
+10.0.8.185						
+10.0.8.186	DSS-Monitoring pc			DESKTOP-U3VT7PM		
+10.0.8.187	DSS-Monitoring pc			DESKTOP-NGH03I5		
+10.0.8.188						
+10.0.8.189						
+10.0.8.190						
+10.0.8.191	Mr.N.Darvishian					
+10.0.8.192	Mr. Behrouz			SME-WIRELESS		
+10.0.8.193	Mr. MoeinFard			DESKTOP-HJM8TC5		
+10.0.8.194	Mr Reza Mahdipour			DESKTOP-HMT4PLK		
+10.0.8.195	DSS Monitoring					
+10.0.8.196						
+10.0.8.197						
+10.0.8.198						
+10.0.8.199						
+10.0.8.200	NAT-NOC-VDI On Fortigate to SME Routers					
+10.0.8.201						
+10.0.8.202						
+10.0.8.203						
+10.0.8.204						
+10.0.8.205						
+10.0.8.206	f.ghasemi					
+10.0.8.207	a.yousefi					
+10.0.8.208	Mr. NematiFar					
+10.0.8.209	Mr. Azadi					
+10.0.8.210	Ms. MoghadasiFar					
+10.0.8.211	A.taherzadeh					
+10.0.8.212	Ms. Yasari					
+10.0.8.213	Ms. Yasari					
+10.0.8.214	Mr. Imani			DSS-1		
+10.0.8.215	MS Yasari (DSS)					
+10.0.8.216	Mrs. Mordadi			DESKTOP-H42S4MA		
+10.0.8.217	Mr. Panahi			DESKTOP-PJKD9E7		
+10.0.8.218	Ms. Razzaghi					
+10.0.8.219	F.Hasani					
+10.0.8.220	Mrs. S.nobandegani					
+10.0.8.221	Tc-Noc					
+10.0.8.222						
+10.0.8.223				DESKTOP-I3N8VC7		
+10.0.8.224	10.0.8.224/27 SME-VPN-Pool -------------------					
+10.0.8.225	SME VPN Pool					
+10.0.8.227	p2-3-port number f0/22					
+10.0.8.229						
+10.0.8.230						
+10.0.8.231						
+10.0.8.232						
+10.0.8.233						
+10.0.8.234						
+10.0.8.235						
+10.0.8.236						
+10.0.8.237				DESKTOP-CTCJQ5F		
+10.0.8.238						
+10.0.8.239						
+10.0.8.240	SME VPN Second Pool					
+10.0.8.241	SME VPN Second Pool					
+10.0.8.242	SME VPN Second Pool					
+10.0.8.243	SME VPN Second Pool					
+10.0.8.244	SME VPN Second Pool					
+10.0.8.245	SME VPN Second Pool					
+10.0.8.246	SME VPN Second Pool					
+10.0.8.247	SME VPN Second Pool					
+10.0.8.248	SME VPN Second Pool					
+10.0.8.249	SME VPN Second Pool					
+10.0.8.250	??	VNC-SERVER Pedaran Floor 2 DSS				
+10.0.8.251	SME VPN Second Pool					
+10.0.8.252	SME VPN Second Pool					
+10.0.8.253	SME VPN Second Pool					
+10.0.8.254	SME VPN Second Pool					
+10.0.8.255	SME VPN Second Pool					
+10.0.9.1	Default Gateway			SWC-P1-001--Vlan9		
+10.0.9.2							
+10.0.9.3						
+10.0.9.4						
+10.0.9.5						
+10.0.9.6						
+10.0.9.7						
+10.0.9.8						
+10.0.9.9						
+10.0.9.10						
+10.0.9.11						
+10.0.9.12						
+10.0.9.13						
+10.0.9.14						
+10.0.9.15							
+10.0.9.16						
+10.0.9.17						
+10.0.9.18						
+10.0.9.19						
+10.0.9.20						
+10.0.9.21						
+10.0.9.22						
+10.0.9.23						
+10.0.9.24						
+10.0.9.25						
+10.0.9.26						
+10.0.9.27						
+10.0.9.28						
+10.0.9.29						
+10.0.9.30							
+10.0.9.31						
+10.0.9.32						
+10.0.9.33						
+10.0.9.34						
+10.0.9.35						
+10.0.9.36						
+10.0.9.37						
+10.0.9.38						
+10.0.9.39							
+10.0.9.40						
+10.0.9.41							IP Phone Ms Alizadeh
+10.0.9.42							
+10.0.9.43							
+10.0.9.44							
+10.0.9.45							
+10.0.9.46							
+10.0.9.47							
+10.0.9.48							
+10.0.9.49							
+10.0.9.50							
+10.0.9.51						
+10.0.9.52							
+10.0.9.53						
+10.0.9.54						
+10.0.9.55						
+10.0.9.56						
+10.0.9.57						
+10.0.9.58						
+10.0.9.59							
+10.0.9.60	Peyvast Server					
+10.0.9.61						
+10.0.9.62						
+10.0.9.63						
+10.0.9.64						
+10.0.9.65						
+10.0.9.66						
+10.0.9.67						
+10.0.9.68						
+10.0.9.69						
+10.0.9.70	Server Peyvast			peyvast-server.respina.net		
+10.0.9.71						
+10.0.9.72						
+10.0.9.73						
+10.0.9.74						
+10.0.9.75						
+10.0.9.76						
+10.0.9.77						
+10.0.9.78						
+10.0.9.79						
+10.0.9.80						
+10.0.9.81						
+10.0.9.82						
+10.0.9.83						
+10.0.9.84						
+10.0.9.85						
+10.0.9.86						
+10.0.9.87						
+10.0.9.88						
+10.0.9.89						
+10.0.9.90						
+10.0.9.91						
+10.0.9.92						
+10.0.9.93						
+10.0.9.94						
+10.0.9.95						
+10.0.9.96						
+10.0.9.97	Ghofl Hadware Server Tadvin	Pedaran - Floor 4 		SWA-P4-001  Fa 0/5		
+10.0.9.98						
+10.0.9.99						
+10.0.9.100						
+10.0.9.101						
+10.0.9.102						
+10.0.9.103						
+10.0.9.104						
+10.0.9.105						
+10.0.9.106						
+10.0.9.107						
+10.0.9.108						
+10.0.9.109						
+10.0.9.110						
+10.0.9.111						
+10.0.9.113						
+10.0.9.114						
+10.0.9.115						
+10.0.9.126							
+10.0.9.129						
+10.0.9.130						
+10.0.9.131						
+10.0.9.132						
+10.0.9.133						
+10.0.9.134						
+10.0.9.135						
+10.0.9.136							
+10.0.9.137						
+10.0.9.138						
+10.0.9.139						
+10.0.9.140						
+10.0.9.141						
+10.0.9.142						
+10.0.10.1						
+10.0.10.2						
+10.0.10.3						
+10.0.10.4						
+10.0.10.5						
+10.0.10.6						
+10.0.10.7						
+10.0.10.8						
+10.0.10.9						
+10.0.10.10						
+10.0.10.11						
+10.0.10.12						
+10.0.10.13						
+10.0.10.14						
+10.0.10.15						
+10.0.10.16						
+10.0.10.17						
+10.0.10.18						
+10.0.10.19						
+10.0.10.20						
+10.0.10.21						
+10.0.10.22						
+10.0.10.23						
+10.0.10.24						
+10.0.10.25						
+10.0.10.26						
+10.0.10.27						
+10.0.10.28						
+10.0.10.29						
+10.0.10.30						
+10.0.10.31						
+10.0.10.32						
+10.0.10.33						
+10.0.10.34						
+10.0.10.35						
+10.0.10.36						
+10.0.10.37						
+10.0.10.38						
+10.0.10.39						
+10.0.10.40						
+10.0.10.41						
+10.0.10.42						
+10.0.10.43						
+10.0.10.44						
+10.0.10.45						
+10.0.10.46						
+10.0.10.47						
+10.0.10.48						
+10.0.10.49						
+10.0.10.50						
+10.0.10.51						
+10.0.10.52						
+10.0.10.59						
+10.0.10.60						
+10.0.10.61						
+10.0.10.62						
+10.0.10.80						
+10.0.10.91						
+10.0.10.129						
+10.0.10.130						
+10.0.10.131						
+10.0.10.132						
+10.0.10.133						
+10.0.10.134						
+10.0.10.135						
+10.0.10.136						
+10.0.10.137						
+10.0.10.138						
+10.0.10.139						
+10.0.10.140						
+10.0.10.141						
+10.0.10.142						
+10.0.10.143						
+10.0.10.144						
+10.0.10.149						
+10.0.10.150						
+10.0.10.151						
+10.0.10.152						
+10.0.10.153						
+10.0.10.154						
+10.0.10.155						
+10.0.10.156						
+10.0.10.157						
+10.0.10.158						
+10.0.10.159						
+10.0.10.160						
+10.0.10.161						
+10.0.10.162						
+10.0.10.163						
+10.0.10.165						
+10.0.10.166						
+10.0.10.167						
+10.0.10.170						
+10.0.10.171						
+10.0.10.172						
+10.0.10.173						
+10.0.10.174						
+10.0.10.175						
+10.0.10.176						
+10.0.10.177						
+10.0.10.178						
+10.0.10.179						
+10.0.10.180						
+10.0.10.181						
+10.0.10.182						
+10.0.10.183						
+10.0.10.190						
+10.0.10.191						
+10.0.10.192						
+10.0.10.193						
+10.0.10.194						
+10.0.10.195						
+10.0.10.196						
+10.0.10.197						
+10.0.10.198						
+10.0.10.199						
+10.0.10.200						
+10.0.10.201						
+10.0.10.203						
+10.0.10.204						
+10.0.10.205						
+10.0.10.220						
+10.0.10.221						
+10.0.10.222						
+10.0.10.223						
+10.0.10.224						
+10.0.10.225						
+10.0.10.226						
+10.0.10.227						
+10.0.10.228						
+10.0.10.229						
+10.0.10.230						
+10.0.10.254						
+10.0.11.1						
+10.0.11.2						
+10.0.11.3						
+10.0.11.4						
+10.0.11.5							
+10.0.11.6							
+10.0.11.7							
+10.0.11.8							
+10.0.11.9							
+10.0.11.10							
+10.0.11.11							
+10.0.11.12						
+10.0.11.13							
+10.0.11.14						
+10.0.11.15						
+10.0.11.16						
+10.0.11.17						
+10.0.11.18						
+10.0.11.19						
+10.0.11.20						
+10.0.11.21						
+10.0.11.22						
+10.0.11.23						
+10.0.11.24						
+10.0.11.25						
+10.0.11.26						
+10.0.11.27						
+10.0.11.28						
+10.0.11.29						
+10.0.11.30						
+10.0.11.31						
+10.0.11.32							
+10.0.11.33						
+10.0.11.34						
+10.0.11.35							
+10.0.11.36						
+10.0.11.37							
+10.0.11.38							
+10.0.11.39							
+10.0.11.40						
+10.0.11.41						
+10.0.11.42						
+10.0.11.43						
+10.0.11.44							
+10.0.11.45							
+10.0.11.46							
+10.0.11.47							
+10.0.11.48						
+10.0.11.49						
+10.0.11.50						
+10.0.11.51						
+10.0.11.52						
+10.0.11.53						
+10.0.11.54						
+10.0.11.56						
+10.0.11.57						
+10.0.11.58							
+10.0.11.59							
+10.0.11.60							
+10.0.11.61							
+10.0.11.62							
+10.0.11.64							
+10.0.11.65							
+10.0.11.66							
+10.0.11.67							
+10.0.11.68							
+10.0.11.69							
+10.0.11.70							
+10.0.11.71							
+10.0.11.72						
+10.0.11.73							
+10.0.11.74							
+10.0.11.75							
+10.0.11.76						
+10.0.11.80							
+10.0.11.81						
+10.0.11.82						
+10.0.11.83						
+10.0.11.84						
+10.0.11.86							
+10.0.11.91						
+10.0.11.92						
+10.0.11.126						
+10.0.11.129						
+10.0.11.130						
+10.0.11.193						
+10.0.11.194						
+10.0.11.195						
+10.0.11.196						
+10.0.11.197						
+10.0.11.201						
+10.0.11.228						
+10.0.12.28			TEH-ParsElectric-G			
+10.0.12.31			TEH-Dariush-2			
+10.0.12.32				TEH-Pam-G		
+10.0.13.1						
+10.0.13.2						
+10.0.13.3						
+10.0.13.4						
+10.0.13.5						
+10.0.13.6						
+10.0.13.7						
+10.0.13.8						
+10.0.13.9						
+10.0.13.10						
+10.0.13.11						
+10.0.13.13						
+10.0.13.20						
+10.0.13.21							
+10.0.13.30							
+10.0.13.100						
+10.0.14.1						
+10.0.16.1	FRS-SC2-G					
+10.0.16.2	FRS-Yeganeh-G					
+10.0.16.3	RTL-BS-001					
+10.0.16.4	FRS-Yeganeh-1					
+10.0.16.5	Mikrotik VPN Tehran					
+10.0.16.6	FRS-MPLS-Router					
+10.0.16.7	FRS-Yeganeh-2					
+10.0.16.8	FRS-Yeganeh-3					
+10.0.16.9	FRS-Eram1					
+10.0.16.10	FRS-Arjan1						FRS-Arjan1
+10.0.16.11	FRS-SC2-G3						FRS-SC2-G3
+10.0.16.12	Shiraz-Arjan-ADSL-Mikrotik						Shiraz-Arjan-ADSL-Mikrotik
+10.0.16.13	Mirdamad					
+10.0.16.14	FRS-Valiasr-ADSL						FRS-Valiasr-ADSL
+10.0.16.15	FRS-Valiasr-PPPOE-Server						FRS-Valiasr-PPPOE-Server
+10.0.16.16	ShirazIDC & IXP MT Router						ShirazIDC & IXP MT Router
+10.0.16.17	Jahrom-PC-G					
+10.0.16.18	Jah-Jomhoori-G					
+10.0.16.20	Shiraz-IDC-R2					
+10.0.16.21	FRS-Eram1					
+10.0.16.65	Default Gateway					
+10.0.16.66	VMware					
+10.0.16.67						
+10.0.16.68						
+10.0.16.69	PRTG					
+10.0.16.70	NVR					
+10.0.16.71	File Server					
+10.0.16.72	VOIP Server					
+10.0.16.73						
+10.0.16.74						
+10.0.16.75	UPS LAN Yeganeh					
+10.0.16.76	Camera					
+10.0.16.77	Camera					
+10.0.16.78	Camera					
+10.0.16.79	Camera					
+10.0.16.80	Camera					
+10.0.16.81	Camera					
+10.0.16.82	Camera					
+10.0.16.83	Camera					
+10.0.16.84	Camera					
+10.0.16.90						
+10.0.16.97	Gateway		Shiraz- Vlan 205 For SME on Shiraz Mikrotik(RTL-BS-001)			
+10.0.16.98	Ms. KouchakZadeh IPPhone					
+10.0.16.99	Ms. KouchakZadeh					
+10.0.16.100	Ms. KouchakZadeh					
+10.0.16.113						
+10.0.16.114						
+10.0.16.115						
+10.0.16.116						
+10.0.16.129	Default Gateway		Shiraz- Vlan 215 For TCC(Voip) on Shiraz Mikrotik(RTL-BS-001)	RTL-BS-001		
+10.0.16.130	Mr. AbPeykar IPPhone					
+10.0.16.131	Mr. AbPeykar-PC					
+10.0.16.132	Mr. Sayadi IPPhone					
+10.0.16.133	-					
+10.0.16.134	LAN Power Monitor					
+10.0.16.136	Ms.Hafezzadeh-PC					
+10.0.16.137	Ms.Hafezzadeh IPPhone					
+10.0.16.138	Mr. Mohammadi IPPhone					
+10.0.16.139	Mr.Mohammadi-PC					
+10.0.16.140	Mr. Asadi IPPhone					
+10.0.16.141						
+10.0.16.142	Ms.Kouchakzadeh-PC					
+10.0.16.143	Ms.Kouchakzadeh-PC					
+10.0.16.144	Ms.Kouchakzadeh-Cisco IPPhone					
+10.0.16.145	Printer					
+10.0.16.146	Mr.Sayadi-PC					
+10.0.16.147	H.Hosseini-IPPhone					
+10.0.16.148	H.Hosseini-PC					
+10.0.16.149	hosseini tel					
+10.0.16.150	siavash keshtkar					
+10.0.16.151	siavash keshtkar Pc					
+10.0.16.152	h.paston					
+10.0.16.153	h.paston					
+10.0.16.154	MR.Nazari-PC					
+10.0.16.155	MR.Nazari-Voip					
+10.0.16.156	Mr. jafari IP-Phone					
+10.0.16.157	Mr. jafari PC					
+10.0.16.158						
+10.0.16.159						
+10.0.16.160						
+10.0.16.161						
+10.0.16.162						
+10.0.16.163						
+10.0.16.164						
+10.0.16.165						
+10.0.16.166						
+10.0.16.167						
+10.0.16.168						
+10.0.16.169						
+10.0.16.170						
+10.0.16.171						
+10.0.16.172						
+10.0.16.173						
+10.0.16.174						
+10.0.16.175						
+10.0.16.176						
+10.0.16.177						
+10.0.16.178						
+10.0.16.179						
+10.0.16.180						
+10.0.16.181						
+10.0.16.182						
+10.0.16.183						
+10.0.16.184						
+10.0.16.185						
+10.0.16.186						
+10.0.16.187						
+10.0.16.188						
+10.0.16.189						
+10.0.16.190						
+10.0.16.191						
+10.0.16.192						
+10.0.16.193						
+10.0.16.194						
+10.0.16.195						
+10.0.16.196						
+10.0.16.197						
+10.0.16.198						
+10.0.16.199						
+10.0.16.200						
+10.0.16.205						
+10.0.16.206						
+10.0.16.225						
+10.0.16.226						
+10.0.16.227						
+10.0.16.228						
+10.0.17.1	Default Gateway					
+10.0.17.2	SWA-BS-001					
+10.0.17.14						
+10.0.17.17	RTE-P1-000-(GRE Shiraz)					
+10.0.17.18	RTL-BS-001 (Shiraz)					
+10.0.17.22	Time Report					
+10.0.17.33	Default Gateway					
+10.0.17.65	Default Gateway					
+10.0.17.66						
+10.0.17.67						
+10.0.17.68						
+10.0.17.69						
+10.0.17.70						
+10.0.17.71						
+10.0.17.72						
+10.0.17.73						
+10.0.17.74							
+10.0.17.75							
+10.0.17.76						
+10.0.17.77						
+10.0.17.78						
+10.0.17.79						
+10.0.17.80						
+10.0.17.81						
+10.0.17.129						
+10.0.17.130						
+10.0.17.131						
+10.0.17.132						
+10.0.17.133						
+10.0.17.134						
+10.0.17.135						
+10.0.17.136						
+10.0.17.165						
+10.0.17.193						
+10.0.17.194						
+10.0.19.1	RSPNK-SC1G					
+10.0.19.2	RSPNK-YademanG 					
+10.0.19.3	RSPNK-MPLS-Router					
+10.0.19.4	RSPNK-Yademan1						RSPNK-Yademan1
+10.0.19.5						
+10.0.19.6	Pak Teliseh 1					
+10.0.19.7	TaraZob-1					
+10.0.19.8	Yademan2					
+10.0.19.9	ALZ-Latif1					
+10.0.19.10	Loopback3 on PC1-For Customers BGP						Loopback3 on PC1-For Customers BGP
+10.0.19.11	ALZ-TaraZob-2					
+10.0.19.12	ALZ-Yademan-G					
+10.0.19.13	RadSystem					
+10.0.19.14	ALZ-Yademan-3					
+10.0.19.15	 ALZ-PakTeliseh-2						 ALZ-PakTeliseh-2
+10.0.19.16	ALZ-Safadasht-G						ALZ-Safadasht-G
+10.0.19.33	Gateway					
+10.0.19.34	SWA-BK-001					
+10.0.19.38						
+10.0.19.41	Default Gateway					
+10.0.19.42						
+10.0.19.43						
+10.0.19.44						
+10.0.19.45						
+10.0.19.46						
+10.0.19.49	Gateway					
+10.0.19.50	VOIP Gateway					
+10.0.19.51	VOIP Server					
+10.0.19.52	TimeReport					
+10.0.19.53	NVR					
+10.0.19.54	Camera					
+10.0.19.55	Camera					
+10.0.19.56	Camera					
+10.0.19.57	Camera					
+10.0.19.58	Camera					
+10.0.19.59	Camera					
+10.0.19.60	Camera					
+10.0.19.66	RTL-BK-001 (Karaj)					
+10.0.19.73						
+10.0.19.74						
+10.0.19.97	Gateway					
+10.0.19.98	Mr. Imani					
+10.0.19.99	Mr. Ghalandari-pc					
+10.0.19.100	Mr. EsmaeilNejad IPPhone					
+10.0.19.101	Mr. Valizadeh					
+10.0.19.102	Mr. Ebrahimzade						
+10.0.19.103	Mr. EsmaeilNezhad			SWA-BK-001			
+10.0.19.104	Mr. Ghalandari-Phone-Static						
+10.0.19.105	Ms. Nazerian IPPhone-new						
+10.0.19.106	Mr. Bakhshinejad-Laptop					
+10.0.19.107	Mr. Jafari IPPhone						
+10.0.19.108	Mr. Bakhiyat						
+10.0.19.110	Mr. Esmailnejad-PC					
+10.0.19.113	Gateway					
+10.0.19.119						
+10.0.19.120						
+10.0.19.121						
+10.0.19.122						
+10.0.19.129	Gateway					
+10.0.19.130	Mr. Imani IPPhone					
+10.0.19.131	new user					
+10.0.19.132	naeimi					
+10.0.19.133						
+10.0.19.134						
+10.0.19.135	Mr. Ghalandari					
+10.0.19.136	Mr. EsmaeilNejad					
+10.0.19.137						
+10.0.19.138						
+10.0.19.139						
+10.0.19.140						
+10.0.19.141						
+10.0.19.142	Mr. Bakhit					
+10.0.19.145	Free					
+10.0.20.1	SC2G					
+10.0.20.2	NovinG					
+10.0.20.3	Novin1					
+10.0.20.4	MPLS MT 					
+10.0.20.5	Novin2					
+10.0.20.6	Farhangian					
+10.0.20.7	Maxnet					
+10.0.20.8	Atash-Afrooz					
+10.0.20.10							ASH-Novin-3
+10.0.20.129	Gateway					
+10.0.20.130	Mr. Vaghari - PC					
+10.0.20.131	Mr. Vaghari - IPPhone					
+10.0.20.132	Mr. Vaghari - PC 2					
+10.0.20.133	IPPHone					
+10.0.20.134	Mr.Saeidi-PC					
+10.0.20.136	Mr. Vaghari - PC 3					
+10.0.20.137						
+10.0.20.142	Time Report					
+10.0.20.145	Gateway					
+10.0.20.146						
+10.0.20.147						
+10.0.20.161	Gateway					
+10.0.20.162						
+10.0.20.163						
+10.0.20.166						
+10.0.20.167						
+10.0.20.169						
+10.0.20.170						
+10.0.20.177	Default Gateway					
+10.0.20.193	Gateway					
+10.0.20.194	Mr. RajabZadeh					
+10.0.20.195	Mr. RajabZadeh IPPhone					
+10.0.21.1	IP management RTE-BT-001	Tabriz		RTE-BT-001		
+10.0.21.2	SWA-BT-001					
+10.0.21.17	Gateway	Tabriz		RTE-BT-001		
+10.0.21.18						
+10.0.21.19	NVR						
+10.0.21.20	VOIP Gateway					
+10.0.21.21	Camera						
+10.0.21.22	Camera						
+10.0.21.23							
+10.0.21.24	Camera						
+10.0.21.25	Camera						
+10.0.21.26							
+10.0.21.27							
+10.0.21.28	Camera						
+10.0.21.29	VOIP Server						
+10.0.21.30	Camera					
+10.0.21.33	Gre IP			RTE-P1-001		
+10.0.21.34	RTL-BT-001 (Tabriz)					
+10.0.21.38	ASH-EmaratSaba-G	Tabriz		ASH-EmaratSaba-G		
+10.0.22.1	SC2					
+10.0.22.2	AlborzG					
+10.0.22.3	Alborz1					
+10.0.22.4	Sinoor1					
+10.0.22.5	NewSinoor1					
+10.0.22.6	KHRZ-Shargh-G					
+10.0.22.7	KHRZ-Khorshid-G					
+10.0.22.8	KHRZ-Shargh-Raya-1					
+10.0.22.12	KHRZ-SepehrG-LoopBack	KHRZ-Mashhad	KHRZ-SepehrG-LoopBack	KHRZ-SepehrG		
+10.0.22.13	KHRZ-Sepehr-1		KHRZ-Sepehr-1			
+10.0.22.20	KHRZ-Ghouchan-G					
+10.0.22.129	Gateway					
+10.0.22.130	Warehouse System					
+10.0.22.131	Warehouse IPPhone					
+10.0.22.133	Coordinator					
+10.0.22.134						
+10.0.22.135						
+10.0.22.136	Coordinator IPPhone					
+10.0.22.137							
+10.0.22.138							
+10.0.22.139						
+10.0.22.142	Printer					
+10.0.22.145	Default Gateway					
+10.0.22.146	Mr. Hazrati					
+10.0.22.147	Mr. Hazrati IPPhone					
+10.0.22.148	Mr. Sarchahi					
+10.0.22.149	Mr. Sarchahi IPPhone					
+10.0.22.150	Mr. Hazrati Second IP Address					
+10.0.22.151	Mr. Ghalyaf					
+10.0.22.152	Mr. Ghalyaf IPPhone					
+10.0.22.153	Sabiri-Phone					
+10.0.22.154	Sabiri-New-Ip					
+10.0.22.161	Default Gateway					
+10.0.22.193	Gateway					
+10.0.22.194						
+10.0.22.195						
+10.0.22.196						
+10.0.22.197						
+10.0.22.198						
+10.0.23.1	Gateway					
+10.0.23.2	SWA-BM-001					
+10.0.23.17	Gateway					
+10.0.23.18	NVR						Camera
+10.0.23.19	TimeReport					
+10.0.23.20	VOIP Server						VOIP Server
+10.0.23.21	VOIP Gateway					
+10.0.23.22	Camera					
+10.0.23.23						
+10.0.23.24	Camera					
+10.0.23.25	Camera					
+10.0.23.26	Camera					
+10.0.23.27	Camera					
+10.0.23.28						
+10.0.23.34	RTL-BM-001 (Mashhad)					
+10.0.23.36	PC-Sabzevar					
+10.0.23.146	Ms.Azar					
+10.0.23.147	Mr. hazrati-phone					
+10.0.23.148	Mr. sarchahi-pc					
+10.0.23.149	Mr. sarchahi-phone					
+10.0.23.150	Ms.Azar-phone					
+10.0.23.152	Mr. sabiri-pc					
+10.0.23.154	Mr. sabiri-phone					
+10.0.23.157	Mr. hazrati-pc					
+10.0.24.1	Esfehan-SC2-10G-Switch					
+10.0.24.2						
+10.0.24.3	Test Esfahan					
+10.0.24.5	ISF-Jey-G					
+10.0.24.8	ISF-Sc2-Sw02					
+10.0.24.9	TakNegin					
+10.0.24.11	Zarin Shad						Zarin Shad
+10.0.24.12	Namino						Namino
+10.0.24.13	ISF-GitiPasand-G						ISF-GitiPasand-G
+10.0.24.14	ISF-Namino-G						ISF-Namino-G
+10.0.24.15	ISF-Jey-01					
+10.0.24.16	ISF-Kaveh-G						ISF-Kaveh-G
+10.0.24.18	ISF-Kaveh-2					
+10.0.24.35	switch Alam ara	Isfahan				
+10.0.24.129	Gateway					
+10.0.24.130	Mr. Hafizi					
+10.0.24.131						
+10.0.24.132						
+10.0.24.133	Mr. Hafizi IPPhone					
+10.0.24.134							
+10.0.24.135							
+10.0.24.136							
+10.0.24.137	Mr. Hafizi IPPhone 2						
+10.0.24.138						
+10.0.24.139	Mr. Davari					
+10.0.24.140	Mr. Davari IPPhone						
+10.0.24.141	Time Report					
+10.0.24.142	FAX Server						
+10.0.24.145	Gateway					
+10.0.24.161	Gateway					
+10.0.24.162	Mr. Yabalouei						
+10.0.24.163	Mr. Yabalouei IPPhone						
+10.0.24.164	Mr. Tavazoei 					
+10.0.24.165	Mr. Tavazoei - IPPhone					
+10.0.24.166	Mr.Dehghani					
+10.0.24.167	Mr.Dehghani IPPhone					
+10.0.24.177	Gateway					
+10.0.24.193	Gateway					
+10.0.25.1	Gateway					
+10.0.25.2	SWA-BI-001					
+10.0.25.17	Gateway					
+10.0.25.18	Camera					
+10.0.25.19	VOIP Gateway						
+10.0.25.20	VOIP Server						
+10.0.25.21	NVR						
+10.0.25.22	Camera						
+10.0.25.23	Camera						
+10.0.25.24	Camera						
+10.0.25.25	Camera						
+10.0.25.26	Camera						
+10.0.25.27	Camera						
+10.0.25.28	Camera						
+10.0.25.34	RTL-BI-001 (Isfahan)					
+10.0.27.1	on RTE-P1-001 - on GRE-Ahvaz	Tavanir		RTE-P1-001		
+10.0.27.2	on SWA-BA-001 - on GRE-Ahvaz	Ahvaz		SWA-BA-001		
+10.0.27.193	DHCP Server Gateways for LAN IPs			SWA-BA-001		
+10.0.27.195	Camera/NVR					
+10.0.27.196	Camera/NVR					
+10.0.27.199	Camera/NVR					
+10.0.28.1	GRE BandarAbbas			RTE-P1-001		
+10.0.28.2	GRE BandarAbbas	BandarAbbas		RTL-BAA-001		
+10.0.28.3						
+10.0.28.5				RTL-BAA-001		
+10.0.28.6	SWA-BBA-001__manage IP			SWA-BBA-001		
+10.0.28.65	RTE-BBA-001_media-AP			RTE-BBA-001_media-AP		
+10.0.28.66	RTE-BBA-001_media-SU			RTE-BBA-001_media-SU		
+10.0.28.67	SWA-BBA-001			SWA-BAA-001		
+10.0.29.18	NVR					
+10.0.29.19	Camera1					
+10.0.29.20	Camera2					
+10.0.29.21	Camera3					
+10.0.30.1	RTE-BSari-001			RTE-BSari-001		
+10.0.30.2	SWA-BSari-001	Sari		SWA-BSari-001		
+10.0.50.4	FRS-Dehkadeh-G					
+10.0.50.7	BSHR-AsalouyehG						BSHR-AsalouyehG
+10.0.50.9	Hamedan-SC-G					
+10.0.50.15	Ahar-PC-G		Ahar-PC-G	Ahar-PC-G			Ahar-PC-G
+10.0.50.17	ASH-Ahar-PC-G					
+10.0.50.32							
+10.0.50.33						
+10.0.50.34	Anzali-PC-G					
+10.0.50.35	Rafsanjan-PC-G					
+10.0.50.36	Saghez-PC-G					
+10.0.50.37	Vesam-G					
+10.0.50.38	Yazd-PC-G					
+10.0.50.39	TEH-Pirooz-G						TEH-Pirooz-G
+10.0.50.40	KHO-Sarbandar-G						KHO-Sarbandar-G
+10.0.50.41			FRS-Dehkadeh-G				FRS-Dehkadeh-G
+10.0.50.136		KHUZ-Dezfoul	KHUZ-Dezfoul-PC-LoopBack	KHUZ-Dezfoul-PC			KHUZ-Dezfoul-PC-LoopBack
+10.3.3.113	Gateway					
+10.3.3.114	MT Golestan					
+10.3.3.116	Loopback Tunnel5					
+10.15.176.25	Etherchannel "WAN" on Fortigate as 2nd IP			FWE-P1-003		
+10.15.176.113	GW			SWC-P1-001--Vlan109		
+10.15.176.114	ASAv-Primary-Outside			SWS-P1-000-Core-from ESX11		
+10.15.176.115	ASAv-Secondary-Outside					
+10.30.72.4	Loopback LCT Router					
+10.30.72.5	Loopback 6 on LCT Router					
+10.30.72.6	Respina-Tunnel4	Respina's Data Center	Router 3640	RSPN-Tunnel4		
+10.30.72.16	Respina-Tunnel5-Loopback0						
+10.30.72.68	Loopback LCT router					
+10.30.72.69	Loopback LCT Router					
+10.30.72.218	SpeedTest server			ivl98-spdts01.respina.net		
+10.50.4.1	OPMN Default Gateway	Pedaran		RTE-P1-003-Opmn			nhrp tunnel
+10.50.4.23	Tunnel source for OPMN tunnel			RTE-P1-003-Opmn		
+10.202.233.41	Zirsakht					
+10.202.233.42	Respina					
+10.202.234.78	Test EoIP					
+10.202.234.80						
+46.209.7.238	Probe-Emam.respina.net					
+46.209.17.253	NAT Linux Uplink Checker					
+46.209.18.1							
+46.209.18.4						
+46.209.18.5	vlan11 interface	vlan11 interface	vlan11 interface			
+46.209.18.6		Qmail	Qmail			
+46.209.19.214	cdn.rrk.ir					
+46.209.19.225	GW			RSPN-LCT-IDC-SW2 - Vlan		
+46.209.19.230	my.respina.net					
+46.209.19.231	reseller.respina.net_					
+46.209.19.232	BSS-DB-Server					
+46.209.19.233	bss.respina.net					
+46.209.19.249	iterface vlan20-DMZ					
+46.209.19.250	speedtest.net					
+46.209.112.65	2144451001-1					
+46.209.112.66	2122752216-test-dabbagh-user					
+46.209.112.67	2144899720					
+46.209.112.68	2144899453					
+46.209.112.71	4849446345					
+46.209.112.76	0039358224 					
+46.209.112.77	wf5703520						PMTP Shiraz - Samen
+46.209.112.79	2144487587 						2144487587 
+46.209.112.80	Pcef-test     						Pcef-test     
+46.209.112.81	2144495271						2144495271
+46.209.112.82	2144448989						2144448989
+46.209.112.83	2144617964001						2144617964001
+46.209.112.84	wf130099724						"wf130099724"
+46.209.128.9	LCT Router					
+46.209.128.10	Imam Router					
+77.104.64.1	speed-test.respina.net DNAT 172.22.32.141			FWE-P1-003			
+77.104.64.2	CRM SQL DNAT to 172.22.50.41			FWE-P1-003		
+77.104.64.3	Gateway loopback					
+77.104.64.4	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.5	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.6	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.7	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.8	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.9	NOC-Internet-Clients Internet IP Pool for doing SrcNAT					
+77.104.64.10	Branches Internet Fortigate NAT 					
+77.104.64.11	Branches Internet IP Pool for doing SrcNAT			FWE-P1-003			was Pooria NAT 20110426
+77.104.64.12	Servers Internet Access IP Pool for doing SrcNAT			FWE-P1-003		
+77.104.64.13	Monitoring Devices Internet Fortigate NAT						
+77.104.64.14	Mr.Khodaveisi						Development network NAT -> 10.0.5.83
+77.104.64.15	Mr Masoumi NAT					
+77.104.64.16	LCT Test					
+77.104.64.17	LCT Test					
+77.104.64.18	Chargoon Server DNAT - 172.22.32.28			FWE-P1-003			
+77.104.64.19	LCT Test					
+77.104.64.20	IS-Zabbix-Server-VIP 172.22.32.20			FWE-P1-003		
+77.104.64.21	WSUS Server NAT					
+77.104.64.22	Snat_int forigate and not used						
+77.104.64.23						
+77.104.64.24							
+77.104.64.25						
+77.104.64.26	Free					
+77.104.64.27	free					
+77.104.64.28	Free					
+77.104.64.29	publicpbx.respina.net						
+77.104.64.30						
+77.104.64.31	Mr.Hosseini					
+77.104.64.32	Snat_int forigate and not used (Server - Payment to Banks )			FWE-P1-003		
+77.104.64.33	BPM NAT for Mr. Masoumi Access 			FWE-P1-003		
+77.104.64.34	BI NAT for Mr. Masoumi Access			FWE-P1-003			
+77.104.64.35	CRM NAT for Mr. Masoumi Access			FWE-P1-003			
+77.104.64.36	ITSM for Mr.Masoumi access					
+77.104.64.37	SQL Server NAT for Mr. Masoumi Access			FWE-P1-003			
+77.104.64.38	QlikView NAT for Mr. Masoumi Access			FWE-P1-003			
+77.104.64.39	FiIe Server NAT for Mr. Masoumi Access			FWE-P1-003			
+77.104.64.40	Tavanir CAM DNAT for Mr. Masoumi Access			FWE-P1-003			
+77.104.64.41	Skype-Abrenik-DNAT__172.25.2.21			FWE-P1-003			
+77.104.64.42	Ticketing-Abrenik			FWE-P1-003			
+77.104.64.43	Website Abrenik.com			FWE-P1-003			
+77.104.64.44							
+77.104.64.45							
+77.104.64.46	NAT for Wifi Controller						NAT for Wifi Controller
+77.104.64.47							
+77.104.64.48							
+77.104.64.49	resellerb2b.respina.net						
+77.104.64.50	Ms.Shirgir					
+77.104.64.51	Skype for Business						
+77.104.64.52	Free					
+77.104.64.53	timereport.respina.net					
+77.104.64.54	Skype for business Web Proxy Test					
+77.104.64.55	CRM-Dev						
+77.104.64.56	Ms.Farshchian					
+77.104.64.57	BizTalk Server						
+77.104.64.58	NAT for SMS System Server						was Jorjam
+77.104.64.59	New UplinkChecker Nat						New UplinkChecker Nat
+77.104.64.60	Mr. Mohammadzadeh					
+77.104.64.61	PRTG						Assigned to PRTG at 16:30 on 1393/11/01
+77.104.64.62	Updater Moradi 						Static Nated to 10.0.5.53
+77.104.64.63	IP NAT Test for Ms.Farshchian						was mr.karimi
+77.104.64.64	Uplink Checker (LAN Servers)					
+77.104.64.65	Mr.Khodaveisi 10.0.5.85					
+77.104.64.66	Mr.Khodaveisi 10.0.5.86					
+77.104.64.67	Ms.Shirazi (Marketing)	Marketing				
+77.104.64.68	VOIP Proxy					
+77.104.64.69	Mr. Nasirabadi					
+77.104.64.70	OP Manager					
+77.104.64.71	Mr.Khodaveisi 10.0.5.83					
+77.104.64.72	Zabbix NAT For Sabanet - SrcNAT			FWE-P1-003		
+77.104.64.73						
+77.104.64.74						
+77.104.64.75	Attached to null0 on TavanirG					
+77.104.64.76	Mr.Sadeghein					
+77.104.64.77	Clients Internet IP Pool for doing SrcNAT			FWE-P1-003		
+77.104.64.78	Management-Wifi					
+77.104.64.79	Management-2 -FG-NAT					
+77.104.64.80	PRTG Server NAT					
+77.104.64.81	DEXIDP - Kubernetes Translator for NEXFON					
+77.104.64.82	Mr.Behoorz Merikhi					
+77.104.64.83	Emergency PC (Khodaveisi and Rezaei)					
+77.104.64.84	Mr.Ghorbanzadeh					
+77.104.64.85	test.respina.net && landing.respina.net_ DNAT to 172.22.30.12			FWE-P1-003		
+77.104.64.86	Mr.Masoumi					
+77.104.64.87	Remote.respina.net  for employees - Forticlient			FWE-P1-003		
+77.104.64.88	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.89	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.90	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.91	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.92	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.93	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.94	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.95	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.96	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.97	Clients Internet IP Pool for doing SrcNAT	SME network				
+77.104.64.98	Clients Internet IP Pool for doing SrcNAT	SME Wireless				
+77.104.64.99	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.100	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.101	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.102	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.103	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.104	Clients Internet IP Pool for doing SrcNAT					
+77.104.64.105	RTE-P1-001----loopback1			RTE-P1-001		
+77.104.64.106	Mr Rahimi					
+77.104.64.107	Riahi					
+77.104.64.108	IPDR ESXi					
+77.104.64.109	IPDR ESXi					
+77.104.64.110	IPDR ESXi					
+77.104.64.111	IPDR ESXi					
+77.104.64.113	IPDR Server					
+77.104.64.114	IPDR File Server					
+77.104.64.116	Webmail.abrenick					
+77.104.64.117						
+77.104.64.120	IPDR /30					
+77.104.64.121	IPDR /30					
+77.104.64.122	IPDR /30					
+77.104.64.123	IPDR /30					
+77.104.64.125						
+77.104.64.126						
+77.104.64.127						
+77.104.64.252						
+77.104.64.253						
+77.104.64.254						
+77.104.67.105	GW					
+77.104.67.106	270727					
+77.104.72.129	gateway Vlan 932					
+77.104.73.106	NEXFON WebSite					
+77.104.74.149	Vlan 858 DirectAdmin			SWDMZ-P1-001		
+77.104.74.150	VPN server			Vpn-Mgm		
+77.104.75.114	SPAM1					
+77.104.84.193	GW			RSPN-Tavanir-Colocation-- Gi 1/0/20		
+77.104.84.194	monitor.respina.net			RSPN-Tavanir-Colocation		
+77.104.85.73	Gateway					
+77.104.85.74	Led					
+77.104.86.2	Payment panel new					
+77.104.92.24	SPAM1					
+77.104.92.81	SPAM2					
+77.104.92.89	SPAM1					
+77.104.97.47	NAT Linux Uplink Checker					
+77.104.99.254	Skype-Edge					
+77.104.103.61	labafi.blog					
+77.104.105.193	GW			RSPN-Emam-IDCG-2		
+77.104.105.194	monitoring.respina.net			monitoring.respina.net		
+77.104.105.197				RSPN-LCT-IDC-SW2 __ Vlan5		
+77.104.105.209	Default Gateway			TEH-Tavanir-G_Vlan3		
+77.104.105.211						
+77.104.105.212						
+77.104.105.213	Zabbix Server					
+77.104.105.214	Grafana Server					
+77.104.106.17	Vlan555			SWDMZ-P1-001		
+77.104.106.18	Respina Website 			SWDMZ-P1-001		
+77.104.106.206	mr.mehravesh test			mr.mehravesh test		
+77.104.106.207	RTE-P1-001----loopback1  - Routed By Tavanir-G			RTE-P1-001		
+77.104.114.213	g.w					
+77.104.114.214	Tic-Mis.Javaheri					
+77.104.118.34	Sip Server					
+77.104.118.56	Nexfon Prime webserver					
+77.104.118.64	tr3.nexfon.ir  Nexfon Fusion					
+77.104.118.68	Nexfon Prime Management Panel					
+77.104.118.71	tr1.nexfon.ir 					
+77.104.118.77	RabbitMQ Managemet					
+77.104.118.79	tr2.nexfon.ir					
+77.104.118.95	CGR Panel					
+77.104.118.96	Nexfon Prime Management Panel					
+77.104.118.100	Nexfon Prime Management Panel					
+77.104.118.110	Nexfon Prime Management Panel					
+77.104.125.86	free					
+77.104.125.197	Loopback0 - tunnel4
+77.104.125.198	Fa0/12-Access3	
+77.104.127.13	SPAM2					
+77.237.69.49	GW					
+77.237.86.192						
+78.38.248.157	Mail.abrenik.com	Pedaran		SWDMZ		
+92.242.202.190						
+92.242.202.217	Sophos-Mail-Protection					
+92.242.223.34	SPAM1					
+172.16.0.8						
+172.16.0.9						
+172.16.5.174				IDC-EMAM-MT-2		
+172.16.11.1	OPMN Network					
+172.16.11.3	OPMN Network					
+172.16.16.1	ADSL Tunnel (server->Router)					
+172.16.16.2	ADSL Tunnel (server->Router)					
+172.16.16.3	ADSL Tunnel (server->Router)					
+172.19.81.53	Modem Shahkar					
+172.19.81.54	To Shahkar Modem_ Eth2			RTE-P1-002		
+172.20.4.14	Mail Server Network Security			RSPN-Tavanir-Colocation		
+172.20.37.17				A Fortinet Device mac?!!		
+172.20.37.18				RTE-P1-001		
+172.20.37.20				RSPN-Tavanir-Colocation - Vlan 92		
+172.20.37.25	Nexfon Abuse Web Service			A Fortinet Device mac?!!!  ICMP is Blocked		
+172.20.37.26	Bridge network Security Mail Client			RTE-P1-001		
+172.20.37.27	in use					
+172.20.37.28	RSPN-Tavanir-Colocation__Vlan91			RSPN-Tavanir-Colocation		
+172.20.37.30				IDC-EMAM-MT-2		
+172.21.45.165	Modem OPMN routes					
+172.21.45.166	Modem OPMN routes					
+172.21.85.77	Modem OPMN			OPMN Modem		
+172.21.85.78	Fa0/2			RTE-P1-003-Opmn		
+172.22.0.1	Vdom Link Fortigate__ Private-WAN IP			FWE-P1-003		
+172.22.0.2	Vdom Link Fortigate__ Root IP					
+172.22.0.5	Fortigate L3 link interface - to SWDMZ			FWE-P1-003		
+172.22.0.6	Fortigate L3 link interface - to Forti			SWDMZ-P1-001		
+172.22.0.13	ether 5			RTE-P1-002		
+172.22.0.14	int Fa 2/1			RTE-P1-003-Opmn		
+172.22.0.17	SWC					
+172.22.0.18	Sophos					
+172.22.0.21	Fortigate					
+172.22.0.22	SWC-Core					
+172.22.0.25	Gi 1/0/1 on SWDMZ ( To Sophos Ether Link)			SWDMZ-P1-001		
+172.22.0.26	On Ether0 on Sophos (FWE-P1-002) __To SWDMZ link			FWE-P1-002		
+172.22.0.29	Vdom Link FWE-P1-003__ to Vdom LCT Fortigate			FWE-P1-003		
+172.22.0.30	Vdom Link FWE-P1-003__ to Vdom LCT Fortigate			FWE-P1-003		
+172.22.0.33	Fortigate- -Etherchannel DMZ to Sophos 			FWE-P1-003		
+172.22.0.34	Sophos_ Lag0			FWE-P1-002		
+172.22.0.49	Eth8			RTE-P1-001		
+172.22.0.50	Eth4			RTE-P1-002		
+172.22.0.53	Fortigate - Vdom Link PublicWAN(internet) - RootVdom			FWE-P1-003		
+172.22.0.54	Fortigate - Vdom Link RootVdom - PublicWAN(internet) 			FWE-P1-003		
+172.22.1.249	VCSA1-HA Network	used for vcsa ha heartbeat				
+172.22.1.250	VCSA2-HA Network	used for vcsa ha heartbeat				
+172.22.1.251	VCSA witness-HA Network	used for vcsa ha heartbeat				
+172.22.10.1	SWC-P1-001					
+172.22.10.2	SWD-P1-001					
+172.22.10.3	SWD-P1-002-new					
+172.22.10.4						
+172.22.10.5	SWS-P1-001					
+172.22.10.6	SWS-P1-002					
+172.22.10.7	SWS-P1-003					
+172.22.10.8	SWS-P1-000-Core		loopback 0			
+172.22.10.9	SWDMZ-P1-001					
+172.22.10.10	SWA-P1-002	Pedaran- Floor Ground- Wireless Team		SWA-P1-002		
+172.22.10.11	SWA-P1-001					
+172.22.10.12	SWA-P2-001					
+172.22.10.13	SWA-P2-002					
+172.22.10.14	SWA-P2-003					
+172.22.10.15	SWA-P3-001					
+172.22.10.16	SWA-P4-001					
+172.22.10.17	SWA-P4-002					
+172.22.10.18	SWA-P5-001					
+172.22.10.19	SWA-P0-001					
+172.22.10.20	SWA-P4-002-Access					
+172.22.10.21	Server Room Access Door					
+172.22.10.22	Floor 2 Access Door					
+172.22.10.23	NOC SD Access Door _ FingerPrint					
+172.22.10.24	Floor 3 Access Door					
+172.22.10.25	SWA-P3-002					
+172.22.10.29	Fortigate Management - port Management			FWE-P1-003		
+172.22.10.30	SWD-AJ0-001 (Distribiution)					
+172.22.10.31						
+172.22.10.32	SWA-AJ2-001					
+172.22.10.33	SWA-AJ3-001					
+172.22.10.38	KVM	Pedaran-rack 2	Aten 8 Port USB KVM	CS1708i		
+172.22.10.40						
+172.22.10.41						
+172.22.10.42						
+172.22.10.43						
+172.22.10.44						
+172.22.10.46						
+172.22.10.48	SWA-AJ1-001-HR					
+172.22.10.50						
+172.22.10.51	SWA-AW-001					
+172.22.10.52	RTE-AW-001	Anbar Azadi		RTE-AW-001		
+172.22.10.53	AP Unifi Azadi warehouse	Azadi Warehouse	in SWA-AW-001__Fa 0/20			
+172.22.10.55	Server Room Environment Sensor					
+172.22.10.60	RTE-P1-001			RTE-P1-001		
+172.22.10.61	RTE-P1-001			RTE-P1-001		
+172.22.10.62	RTE-P1-002 (NAT server)			RTE-P1-002		
+172.22.10.63	RTE-P1-003-Opmn			RTE-P1-003-Opmn		
+172.22.10.68	SWA-AJ5-001					
+172.22.10.70	SWA-AJ1-002-IT					
+172.22.10.72	SWA-AJ4-001					
+172.22.10.73						
+172.22.10.74						
+172.22.10.75	SWA-AJ4-002-	Arjanteen				
+172.22.10.80						
+172.22.10.81						
+172.22.10.82	AP-Pedaran-F5Gi049		UAP LRv2			
+172.22.10.83	AC-P3-Cisco(Cisco WAP4410N)	Pedaran-Floor3	Manage:Vlan810 // 	AC-P3-Cisco			
+172.22.10.84						
+172.22.10.85						
+172.22.10.86						
+172.22.10.88						
+172.22.10.89						
+172.22.10.90						
+172.22.10.92						
+172.22.10.94	AP-P3-Linksys (Floor 3 - Linksys LAPAC1200)	Pedaran	Manage:Vlan810 // SWA-P3-001__Fa 0/12	AP-P3-Linksys			"Port 80,443"
+172.22.10.95	AC-P2-Cisco(Cisco WAP4410N)	Pedaran		AC-P2-Cisco(Cisco WAP4410N)		
+172.22.10.100	Cisco AS 5300 VoIP Gateway					
+172.22.10.110						
+172.22.10.111	AP-Pedaran-F5Gi013		UAP LR			
+172.22.10.112	AP-Arj-Floor3	Arjanteen		AP-Arj-Floor3		
+172.22.10.113	AP-Arj-Floor5	Arjanteen	UAP LR	AP-Arj-Floor5		
+172.22.10.114	AP-Arj-Floor1	Arjanteen	UAP LRv2	AP-Arj-Floor1		
+172.22.10.115	AP-Pedaran-F4 UNIFI					
+172.22.10.116	AP-Arj-Floor5-2	Arjanteen - Floor 5		AP-Arj-Floor5-2		
+172.22.11.1	ASAv-Primary-Failover					
+172.22.11.2	ASAv-Secondary-Failover					
+172.22.11.9	Gateway-NVR5			TEH-Tavanir-G__Gi 1/40		
+172.22.11.13	Gateway NVR7			TEH-Tavanir-G__Gi 1/42		
+172.22.11.17	SWC-P1-001 - VLAN 180					
+172.22.11.18	Tavanir Arjanteen MT AP					
+172.22.11.19	Tavanir Arjanteen MT SU					
+172.22.11.20	Tavanir Arjanteen MT B2B AP					
+172.22.11.21	Tavanir Arjanteen MT B2B SU					
+172.22.12.1	interface vlan 181 on SWC-P1-001			SWC-P1-001		
+172.22.12.2	 Huawie Radio Link of Tav-Arj __ on Arjanteen site Manage					
+172.22.20.1	Default Gateway			SWS-P1-000-Core__Vlan820		
+172.22.20.2	SRV-ESX01					
+172.22.20.3	Server-Test-0221					
+172.22.20.5	Manage VDI- Noc					
+172.22.20.6	Mange Server 0223					
+172.22.20.30	Windows Server 2022 For test		wintest.respina.net			
+172.22.20.31	Time Report Server Temp			SRV-KasraPlus.respina.net		
+172.22.20.32	VeeamProxy on host 55		VeeamProxy	ivw101-veeamproxy		
+172.22.20.33	VeeamProxy on host 60		VeeamProxy	ivw103-veeamproxy			
+172.22.20.34	VeeamProxy on host 51		VeeamProxy	 ivw104-veeamproxy			
+172.22.20.35	VeeamProxy on host 52		VeeamProxy	ivw105-veeamproxy			
+
+
+172.22.20.36	VeeamProxy on host 53		VeeamProxy	ivw106-veeamproxy			
+
+
+172.22.20.37	VeeamProxy on host 54		VeeamProxy	ivw107-veeamproxy			
+
+172.22.20.38	VeeamProxy on host 56		VeeamProxy	ivw108-veeamproxy			
+
+172.22.20.39	VeeamProxy on host 57		VeeamProxy	ivw109-veeamproxy			
+
+172.22.20.40	VeeamProxy on host 61		VeeamProxy	ivw110-veeamproxy			
+
+172.22.20.48	vcsa witness					
+172.22.20.49	vcsa2	standby vcsa				
+172.22.20.50	Vcenter-SRV.respina.net	active vcsa				
+172.22.20.51	ESXi SRV 01					
+172.22.20.52	ESXi SRV 02					
+172.22.20.53	ESXi SRV 03					
+172.22.20.54	ESXi SRV 04					
+172.22.20.55	ESXi SRV 05					
+172.22.20.56	ESXi SRV 06					
+172.22.20.57	ESXi SRV 07					
+172.22.20.58	ESX-SRV-08			ESX-SRV-Voip1.respina.net		
+172.22.20.59	ESX-SRV-09			ESX-SRV-Voip2.respina.net		
+172.22.20.60	ESX-SRV-10					
+172.22.20.61	ESX-SRV-11					
+172.22.20.62	ESXI G9	tavanir		Vcenter 8 + ESXI 8		
+172.22.20.63	PO3__SRV-ESX01_Tavanir_Cluster	SME's Host				
+172.22.20.64						
+172.22.20.66	ESXi SRV 13					
+172.22.20.71	VMkernel vMotion ESXi01					
+172.22.20.72	VMkernel vMotion ESXi02					
+172.22.20.73	VMkernel vMotion ESXi03					
+172.22.20.74	VMkernel vMotion ESXi04					
+172.22.20.79	ESX-Backup-Server.respina.net					
+172.22.20.80	Backup Server Second NIC					
+172.22.20.100	mgmt NAS Server					
+172.22.20.101	mgmt NAS Server					
+172.22.20.110	VDI-VCENTER					
+172.22.20.111						
+172.22.20.112	VDI SRV02 ESXi					
+172.22.20.113						
+172.22.20.114	VDI SRV04 ESXi			VDI-Server4.respina.net		
+172.22.20.115	ESX-NOC			vdi-server5.respina.net		
+172.22.20.116	VDI SRV05 ESXi					
+172.22.20.117	manage VDI S5					
+172.22.20.118	manage VDI S3					
+172.22.20.119	manage VDI S6					
+172.22.20.120	vcenter-vdi.respina.net			vcenter-vdi.respina.net		
+172.22.20.121	ESXi Test					
+172.22.20.122	VDI Vcenter 					
+172.22.20.130	MIS ESXi			esx-mis		
+172.22.20.200	Exchange Server Second NIC					
+172.22.20.201	SRV-ESX201					
+172.22.21.1	MNG Macro Arjanteen Tavanir			SWC-P1-001--Vlan182		
+172.22.21.5	g.w			SWC-P1-001--Vlan947		
+172.22.21.6	UPS Arjanteen Floor 5 					
+172.22.22.1	Default Gateway					
+172.22.22.2						
+172.22.22.11	SRV-ESX01					
+172.22.22.12	ILO NOC-VDI					
+172.22.22.13	ESXi SRV01 ILO					
+172.22.22.14	ESXi SRV02 ILO					
+172.22.22.15	ESXi SRV04 ILO					
+172.22.22.16	(IN USE)					
+172.22.22.17	Server-Test-0221					
+172.22.22.18	ILO Server 0223					
+172.22.22.20	ipmi server test					
+172.22.22.21	HP_DL380G9__No name yet			SWS-P1-000-Core		
+172.22.22.25	ESXi SRV05 ILO					
+172.22.22.26	ESXi SRV06 ILO					
+172.22.22.27	used!!!			SWS-P1-000-Core--Gi 1/0/3		
+172.22.22.30	SQL  MASTER	TAVANIR					172.22.36.14 IPMI
+172.22.22.40	NOC-Monitoring-IPMI					
+172.22.22.41	Google Earth Server ILO					
+172.22.22.42	IT Test Server IPMI					
+172.22.22.43	New Technical Terminal IPMI					
+172.22.22.44	Backup-Server-Tavanir IPMI					
+172.22.22.50						
+172.22.22.53	ESXi SRV03 ILO					
+172.22.22.54	(IN USE)					
+172.22.22.57	(IN USE)					
+172.22.22.58	ESX-SRV-08-ILO					
+172.22.22.59	ESX-SRV-09-ILO					
+172.22.22.60	ESX-SRV-10-ILO					
+172.22.22.61	ESX-SRV-11-ILO	Pedaran	ESX-SRV-11	ESX-SRV-11		
+172.22.22.62	ILO G9	tavanir		Vcenter 8 + ESXI 8			برای جایگزین کردن با سرور 61 راه اندازی شده است
+172.22.22.63	ILO CGNAT Server					
+172.22.22.64						
+172.22.22.65	ESX-SRV-13-ILO					
+172.22.22.111	VDI Server 1 - IPMI					
+172.22.22.112	VDI Server 2 - IPMI					
+172.22.22.113	VDI Server 3 - IPMI					
+172.22.22.114	VDI Server 4 - IPMI					
+172.22.22.115	ESX NOC ILO					
+172.22.22.116	VDI Server 5 - IPMI					
+172.22.22.117	(IN USE)					
+172.22.22.119	VDI Server 6 - ILO					
+172.22.22.120	 ILO_HP-DL360_-SME-Server-Cisco-ISE					
+172.22.22.201						
+172.22.30.1	SWDMZ -Vlan 830 - GW			SWDMZ-P1-001		
+172.22.30.10							New Respina Website
+172.22.30.11							New nexfon site
+172.22.30.12	respina landing page server					
+172.22.30.13						
+172.22.30.15	SRV-Exchange-2019-NEW					
+172.22.30.16	exchange server 2 ha		exchange server 2 ha			
+172.22.30.17	Kemp LoadBalancer		For 2 ExchangeServer	Kemp		
+172.22.30.20	ASAv2-Primary-Outside					
+172.22.30.21	ASAv2-Secondary-Outside					
+172.22.30.22	dns shekan 1					
+172.22.30.23	dns shekan 2					
+172.22.30.25	Respina Website - Backup					
+172.22.30.26	Acts.respina.net (Adobe Connect) - Private-IP					
+172.22.30.27	Meeting.respina.net (Adobe Connect) - Private-IP					
+172.22.30.28	Adobe-Connect-SRV					
+172.22.30.29	Ookla Speedtest					
+172.22.30.30	Mino server	arjantin	Mino server			
+172.22.30.31						
+172.22.30.40						
+172.22.30.41						
+172.22.30.42						
+172.22.30.43						
+172.22.30.61	ivw124-dycrmap1	dynamic crm app server				
+172.22.32.1	Default Gateway					
+172.22.32.2							New Syslog Server on 15-April-2024
+172.22.32.4	KasperSky Server			KasperSky			
+172.22.32.5	DHCP FAILOVER		RSPNIVW98	dhcp		
+172.22.32.6	PMP For DSS	server 61		dssPmp.respina.net		
+172.22.32.7						
+172.22.32.8	ebrahimzadeh		RSPNIVW96	CASRV	362		Made to generate the https certificates in respina.net
+172.22.32.9	Rabiei test					
+172.22.32.10	NProxy.respina.net		Proxy Server			
+172.22.32.11	OpenWrt					
+172.22.32.12	IPPlan					
+172.22.32.13	phpIPAM					
+172.22.32.14	HR Training Server					
+172.22.32.15	Mr.Porooshani					
+172.22.32.16	Mr.Porooshani					
+172.22.32.17	CentOS-Demo-MrBaraki-Test						
+172.22.32.18	PRTG-IS					
+172.22.32.19	Linux Test For ITIS					
+172.22.32.20	Zabbix-IS					
+172.22.32.21	nexfon-customers-panel.respina.net	New nexfon portal		IVW104-NXFPRT01		
+172.22.32.22	Rahkaran-hesabdari						m.sattari
+172.22.32.23	Ansible Server	Ansible 		ivl96-ansbl01.respina.net		
+172.22.32.24	Manage Engine Desktop Central	Owner : Mr.Faraji				
+172.22.32.25	Time Report					
+172.22.32.26	Shahkar Server					
+172.22.32.27	Mr. EftekharZadeh New Server					
+172.22.32.28	Chargoon			mokatebat.respina.net		
+172.22.32.29	HR Server					
+172.22.32.30	CRM			agents.respina.net		
+172.22.32.31	Network Security Mail Client					
+172.22.32.32	tv.respina.net					
+172.22.32.33	Bina EMS System					
+172.22.32.34	Manage Engine Log Analayzer					
+172.22.32.35	UPS NMS					
+172.22.32.36	support.respina.net					
+172.22.32.37	Test Ms. Rezaei					
+172.22.32.38	New Shahkar Windows Server					
+172.22.32.39	NIS Server					
+172.22.32.40	ITSM Server					
+172.22.32.41	IBSNG					
+172.22.32.42	GitLab Replication					
+172.22.32.43	Organization Git					
+172.22.32.44	Qlikview					
+172.22.32.45	Tadvin Web Server					
+172.22.32.46	SharePoint-01					
+172.22.32.47	SharePoint-02					
+172.22.32.48	R&D TFTP Server					
+172.22.32.49	Sales Exam Server					
+172.22.32.50	DNS Proxy Server					
+172.22.32.51	Skype for Business _ Sip.respina.net			Sip.respina.net & SRVSKYPE.respina.net		
+172.22.32.52	AlienVault					
+172.22.32.53	Mr. Sadri Test Server					
+172.22.32.54	Ansible					
+172.22.32.55	SIAM Server					
+172.22.32.56	Device Expert					
+172.22.32.57	Debian Local Repository					
+172.22.32.58	Siam & CRM & NMS (.respina.net)		some website are all hosted on this host on differents ports	Siam & CRM & NMS (.respina.net)		
+172.22.32.59	OpenMeetings					
+172.22.32.60	Mikrotik User Manager		Mikrotik Radious Server			
+172.22.32.61	Skype for Business Web Proxy			webproxy.respina.net		
+172.22.32.62	NOC Wamp					
+172.22.32.63	bi.respina.net					
+172.22.32.64	B2B					
+172.22.32.65	Kerio Operator					
+172.22.32.66	Cisco Prime			prime.respina.net		
+172.22.32.67	Grafana Test Server					
+172.22.32.68	DEXIDP 			WebApp.respina.net		
+172.22.32.69	New Dynamics 365					
+172.22.32.70	CRM365					
+172.22.32.71	OpenVAS					
+172.22.32.72	Hamkaran System Dasht Software					
+172.22.32.73	Adobe Connect Test					
+172.22.32.74	AvantFax QPanel					
+172.22.32.75	AvantFax QPanel					
+172.22.32.76	ESET Antivirus Server					
+172.22.32.77	Door Access					
+172.22.32.78	Time Report Temp					
+172.22.32.79	Google Earth			biztalk.respina.net		
+172.22.32.80	Shamsa-Monitoring (TAP)For CRM 					
+172.22.32.81	KMS					
+172.22.32.82	Ms sharghi elastix-test					
+172.22.32.83	Ms sharghi elastix-test2					
+172.22.32.84	app.respina.net					
+172.22.32.85	WSUS					
+172.22.32.86	TFS					
+172.22.32.87	openDCIM					
+172.22.32.88	SME TFTP Server					
+172.22.32.89	WNMS					
+172.22.32.90	Jira					
+172.22.32.91	HA-Proxy-420-TELC					
+172.22.32.92	Azure-DEVOPS-R&D			devops.respina.net		
+172.22.32.93	Nexfon-PRTG.respina.net					
+172.22.32.94	ticketing.abrenik.com && ipam.respina.net					
+172.22.32.95	new itsm 2					
+172.22.32.96	Skype for Business Edge Server					
+172.22.32.97	Adobe-Connect Private IP 1					
+172.22.32.98	Adobe-Connect Private IP 2					
+172.22.32.99	zabbix view virtual ip					
+172.22.32.100	Zabbix-NX-01					
+172.22.32.101	Zabbix-WB-01					
+172.22.32.102	Zabbix-WB-02					
+172.22.32.103	Zabbix-DB-01					
+172.22.32.104	Zabbix-DB-02					
+172.22.32.105	Exchange witness					
+172.22.32.106	zabbix server test					
+172.22.32.107	ivl92-zbxdb01	zabbix view DB				
+172.22.32.108	ivl94-zbxdb02	zabbix view DB 				
+172.22.32.109	IVW18			مودیان - تدوین			به اینترنت دسترسی دارد
+172.22.32.110	V2ray					
+172.22.32.111	OPManager			opmanager.respina.net		
+172.22.32.112	Test-Ms-Rezaei-00-06-13					
+172.22.32.113	Test-Ms-Rezaei-00-06-13					
+172.22.32.114	NEX server		Owner: Mrs.Rezaei				
+172.22.32.115	ivl95-zbxlb02	zabbix view reverse proxy				
+172.22.32.116	ivl93-zbxlb01	Zabbix view reverse proxy 				
+172.22.32.117	IVW58-CRMAP01	New CRM 				
+172.22.32.118	IVW66-CRMDB01	New CRM DB				
+172.22.32.119	IVW74-CRMRS01	New CRM DB Reporting Service				
+172.22.32.120						
+172.22.32.121	Sharepoint2019	IVW92-BPMAPP01		IVW92-BPMAPP01.respina.net && portal.respina.net		
+172.22.32.122	Rahkaran-APP		RSPNIVW88 _ Debian	IVW88RahkaranAPP.respina.net  && financial.respina.net			
+172.22.32.123	سامانه مودیان راهکاران		RSPNIVW109-سامانه مودیان راهکاران	ITSM-DB-nemati.respina.net		
+172.22.32.124	power bi new			ivw91-pwrBI01.respina.net		
+172.22.32.125	POWERBI.respina.net					
+172.22.32.126	endian test					
+172.22.32.127	IVL50-DNSLB01	DNS load balancer				
+172.22.32.128	dns test					
+172.22.32.129	Ceph Server 1	Devops - Ms.Mohammadi		IVL70-CEPH01.respina.net		
+172.22.32.130	Ceph Server 2	Devops - Ms.Mohammadi		IVL73-CEPH02.respina.net		
+172.22.32.131	Ceph Server 3	Devops - Ms.Mohammadi		IVL75-CEPH03.respina.net		
+172.22.32.132	Ceph Server 4	Devops - Ms.Mohammadi		IVL81-CEPH04.respina.net		
+172.22.32.133	IVL82-ANSBL02	R&D Ansible server		IVL82-ANSBL02.respina.net		
+172.22.32.134	IVL83-NEXCL01	R&D (Fariba Mohammadi)		IVL83-NEXCL01.respina.net		
+172.22.32.135	Ceph Server 5	Devops - Ms.Mohammadi				
+172.22.32.136	IVL100-CLDSTK01	Devops - Ms.Mohammadi				
+172.22.32.137	sb-core (stackbill test)	owner: fariba mohammadi - R&D				
+172.22.32.138	sb-addon (stackbill test)	owner: fariba mohammadi - R&D				
+172.22.32.139	sb-db (stackbill test)	owner: fariba mohammadi - R&D				
+172.22.32.140	sb-zab (stackbill test)	owner: fariba mohammadi - R&D				
+172.22.32.141	ivl107-spdtst01	speedtest				
+172.22.32.142	ivw120-pmpsme01	SME Pass manager		IVW120-PMPSME01.respina.net		
+172.22.32.143	RDS Test					
+172.22.32.145	IVW03-SMEWMNT	Owner : SME Wireless				
+172.22.36.1	Default Gateway			SWS-P1-000-Core__Vlan836		
+172.22.36.10	Sharepoint-01					
+172.22.36.11	SharePoint-02					
+172.22.36.12	Sharepoint2019			IVW93-BPMDB01.respina.net		
+172.22.36.13	dynamic crm database server			IVW125-DYCRMDB1.respina.net		
+172.22.36.14	SRVSQL-MASTER					
+172.22.36.17	srvsql-slave.respina.net					
+172.22.36.20	DB Cluster			SRVSQL-SLAVE		
+172.22.36.21	DB Projects			DBServer.respina.net		
+172.22.36.36	ITSMNematiTest.respina.net					
+172.22.38.1	Default Gateway			SWS-P1-000-Core__Vlan838		
+172.22.38.7	database					
+172.22.38.8	CS4.respina.net					
+172.22.38.9	Rabiei					
+172.22.38.10	OTP Mixedpass			IVL59-MIXOTP01.respina.net		
+172.22.38.11	VDI Main Connection Server					
+172.22.38.12	CS2.Respina.net 			cs2.respina.net		
+172.22.38.13	VDI Database			VDI-DB.respina.net		
+172.22.38.14	VDI Composer			composer.respina.net		
+172.22.38.15	FreeRadius - OTP					
+172.22.38.16	VDI RDS App Pool			App-Pool.respina.net		
+172.22.38.17	IS Network ACS		Cisco ACS			
+172.22.38.18	NOC/SME Cisco ACS server		WAN-ACS-Server-1			
+172.22.38.19	VMware UEM			RDS-App.respina.net		
+172.22.38.20	---Free--- Connection Server Replication					
+172.22.38.21	VDI Server 1 VMotion					
+172.22.38.22	VDI Server 2 VMotion					
+172.22.38.23	VDI Server 3 VMotion					
+172.22.38.24	VDI Server 4 VMotion					
+172.22.38.25	VMware vRealize					
+172.22.38.26	FreeRadius - OTP					
+172.22.38.27	HP Monitoring					
+172.22.38.28	NOC ACS 2		WAN-ACS-Server-2			
+172.22.38.29	Veeam ONE Monitor			veeamone.respina.net		
+172.22.38.30	File Server			file-srv.respina.net		
+172.22.38.31	vRealize			vRealizeClusterNode.respina.net		
+172.22.38.32	vRealize Host55  v8.14			Backup-srv2.respina.net		
+172.22.38.33	vRealize Log Insight					
+172.22.38.34	VDI NOC - SQL 2016			SQL2016-Noc.respina.net		
+172.22.38.35	VDI NOC - Composer			Composer-noc.respina.net		
+172.22.38.36	VDI NOC - CS3.Respina.net			Cs3.respina.net		
+172.22.38.37	Splunk Server					
+172.22.38.38	IS Network Syslog Server			syslog.respina.net		
+172.22.38.39	Tehran Physical VoIP Server Secondary NIC					
+172.22.38.40	Tehran Virtual VoIP Server Secondary NIC					
+172.22.38.41	PrintServer 			Printer-Server.respina.net		
+172.22.38.42	VDI Composer New			VDI-composer.respina.net		
+172.22.38.43	Backup-Server			BackupTAVANIR.respina.net		
+172.22.38.44	Manage-Password-Sever			PMP.respina.net		
+172.22.38.45	TELC-SRV-PBX-1		TELC 48-58 Server (ping is restricted)			
+172.22.38.46	Fusion PBX			ivl114-fuspbx01		
+172.22.38.47	Fusion PBX					
+172.22.38.48	SME's Cisco ISE	SME's Cisco ISE		rspn-cisco-ise.respina.net		
+172.22.38.49	IVW121-ARCH1	Archive server		freenas.respina.net		
+172.22.38.50	Backup File Server 			nsx-b.respina.net		
+172.22.38.51	DB server for TelC					
+172.22.38.52	Central database for TelC					
+172.22.38.53						
+172.22.38.54						
+172.22.38.55	Central Panel server for TelC			callcenter.respina.net		
+172.22.38.58	TELC 48-58 -------------------------------					
+172.22.38.60	TFTP-VOIP-New					
+172.22.38.63	test of Desktop.respina.net		By Mr. Faraji	desktop.respina.net		
+172.22.38.64	PMP-Failover					
+172.22.38.65	SRV-Splunk-N.respina.net			SRV-Splunk-N.respina.net		
+172.22.38.66	DEXIDP 			oidc.respina.net		
+172.22.38.68	Cisco ISE SME			New Server -  2024-11-10		
+172.22.39.1	Default Gateway			SWS-P1-000-Core__Vlan839		
+172.22.39.2	Storage Server ImenPardis- Port1 Server	Pedaran	SWS-P1-000-Core__Vlan839			
+172.22.40.1	Default Gateway			SWS-P1-000-Core		
+172.22.40.13	IS-FTP-Server					
+172.22.40.14	ivsl06-splk01 (SOC Splunk IDX(Indexer) Server)	splunk linux				
+172.22.40.15	ivsl07-splk02 (SOC Splunk SH(Search Head) Server)	splunk linux				
+172.22.40.16	SOC XDR Server - Wazuh Indexer IDX & Dashboard	wazuh indexer	XDR ( Extended Detection Respone) / IDX (Indexer)	IVSL08-WZHIDX01		
+172.22.40.17	used!!!					
+172.22.40.18	SOC XDR Server - Wazuh Central Server			IVSL09-WZHSRV01		
+172.22.40.19	SME Splunk Server					
+172.22.40.20						
+172.22.40.21						
+172.22.40.22						
+172.22.40.26						
+172.22.40.27						
+172.22.40.28						
+172.22.40.29	Cisco-ISE - IT Department			rspn-ise.respina.net		
+172.22.40.30	fastvue.respina.net					
+172.22.40.31	fastvue.respina.net (Backup_Temporary)					
+172.22.40.32	IVSL01-SPUBA	Owner: SOC				
+172.22.40.33	IVSL02-ANSBL	Owner: SOC				
+172.22.40.61	ASA 5616			FWE-P1-001		
+172.22.40.62						
+172.22.40.70	RSPNIVl127-ACS-NEW					
+172.22.45.2	2nd IP on Etherchannel "LAN" on Fortigate			FWE-P1-003		
+172.22.48.1	Default Gateway					
+172.22.48.10	n.rezaei					
+172.22.48.11	n.rezaei					
+172.22.48.12	EVE-NG					
+172.22.48.13	(IN USE)					
+172.22.48.14	(IN USE)					
+172.22.48.15	(IN USE)					
+172.22.48.16	(IN USE)					
+172.22.48.19	faraji test					
+172.22.48.20	Rabiei Test VM					
+172.22.48.21	Rabiei Test VM					
+172.22.48.22	Rabiei Test VM					
+172.22.48.23	Rabiei Test VM					
+172.22.48.24	Rabiei Test VM					
+172.22.48.25	Rabiei Test VM					
+172.22.48.30	(IN USE)					
+172.22.48.40	AD & CA Test Server					
+172.22.48.41	Skype for Business Test Server					
+172.22.48.42	 Esxi 1					
+172.22.48.43	 vCenter					
+172.22.48.44	Win10_vCenter Setup					
+172.22.48.45	Connection Server 					
+172.22.48.51	(IN USE)					
+172.22.48.61	AD DC					
+172.22.48.62	Additional DC					
+172.22.48.63	Skype for Business					
+172.22.48.64	CA Server					
+172.22.48.65	ESXi 1 Test					
+172.22.48.66	ESXi 2 Test					
+172.22.48.67	ESX-TEST					
+172.22.48.68	Win11Workstation-Rabiei(Test)					
+172.22.48.69	DockerHost-Rabiei(Test)					
+172.22.50.1	Default Gateway			SWS-P1-000-Core__Vlan850		
+172.22.50.30	payment	Owner: MIS Developer Team (Morteza Khorsand)				
+172.22.50.32	test crm					
+172.22.50.36	CRM1-SRV					
+172.22.50.40	CRM2					
+172.22.50.41	CRM1-SRV					
+172.22.50.110	(used!)					
+172.22.100.129	TELC-PBX					
+172.22.100.130	TELC-PBX server ( Voip server )					
+172.22.100.131	TELC-PBX					
+172.22.100.133	VOIP-TFTP-Server for VOIP IPphones					
+172.22.130.2	printer					
+172.22.130.78	canon printer arj					
+172.22.131.31	HP LaserJet Pro 400 M401dn					
+172.22.131.33	HP LaserJet Pro 200 M251nw					
+172.22.131.44	Canon_ I-Sensys- MF4570dn (Printer,Scanner,Fax)					
+172.22.132.1	GW			SWC-P1-001--Vlan932		
+172.22.132.31	Issabel					
+172.22.132.37	R&D-Printer					
+172.22.132.47	R&D Server					
+172.22.132.100	ESX Server					
+172.22.132.115	CentOs Server					
+172.22.132.141	R&D Server					
+172.22.132.150	Git.respina.net					
+172.22.132.151	Jenkins Server					
+172.22.132.164	Nextcloud					
+172.22.132.230	R&D-Tavanir-Server-1					
+172.22.132.235	R&D-Hosted-Server					
+172.22.132.241	R&D-Squid					
+172.22.136.200	canon-Fl2-Arj					
+172.22.136.201	Sales-Printer					
+172.22.140.31				ABRENIKTC-1		
+172.22.140.32	Laptop IT					
+172.22.140.33	S.HASTYAR					
+172.22.140.37	N.REZAEI					
+172.22.140.41	M.KHAKI					
+172.22.140.42	M.KHAKI			RASHIDI-PC		
+172.22.140.43	M.REZOUNI			FILESERVER2		
+172.22.140.47						
+172.22.140.51				FILESERVER2		
+172.22.140.56				DESKTOP-K7B8OT0		
+172.22.140.58	Mr. Mehrmanesh					
+172.22.140.59	Monitoring TV					
+172.22.140.61	Mrs. Vahid			devsystem		
+172.22.140.62	Mr. Sadeghian	Pedaran - Floor 5				
+172.22.140.64	H.AMIRZADEH					
+172.22.140.65	Mrs. EtemadiNezhad			Expert1		
+172.22.140.67	Printer HP Negahbani	Arjanteen - Floor 0		HP LJ P1606dn		
+172.22.140.68	A.KHADEM					
+172.22.140.69	Mik V Management					
+172.22.140.70				TAVANIRHP-PC		
+172.22.140.72	A.Shahbazi					
+172.22.140.73				pc		
+172.22.140.74	MO.YOUSEFI					
+172.22.140.75				saeed		
+172.22.140.76	S.RASTI					
+172.22.140.77	H.HAZRATI					
+172.22.140.78	THIN-CLIENT					
+172.22.140.79	H.ZAREIPOOR					
+172.22.140.81				HP LaserJet Pro MFP M127fn		
+172.22.140.82	Laptop Mr. Khorsand					
+172.22.140.83	pc					
+172.22.140.84	pc					
+172.22.140.85	H.KHODADADI					
+172.22.140.86	RMB-LAPTOP ( For Conference Room)					
+172.22.140.87	A.RABIEI					
+172.22.140.93	Mr. Rabiei					
+172.22.140.95	Finger Print Device in Pedaran Floor Ground			SWA-P1-001- Fa 0/15		
+172.22.140.100	test					
+172.22.140.110	RSPNIVl127-ACS-NEW					
+172.22.140.235	Arjantin-Floor5-Cisco-Wifi					
+172.22.140.254	RTE-P1-001__ on interface Vlan940					
+172.22.141.10	Printer It	Arjantin First Floor				
+172.22.145.1	Gateway					
+172.22.146.1	Gateway					
+172.22.147.1	Default Gateway					
+172.22.148.1			Unknown - added by IPplan poller			
+172.22.148.23			Unknown - added by IPplan poller			
+172.22.148.26	HP LaserJet Pro MFP M225dn					
+172.22.148.27			Unknown - added by IPplan poller			
+172.22.150.1	GRE-Azadi - Edge					
+172.22.150.2	GRE-Azadi - Azadi					
+172.22.150.3	--------------------------------					
+172.22.151.1	Default Gateway					
+172.22.151.2	Camera HR	bcad.2864.bdf0		SWA-AJ1-001-HR- Fa 0/17		
+172.22.151.3	Arjantin-Floor2-Contract3					
+172.22.151.4	Arjantin-Parking-Outside2					
+172.22.151.5	Camera  Floor G - Lobby			SWA-AJ1-002-IT- Fa 0/46		
+172.22.151.6	Arjantin-Floor3-Regulatory	c42f.9049.4821				
+172.22.151.7	Tavanir-Elevator-Camera					
+172.22.151.8	Arjantin-Floor3-Am-Manager					
+172.22.151.9	Arjantin-Anbar-Outside			SWA-AJ1-002-IT- Fa 0/44		
+172.22.151.10	Arjanteen - Floor 1 Camera IT					
+172.22.151.11	Arjantin-Floor3-AM					
+172.22.151.12	Arjantin-Floor2-Contract-Manager					
+172.22.151.13	Arjantin-Parking-g2			SWA-AJ1-002-IT- Fa 0/43		
+172.22.151.14	Arjantin-Floor4-AE2					
+172.22.151.15	Arjantin-Floor3-AM					
+172.22.151.16	Arjantin-Parking-Corner	c42f.9049.47fd				
+172.22.151.17	Arjantin-Parking-Entry			SWA-AJ1-002-IT- Fa 0/45		
+172.22.151.18	Arjantin-Floor4-Sales-Manager					
+172.22.151.19	Arjantin-Floor2-Contract2					
+172.22.151.20	Arjantin-Floor4-AE1					
+172.22.151.21	Arjantin-Floor1-HR2					
+172.22.151.22	Arjantin-Floor4-AE					
+172.22.151.23	Tavanir-Floor1-FCW					
+172.22.151.24	Tavanir-Floor1-Back-Yard	c056.e397.898b				
+172.22.151.25	Arjantin-Parking-Entry-1			SWA-AJ1-002-IT- Fa 0/37		
+172.22.151.26	Arjantin-Floor5-Entry					
+172.22.151.27	Arjantin-Floor5-Confrence-Room					
+172.22.151.28	Arjantin-Floor5-Corner					
+172.22.151.29	Arjantin-Floor5-QA					
+172.22.151.30	Arjantin-Floor5-Hall					
+172.22.151.31	Arjantin-Server-Room					
+172.22.151.32	Arjantin-Floor1-R&D					
+172.22.151.33	Arjantin-Floor1-HR					
+172.22.151.34	Arjantin-Floor1-IT					
+172.22.151.35	Arjantin-Floor2					
+172.22.151.36	Arjantin Out-Door-Left					
+172.22.151.37	Arjantin Out-Door-Right					
+172.22.151.38	Arjantin-Left-Elevator					
+172.22.151.39	Arjantin-Parking-Ramp			SWA-AJ1-002-IT- Fa 0/36		
+172.22.151.40	Free					
+172.22.151.41	Free					
+172.22.151.42	Arjantin-Anbar-Inside					
+172.22.151.43	Arjantin-Parking			SWA-AJ1-002-IT- Fa 0/47		
+172.22.151.44	Free					
+172.22.151.45	Tavanir-Prayer-Room					
+172.22.151.46	Tavanir-Parking					
+172.22.151.47	Arjantin-Floor5-Kitchen					
+172.22.151.48	Arjantin-Floor5-EducationRoom					
+172.22.151.49	Free					
+172.22.151.50	Free					
+172.22.151.51	Cap1.respina.net					
+172.22.151.52	Cap2.respina.net	2857.beef.7573				
+172.22.151.53	Cap3.respina.net	2857.beef.7603				
+172.22.151.54	Free					
+172.22.151.55	Cap4.respina.net	bcad.28f0.37c1				
+172.22.151.56	Cap5.respina.net					
+172.22.151.57	Cap6.respina.net	2857.be8f.c822				
+172.22.151.58	Cap7.respina.net					
+172.22.151.59	Free					
+172.22.151.60	Arjantin-Camera-Floor 5					
+172.22.151.61	Free					
+172.22.151.62	Free					
+172.22.151.63	Free					
+172.22.151.64	Free					
+172.22.151.65	Free					
+172.22.151.66	Free					
+172.22.151.67	Free					
+172.22.151.68	Free					
+172.22.151.69	Free					
+172.22.151.70	Free					
+172.22.151.71	Arjantin-Roof-Corner-3					
+172.22.151.72	Arjantin-Roof-Middle-Gazebo					
+172.22.151.73	Arjantin-Roof-Corner-4					
+172.22.151.74	Arjantin-Right-Elevator					
+172.22.151.75	camera Floor 1 Pedaran					
+172.22.151.76	Free					
+172.22.151.86	camera Pray Room on Pedaran					
+172.22.151.87	Arjanteen - Floor 6 Camera (Roof)	Arjanteen				
+172.22.151.100	Radio-Arjantin-Camera-elevator-L1-AP	0855.3131.02fb				
+172.22.151.101	Radio-Arjantin-Camera-elevator-L1-SU	0855.3131.02f2				
+172.22.151.102	Free					
+172.22.151.103	Radio-Tavanir-Camera-elevator-Ap	0855.312b.df3b				
+172.22.151.104	Radio-Tavanir-Camera-elevator-SU	0855.312b.e0a6				
+172.22.151.105	Radio-Arjantin-Camera-elevator-L2-AP	0855.3131.0da5				
+172.22.151.106	Radio-Arjantin-Camera-elevator-L2-SU	0855.312b.df44				
+172.22.160.1	GW- Int Vlan 760 on Fortigate 			FWE-P1-003		
+172.22.165.1	Default Gateway					
+172.22.165.59				contract-001.respina.net		
+172.22.165.60				contract-002.respina.net		
+172.22.165.61				contract-003.respina.net		
+172.22.165.62				contract-004.respina.net		
+172.22.165.66				contract-006.respina.net		
+172.22.165.67				contract-007.respina.net		
+172.22.165.68				contract-008.respina.net		
+172.22.165.69	contract-009.respina.net			contract-009.respina.net		
+172.22.165.70				contract-010.respina.net		
+172.22.165.71				contract-011.respina.net		
+172.22.165.72				contract-012.respina.net		
+172.22.165.73				contract-013.respina.net		
+172.22.165.74				contract-014.respina.net		
+172.22.165.75				contract-015.respina.net		
+172.22.165.77				contract-017.respina.net		
+172.22.165.80				contract-020.respina.net		
+172.22.165.82				contract-022.respina.net		
+172.22.165.84				contract-024.respina.net		
+172.22.165.85				contract-025.respina.net		
+172.22.166.1	Default Gateway					
+172.22.167.1	Default Gateway					
+172.22.167.136				contract-026.respina.net		
+172.22.167.149				contract-027.respina.net		
+172.22.168.1	Default Gateway					
+172.22.176.1	GW - Vlan 1760 on SWS-Core					
+172.22.179.9	Fortigate					
+172.22.180.1	Gw - Fortigate Vlan 1800					
+172.22.180.13	Fortigate					
+172.22.180.29	GW					
+172.22.180.33	GW					
+172.22.180.37	GW					
+172.22.180.41	GW on Fortigate					
+172.22.180.42	IBSNG Server App & Web					
+172.22.187.10	ACP-PA6-002					
+172.22.190.0		free-ranges				
+172.22.190.1	Gateway					
+172.22.250.1	FWE-P1-003 Vlan 750  _ Gateway			FWE-P1-003		
+172.22.250.9	Fortigate Vlan 752 - Nessus Server for SOC Team			FWE-P1-003		
+172.22.250.17	Vlan 753 L2 Fortigate _ Rahkaran Remote Server		on Fortigate Vlan 753 			
+172.22.250.18	Server Rahkaran Remote Server			Vlan 753 L2 Fortigate		
+172.23.13.17	Gateway ptmp 1					
+172.23.13.18	Rb921 AP Ptmp1					
+172.23.13.19	Tose amouzesh majazi					
+172.23.13.20	Ara Cellulose Isfahan					
+172.23.13.21	Ara Cellulose Isfahan Local					
+172.23.13.22						
+172.23.13.51	Mr Carpet Isfahan					
+172.23.13.82	Arman Tadbir AP					
+172.23.13.83	Arman Tadbir Su					
+172.23.13.84	Arman Tadbir Local					
+172.23.13.98	Taknegin PTMP AP					
+172.23.13.99	Shayna SU						
+172.23.13.100	Daniellee Isfahan					
+172.23.13.101	Bank Saman Isfahan					
+172.23.13.102						
+172.23.42.2	UPS					
+172.23.42.3	Power Monitor					
+172.23.42.4	IPPhone					
+172.23.56.2	Emarat Saba UPS					
+172.23.56.3	Emarat Saba Power Monitor					
+172.23.56.4	Emarat Saba IPPhone					
+172.23.56.14	ASH SC2 Emarat Saba Huawei Management SU					
+172.23.57.161	Gateway					
+172.23.57.164	Mik RTL-BT-001					
+172.23.74.20	Popsite IPPhone					
+172.23.146.18	Anbar Javan UPS					
+172.23.146.19	Anbar Javan Power Monitor					
+172.23.146.20	Anbar Javan IPPhone					
+172.23.158.2	UPS					
+172.23.158.3	Power Monitor					
+172.23.158.4	IPPhone					
+172.23.160.16			Unknown - added by IPplan poller			
+172.23.160.17			Unknown - added by IPplan poller			
+172.23.160.18			Unknown - added by IPplan poller			
+172.23.160.19			Unknown - added by IPplan poller			
+172.23.180.10	Imen pardis server					
+172.23.180.157	Gateway__21-ESX-LCT-SRV2-VMKernel-IBSng-DataBase			RSPN-LCT-IDC-SW2		
+172.23.180.158	IBSng-DataBase					
+172.24.5.18	Gholhak UPS					
+172.24.5.19	Gholhak Power Monitor					
+172.24.5.20	Gholhak IPPhone					
+172.24.5.21	Gholhak CAM					
+172.24.23.165	Fortigate			FWE-P1-003		
+172.24.23.166	Mikrotik Transit					
+172.24.33.36				IDC-EMAM-MT-2		
+172.24.43.185	Mikrotik Transit					
+172.24.43.186	Fortigate			FWE-P1-003		
+172.24.107.5	On Eghbal Switch _ Gi 0/4					
+172.24.107.6	Switch Lan _ Fa 0/1					
+172.24.107.17	Gateway					
+172.24.115.41	Gateway					
+172.24.115.42	Mikrotik radio-- AP					
+172.24.115.43	Mikrotik Radio -- SU					
+172.24.115.44	RTE-BAA-001			RTE-BAA-001		
+172.25.2.1	Gateway __ Dc-Abrenik			SWS-P1-000-Core__Vlan11		
+172.25.2.2	DC22.Abrenik.com					
+172.25.2.4	IVW123-ABRDC2.Abrenik.com		Second DC for Abrenik			
+172.25.2.20	ivw110-OutPut.Abrenik.com					
+172.25.2.21	ivw113skypeAbr.Abrenik.com			dialin.abrenik.com		
+172.25.2.22	cs5.Abrenik.com					
+172.25.2.23	Skype Abrenik - Proxy Server Private IP					
+172.25.2.24	IVW117-SKPEDG01.Abrenik.com					
+172.25.2.25	ivw114-SDPAPP.Abrenik.com					
+172.25.2.26	ivw115-SDRDB.Abrenik.com					
+172.25.2.27	ivw121-abrcrm01	Abrenik CRM		IVW121-ABRCRM01.Abrenik.com		
+172.25.2.30	ExchAbr.Abrenik.com		Exchange Server for Abrenik			
+172.25.2.31	ExchDAGAbr.Abrenik.com					
+172.25.2.35	IVW58-CRMAPP01.Abrenik.com		& crm.abrenik.com			
+172.25.2.36	IVW66-CRMDB01.Abrenik.com					
+172.25.2.121	portal.abrenik.com					
+192.168.0.97	GW					
+192.168.0.98	Free					
+192.168.0.99	Free					
+192.168.0.100	Free					
+192.168.0.101	Free					
+192.168.0.125	RSPN-LCT-CRT					
+192.168.8.9	YeganehG	Shiraz	YeganehG			
+192.168.8.10	Shiraz Firewall	Shiraz	Shiraz Firewall			
+192.168.8.59	SC2 Mirdamad Management					
+192.168.8.60	Arax Shiraz Huawei 					
+192.168.12.226	AP					
+192.168.12.227	Vesam Motor Satarkhan SU					
+192.168.12.228	Vesam Motor Satarkhan Local					
+192.168.15.97	Router					
+192.168.15.98	PTMP WEST					
+192.168.15.113	yara teb samen					
+192.168.15.118	Baraka Shiraz					
+192.168.16.34	SC2 Novin Huawei1 Management AP					
+192.168.16.35	SC2 Novin Huawei2 Management AP					
+192.168.16.205						
+192.168.22.9	GW					
+192.168.22.10	Farhangian Power Monitor					
+192.168.24.1	PC1					
+192.168.24.4	YademanG					
+192.168.24.46	PCG Derakhti SM Management AP					
+192.168.24.129	Gateway					
+192.168.24.130	PTMP1					
+192.168.24.131	PTMP2					
+192.168.24.132	PTMP3					
+192.168.24.133	PTMP4					
+192.168.24.134	PTMP5					
+192.168.24.135	PTMP6					
+192.168.24.136	Kanoon Senfi Sakhteman						Kanoon Senfi Sakhteman
+192.168.24.137						
+192.168.24.138						
+192.168.24.139	Sayar Rayaneh					
+192.168.24.140	Sayar Rayaneh					
+192.168.24.141						
+192.168.24.142	PTMP Router					
+192.168.24.218							Pejvak Group Huawei Management AP
+192.168.24.219	Pejvak Group Huawei Management SU						Pejvak Group Huawei Management SU
+192.168.25.81	Gateway						Gateway in mikroutik router 192.168.24.1632
+192.168.25.82	Maral Charm					
+192.168.25.83						
+192.168.25.84	Taraz Pardazan Taha		Taraz Pardazan Taha				Taraz Pardazan Taha
+192.168.25.85	Mahan Airlines Karaj		Mahan Airlines Karaj				Mahan Airlines Karaj
+192.168.25.86	Salain  Talaghani						Salain  Talaghani
+192.168.25.87	Poonel Barsam					
+192.168.25.88	Razi Patholab Karaj					
+192.168.25.89	Bimeh Moalam Alborz					
+192.168.25.90	Soha Helal Alborz					
+192.168.25.91	Ms Nazerian					
+192.168.25.92	Bimarestan Aram 					
+192.168.25.128						
+192.168.29.2	UPS					
+192.168.29.3	Power Monitor					
+192.168.29.4	IPPhone					
+192.168.30.18	AP					
+192.168.30.19	Ms Tavakoli 					
+192.168.30.20	Mr Kalhor					
+192.168.30.50	AP					
+192.168.30.52						
+192.168.30.65	Derakhti PTMP1					
+192.168.30.68	Ms Sahafzadeh					
+192.168.30.69	Ronix Karaj					
+192.168.30.83	Bimeh Mihan Karaj					
+192.168.30.84	Razi Patholab Karaj					
+192.168.30.85	kowsar insurance 					
+192.168.30.86	Negin Sabz Borna					
+192.168.34.198	Azin Plast					
+192.168.34.199	Pardas Energy Eshtehard					
+192.168.34.200	Rayka Pokht					
+192.168.34.225	PTMP3 Gateway					
+192.168.34.226	PTMP 003 East Ap radio					
+192.168.34.227	Aliaj Josh SU					
+192.168.34.228	Alvan Karaj SU					
+192.168.35.2	Tarazoob Ap	Tarazoob ptmp				
+192.168.35.3	Alvand Niroo Eshtehard	Tarazoob ptmp				
+192.168.35.4	Nanavaran Asia					
+192.168.35.5	Mohandesi Fanavar Sanat					
+192.168.35.65	Gateway RWL-003-north-3566					
+192.168.35.66	RWL-003-north-3566					
+192.168.35.67	Naft Sepahan Eshtehard SU					
+192.168.35.68	free					
+192.168.35.69	delvar afzar eshtehard 					
+192.168.35.70	Sun Pack Alborz					
+192.168.35.71	Rangrazi Gouya					
+192.168.35.72			Raak Shimi Eshtehard			
+192.168.35.73			Raak Shimi Eshtehard			
+192.168.36.193	Radio Gateway					
+192.168.36.194	ptmp ap					
+192.168.36.195	Zarin Iran Anbar Hashtgerd SU					
+192.168.36.196	Saytal Sakht Hashtgerd SU					
+192.168.36.197						
+192.168.36.198	Mana Macaron					
+192.168.36.226	Latif-East-36226					
+192.168.36.227	Saytal Sakht Hashtgerd					
+192.168.36.228	Pomp Iran Karkhaneh					
+192.168.36.229	Saba Asanbar2					
+192.168.36.230	Saba Asanbar1					
+192.168.36.231	Pump Kala					
+192.168.36.232	Vista Best Karaj2					
+192.168.37.2	AP					
+192.168.37.3	Payam Noor University Hashtgerd		Payam Noor University Hashtgerd			
+192.168.37.30						
+192.168.37.66	AP					
+192.168.37.67	Barad Colour					
+192.168.37.68	Mana Macaron Alborz Internet					
+192.168.45.121	GW					
+192.168.45.122	Sc2 Aran Huawei					
+192.168.48.11	Isfahan University Management SU 					
+192.168.49.130	Jey PTMP-Eeast					
+192.168.49.131	sarvestan sepahan					
+192.168.49.132	sarvestan sepahan Local					
+192.168.49.146	AP					
+192.168.49.147	Paydar Imen Sepahan					
+192.168.49.148	Matin Kimia Sepahan					
+192.168.49.149	Dey Daroo Isfahan					
+192.168.51.68	Arka Shimi Isfahan					
+192.168.51.69	Arka Shimi Isfahan					
+192.168.58.13	CRT ChehelSotoun SM Management SU					
+192.168.58.14	Iranian ChehelSotoun Huawei Management AP					
+192.168.59.81	Gateway					
+192.168.59.82	Sharifi PTMP 1					
+192.168.59.83	Rikhregari Refah					
+192.168.59.84						
+192.168.66.10	CAM					
+192.168.66.11	CAM Inernal					
+192.168.66.12	CAM External					
+192.168.66.13	Jean West HRM & Jean West Poonak Markazi Huawei MGMT AP						Jean West HRM Huawei MGMT AP
+192.168.66.14						
+192.168.71.101	Sepid Sang Shiraz					
+192.168.71.102	Mashin Rod Shiraz					
+192.168.71.226	AP					
+192.168.71.227	Vesam Motor Manager					
+192.168.72.89	GW-Navard3-4					
+192.168.72.90	Ap					
+192.168.72.91	Su					
+192.168.72.97	GW-Navard3-13					
+192.168.72.98	Ap					
+192.168.72.99	Su					
+192.168.72.105	GW-BW3-7					
+192.168.72.106	Ap					
+192.168.72.107	Su					
+192.168.72.129	GW-Esk4-3					
+192.168.73.209	GW-Esk2-6					
+192.168.73.210	Ap					
+192.168.73.211	Su					
+192.168.75.145	GW					
+192.168.75.146	Management Su Lct Eskan Huawei					
+192.168.76.65	GW-Esk3-3					
+192.168.76.66	AP					
+192.168.76.67	SU					
+192.168.76.201	GW-Esk3-7					
+192.168.76.202	AP					
+192.168.76.203	SU					
+192.168.76.241	GW-Esk3-14					
+192.168.76.242	AP					
+192.168.76.243	SU					
+192.168.77.113	GW-Esk3-13					
+192.168.77.114	AP					
+192.168.77.115	SU					
+192.168.77.185	GW-Esk3-16					
+192.168.77.186	AP					
+192.168.77.187	SU					
+192.168.77.217	GW-Esk3-17					
+192.168.77.218	AP					
+192.168.77.219	SU					
+192.168.78.73	GW-Esk3-10					
+192.168.78.74	AP					
+192.168.78.75	SU					
+192.168.78.81	GW-Esk3-21					
+192.168.78.82	AP					
+192.168.78.83	SU					
+192.168.78.89	GW-Esk3-20					
+192.168.78.90	AP					
+192.168.78.91	SU					
+192.168.80.25	GW-Esk3-23					
+192.168.80.26	AP					
+192.168.80.27	SU					
+192.168.80.105	GW-Esk3-9					
+192.168.80.106	AP					
+192.168.80.107	SU					
+192.168.80.177	GW-Jhn-11					
+192.168.80.178	AP					
+192.168.80.179	Su					
+192.168.80.185	GW-Mahestan1-17					
+192.168.80.186	Ap					
+192.168.80.187	Su					
+192.168.80.201	GW-Bw1-20					
+192.168.80.202	Ap					
+192.168.80.203	Su					
+192.168.80.209	GW-Nav3- 2					
+192.168.80.210	Ap					
+192.168.80.211	Su					
+192.168.80.217	GW-Mahestan1-18					
+192.168.80.218	Ap					
+192.168.80.219	Su					
+192.168.80.226	Ap					
+192.168.80.227	Su					
+192.168.80.233	GW-Mahestan-19					
+192.168.80.234	Ap					
+192.168.80.235	Su					
+192.168.80.241	GW-Esk3-8					
+192.168.80.242	Ap					
+192.168.80.243	Su					
+192.168.80.249	GW-Esk4-2					
+192.168.80.250	Ap					
+192.168.80.251	Su					
+192.168.81.9	GW-Bw2-19					
+192.168.81.10	Ap					
+192.168.81.11	Su					
+192.168.81.17	GW-Navard-co1- 3					
+192.168.81.18	Ap					
+192.168.81.19	Su					
+192.168.81.25	GW-Navard3-6					
+192.168.81.26	Ap					
+192.168.81.27	Su					
+192.168.81.49	GW-Navard3-5					
+192.168.81.50	Ap					
+192.168.81.51	Su					
+192.168.81.57	GW-Bw1-24					
+192.168.81.58	Ap					
+192.168.81.59	Su					
+192.168.81.65	GW-BW1-1					
+192.168.81.66	Ap					
+192.168.81.67	Su					
+192.168.83.25						
+192.168.83.26						
+192.168.83.27						
+192.168.84.9	GW-Esk1-24					
+192.168.84.10	Ap					
+192.168.84.11	Su					
+192.168.84.17	GW-Esk1-7					
+192.168.84.18	Ap					
+192.168.84.19	Su					
+192.168.84.25	GW-Esk2-22					
+192.168.84.26	Ap					
+192.168.84.27	Su					
+192.168.84.33	GW-Esk2-5					
+192.168.84.34	Ap					
+192.168.84.35	Su					
+192.168.84.41	GW-Esk2-13					
+192.168.84.42	Ap					
+192.168.84.43	Su					
+192.168.84.57	GW-Esk3-4					
+192.168.84.58	Ap					
+192.168.84.59	Su					
+192.168.84.65	GW-Esk4-5					
+192.168.84.66	Ap					
+192.168.84.67	Su					
+192.168.84.73	GW-Esk3-15					
+192.168.84.74	Ap					
+192.168.84.75	Su					
+192.168.84.81	GW-Esk4-6					
+192.168.84.82	Ap					
+192.168.84.83	Su					
+192.168.84.89	GW-Esk3-22					
+192.168.84.90	Ap					
+192.168.84.91	Su					
+192.168.84.97	GW-Esk4-7					
+192.168.84.98	AP					
+192.168.84.99	SU					
+192.168.84.105	GW-Esk4-8					
+192.168.84.106	Ap					
+192.168.84.107	Su					
+192.168.84.113	GW-Esk4-9					
+192.168.84.114	Ap					
+192.168.84.115	Su					
+192.168.84.121	GW-Esk4-10					
+192.168.84.122	Ap					
+192.168.84.123	Su					
+192.168.84.137	GW-Esk4-12					
+192.168.84.138	Ap					
+192.168.84.139	Su					
+192.168.84.145	GW-Esk4-13					
+192.168.84.146	Ap					
+192.168.84.147	Su					
+192.168.84.169	GW-Esk4-16					
+192.168.84.170	Ap					
+192.168.84.171	Su					
+192.168.84.193	Gw-Esk4-19					
+192.168.84.194	Ap					
+192.168.84.195	Su					
+192.168.84.201	GW-Esk4-20					
+192.168.84.202	Ap					
+192.168.84.203	Su					
+192.168.84.209	GW-Esk4-21					
+192.168.84.210	Ap					
+192.168.84.211	Su					
+192.168.84.217	GW-Eskan4-22					
+192.168.84.218	Ap					
+192.168.84.219	Su					
+192.168.84.225	GW-Esk4-23					
+192.168.84.226	Ap					
+192.168.84.227	Su					
+192.168.84.233	GW-Esk4-24					
+192.168.84.234	Ap					
+192.168.84.235	Su					
+192.168.84.249	GW-Esk3-11					
+192.168.84.250	AP					
+192.168.84.251	SU					
+192.168.85.9	GW-Esk3-19					
+192.168.85.10	AP					
+192.168.85.11	SU					
+192.168.85.25	GW-Esk3-24					
+192.168.85.26	AP					
+192.168.85.27	SU					
+192.168.85.49	GW-Esk1-10					
+192.168.85.50	Ap					
+192.168.85.51	Su					
+192.168.85.57	GW-Esk1-12					
+192.168.85.58	Ap					
+192.168.85.59	Su					
+192.168.85.65	GW-Esk1-15					
+192.168.85.66	Ap					
+192.168.85.67	Su					
+192.168.85.73	GW-Esk2-3					
+192.168.85.74	Ap					
+192.168.85.75	Su					
+192.168.85.81	GW-Esk1-18					
+192.168.85.82	Ap					
+192.168.85.83	Su					
+192.168.85.89	GW-Esk1-5					
+192.168.85.90	Ap					
+192.168.85.91	Su					
+192.168.85.97	GW-Esk2-6					
+192.168.85.98	Ap					
+192.168.85.99	Su					
+192.168.85.105	GW-Esk2-8					
+192.168.85.106	Ap					
+192.168.85.107	Su					
+192.168.85.108	Petiak Airfiber2 AP Mng					
+192.168.85.109	Avagostar Zafar 1 Huawei Ap mng					
+192.168.85.110	Avagostar Zafar 1 Huawei SU mng					
+192.168.85.113	GW-Esk2-11					
+192.168.85.114	Ap					
+192.168.85.115	Su					
+192.168.85.121	GW-Esk2-16					
+192.168.85.122	Ap					
+192.168.85.123	Su					
+192.168.85.129	GW-Esk2-19					
+192.168.85.130	Ap					
+192.168.85.131	Su					
+192.168.85.137	GW-Esk1-1					
+192.168.85.138	Ap					
+192.168.85.139	Su					
+192.168.86.9	GW-BW4-24					
+192.168.86.10	Ap					
+192.168.86.11	Su					
+192.168.86.14	LCT SedaSima Exalt Ap Mng					
+192.168.86.33	GW-Esk2-12					
+192.168.86.34	Ap					
+192.168.86.35	Su					
+192.168.86.41	GW-Esk1-8					
+192.168.86.42	Ap					
+192.168.86.43	Su					
+192.168.86.49	GW-Esk1-21					
+192.168.86.50	Ap					
+192.168.86.51	Su					
+192.168.86.57	GW-Esk2-20					
+192.168.86.58	Ap					
+192.168.86.59	Su					
+192.168.86.65	GW-Esk3-5					
+192.168.86.66	Ap					
+192.168.86.67	Su					
+192.168.86.73	GW-Esk1-09, Esk3-17					
+192.168.86.81	GW-Esk3-16					
+192.168.86.82	Ap					
+192.168.86.83	Su					
+192.168.87.66	Avagostar Zafar SM Management AP					
+192.168.88.9						
+192.168.88.10						
+192.168.88.11						
+192.168.88.25	GW-Dooma1-3					
+192.168.88.26	Ap					
+192.168.88.27	Su					
+192.168.88.33	GW-Dooma-2					
+192.168.88.34	Ap					
+192.168.88.35	Su					
+192.168.88.41	GW-Dooma-4					
+192.168.88.42	Ap					
+192.168.88.43	Su					
+192.168.88.49	GW-Dooma-5					
+192.168.88.50	Ap					
+192.168.88.51	Su					
+192.168.88.57	GW-Dooma-8					
+192.168.88.58	Ap					
+192.168.88.59	Su					
+192.168.88.65	GW-Dooma-9					
+192.168.88.66	Ap					
+192.168.88.67	Su					
+192.168.88.73	GW-Dooma-10					
+192.168.88.74	Ap					
+192.168.88.75	Su					
+192.168.88.81	GW-Dooma-11					
+192.168.88.82	Ap					
+192.168.88.83	Su					
+192.168.88.89	GW-Dooma-12					
+192.168.88.90	Ap					
+192.168.88.91	Su					
+192.168.88.97	GW-Dooma-13					
+192.168.88.98	Ap					
+192.168.88.99	Su					
+192.168.88.121	GW-Dooma-17					
+192.168.88.122						
+192.168.88.129	GW-Dooma-18					
+192.168.88.130	Ap					
+192.168.88.131	Su					
+192.168.88.137	GW-Dooma-19					
+192.168.88.138	Ap					
+192.168.88.139	Su					
+192.168.88.145	GW-Dooma-20					
+192.168.88.146	Ap					
+192.168.88.147	Su					
+192.168.88.153	GW-Dooma-21					
+192.168.88.154	Ap					
+192.168.88.155	Su					
+192.168.88.161	GW-Dooma-22					
+192.168.88.162	Ap					
+192.168.88.163	Su					
+192.168.88.169	GW-Dooma-23					
+192.168.88.170	Ap					
+192.168.88.171	Su					
+192.168.88.177	GW-Dooma-24					
+192.168.88.178	Ap					
+192.168.88.179	Su					
+192.168.88.193	GW-Dooma2-3					
+192.168.88.194	Ap					
+192.168.88.195	Su					
+192.168.88.201	GW-Dooma2-2					
+192.168.88.202	Ap					
+192.168.88.203	Su					
+192.168.88.209	GW-Dooma2-4					
+192.168.88.210	Ap					
+192.168.88.211	Su					
+192.168.88.217	GW-Dooma2-5					
+192.168.88.218	Ap					
+192.168.88.219	Su					
+192.168.88.225	GW-Dooma2-7					
+192.168.88.226	Ap					
+192.168.88.227	Su					
+192.168.88.233	GW-Dooma2-6					
+192.168.88.234	Ap					
+192.168.88.235	Su					
+192.168.88.241	GW-Dooma2-8					
+192.168.88.242	Ap					
+192.168.88.243	Su					
+192.168.88.249	GW-Dooma2-9					
+192.168.88.250	Ap					
+192.168.88.251	Su					
+192.168.89.9	GW-Dooma2-10					
+192.168.89.10	Ap					
+192.168.89.11	Su					
+192.168.89.17	GW-Dooma2-11					
+192.168.89.18	Ap					
+192.168.89.19	Su					
+192.168.89.25	GW-Dooma2-12					
+192.168.89.26	AP					
+192.168.89.27	SU					
+192.168.89.33	GW-Dooma2-13					
+192.168.89.34	AP					
+192.168.89.35	SU					
+192.168.89.41	GW-Dooma2-14					
+192.168.89.42	Ap					
+192.168.89.43	Su					
+192.168.89.49	GW-Dooma2-15					
+192.168.89.50	Ap					
+192.168.89.51	Su					
+192.168.89.57	GW-Doma2-16					
+192.168.89.58	Ap					
+192.168.89.59	Su					
+192.168.89.65	GW-Domma2-17					
+192.168.89.66	Ap					
+192.168.89.67	Su					
+192.168.89.73	GW-Dooma2-18					
+192.168.89.74	AP					
+192.168.89.75	SU					
+192.168.89.81	GW-Dooma2-19					
+192.168.89.82	Ap					
+192.168.89.83	Su					
+192.168.89.89	GW-Dooma2-20					
+192.168.89.90	Ap					
+192.168.89.91	Su					
+192.168.89.97	GW-Dooma2-21					
+192.168.89.98	AP					
+192.168.89.99	SU					
+192.168.89.105	GW-Dooma2-22					
+192.168.89.106	AP					
+192.168.89.107	SU					
+192.168.89.113	GW-Dooma2-6					
+192.168.89.114	Ap					
+192.168.89.115	Su					
+192.168.89.121	GW-Dooma2-23					
+192.168.89.122	AP					
+192.168.89.123	SU					
+192.168.89.129	GW-Dooma2-20					
+192.168.89.130	Ap					
+192.168.89.131	Su					
+192.168.89.137	GW-Dooma2-24					
+192.168.89.138	Ap					
+192.168.89.139	Su					
+192.168.91.67	Hesabgar Tehran AP mang					
+192.168.91.68	Hesabgar Tehran SU mang					
+192.168.92.9	GW-Mahestan1-23					
+192.168.92.10	Ap					
+192.168.92.11	Su					
+192.168.92.33	GW-Mah2-4					
+192.168.92.34	Ap					
+192.168.92.35	Su					
+192.168.92.41						
+192.168.92.42						
+192.168.92.43						
+192.168.92.49	GW-Mah1-22,Dooma-6					
+192.168.92.50	Ap					
+192.168.92.51	Su					
+192.168.92.57	GW-Mah1-8					
+192.168.92.58	Ap					
+192.168.92.59	Su					
+192.168.92.65	GW-Mah2-5					
+192.168.92.66	Ap					
+192.168.92.67	Su					
+192.168.92.73	GW-Mah2-6					
+192.168.92.74	Ap					
+192.168.92.75	Su					
+192.168.92.81	GW-Mah2-7					
+192.168.92.82	Ap					
+192.168.92.83	Su					
+192.168.92.89	GW-Mah2-8					
+192.168.92.90	Ap					
+192.168.92.91	Su					
+192.168.92.97	GW-Mah2-9					
+192.168.92.98	Ap					
+192.168.92.99	Su					
+192.168.92.105	GW-Mah2-12					
+192.168.92.106	Ap					
+192.168.92.107	Su					
+192.168.92.113	GW-Mah2-13					
+192.168.92.114	Ap					
+192.168.92.115	Su					
+192.168.92.121	GW-Mah2-14					
+192.168.92.122	Ap					
+192.168.92.123	Su					
+192.168.92.129	GW-Mah1-11					
+192.168.92.130	Ap					
+192.168.92.131	Su					
+192.168.92.137						
+192.168.92.138						
+192.168.92.139						
+192.168.92.145	GW-Mah2-16					
+192.168.92.146	Ap					
+192.168.92.147	Su					
+192.168.92.153	GW-Mah2-17					
+192.168.92.154	Ap					
+192.168.92.155	Su					
+192.168.92.161	GW-Mah2-5					
+192.168.92.162	Ap					
+192.168.92.163	Su					
+192.168.92.169	Zharf Kam					
+192.168.92.170	Ap					
+192.168.92.171	Su					
+192.168.92.177	GW-Mah2-19					
+192.168.92.178	Ap					
+192.168.92.179	Su					
+192.168.92.185	GW-Mah2-17					
+192.168.92.186	Ap					
+192.168.92.187	Su					
+192.168.92.193	GW-Mah2-21					
+192.168.92.194	Ap					
+192.168.92.195	Su					
+192.168.92.201	GW-Mah2-22					
+192.168.92.202	Ap					
+192.168.92.203	Su					
+192.168.92.209	GW-Mah2-23					
+192.168.92.210	AP					
+192.168.92.211	Su					
+192.168.92.217	GW-Mah2-24					
+192.168.92.218	Ap					
+192.168.92.219	Su					
+192.168.92.225	GW-Mah1-7					
+192.168.92.226	Ap					
+192.168.92.227	Su					
+192.168.92.233	GW-3-3					
+192.168.92.234	Ap					
+192.168.92.235	Su					
+192.168.93.17	Mina-7 , Mah1-3					
+192.168.93.18	Ap Mahsetan					
+192.168.93.19	Su Mina					
+192.168.93.25	GW-Mah2-20					
+192.168.93.26	Ap					
+192.168.93.27	Su					
+192.168.93.33	GW-Mah3-8					
+192.168.93.34	Ap					
+192.168.93.35	Su					
+192.168.93.41	GW-Mah3-9					
+192.168.93.42	Ap					
+192.168.93.43	Su					
+192.168.93.49	GW-Mah3-10					
+192.168.93.50	Ap					
+192.168.93.51	Su					
+192.168.93.57	GW-Mah3-2					
+192.168.93.58	Ap					
+192.168.93.59	Su					
+192.168.93.73	GW-Mah3-12					
+192.168.93.74	AP					
+192.168.93.75	SU					
+192.168.93.89	GW-Mah3-14					
+192.168.93.90	Ap					
+192.168.93.91	Su					
+192.168.93.97	GW-Mah2-7					
+192.168.93.98	Ap					
+192.168.93.99	Su					
+192.168.93.105	GW-Mah3-15					
+192.168.93.106	Ap					
+192.168.93.107	Su					
+192.168.95.157	Petiak Link2 MGMT					
+192.168.96.9	GW-Mina-1					
+192.168.96.10	Ap					
+192.168.96.11	Su					
+192.168.96.17	GW-Mina-14					
+192.168.96.18	Ap					
+192.168.96.19	Su					
+192.168.96.25	GW-Mina-6					
+192.168.96.26	Ap					
+192.168.96.27	Su					
+192.168.96.41	GW-Mina-9					
+192.168.96.42	Ap					
+192.168.96.43	Su					
+192.168.96.49	GW-Mina-11					
+192.168.96.50	Ap					
+192.168.96.51	Su					
+192.168.96.65	GW-Mina-16					
+192.168.96.66	Ap					
+192.168.96.67	Su					
+192.168.96.73	GW-Mina1-18					
+192.168.96.74	Ap					
+192.168.96.75	Su					
+192.168.96.81	GW-Mina-19					
+192.168.96.82	Ap					
+192.168.96.83	Su					
+192.168.96.89	GW-Mina1-22					
+192.168.96.90	Ap					
+192.168.96.91	Su					
+192.168.96.97	GW-Mina1-23					
+192.168.96.98	Ap					
+192.168.96.99	Su					
+192.168.100.9	GW-Jah-12					
+192.168.100.10	Ap					
+192.168.100.11	Su					
+192.168.100.17	GW-Jahan Negar-13					
+192.168.100.18	Ap					
+192.168.100.19	Su					
+192.168.100.25	GW-Jahan Negar-21					
+192.168.100.26	Ap					
+192.168.100.27	Su					
+192.168.102.6	Eskan Ebne Sina Huawei Management SU					
+192.168.103.118	91077910					
+192.168.103.119	9426011553					
+192.168.103.120	09426005557					
+192.168.103.123	9426042252					
+192.168.103.124	91072025					
+192.168.103.125	91076644					
+192.168.103.127						
+192.168.103.129	91070468					
+192.168.103.130	91074076					
+192.168.103.131	91079727					
+192.168.103.132	91079727					
+192.168.104.9	GW-Ava2-3					
+192.168.104.10	Ap					
+192.168.104.11	Su					
+192.168.104.25	GW-Ava-9					
+192.168.104.26	Ap					
+192.168.104.27	Su					
+192.168.104.33	GW-Ava-22					
+192.168.104.34	Ap					
+192.168.104.35	Su					
+192.168.104.41	GW-Avabarid-7					
+192.168.104.42	Ap					
+192.168.104.43	Su					
+192.168.104.49	GW-Ava-5					
+192.168.104.50	Ap					
+192.168.104.51	Su					
+192.168.104.57	GW-Avabarid-10					
+192.168.104.58	Ap					
+192.168.104.59	Su					
+192.168.104.129						
+192.168.104.153	GW-Ava1-20					
+192.168.104.154	Ap					
+192.168.104.155	Su					
+192.168.104.161	GW-Ava1-2					
+192.168.104.162	Ap					
+192.168.104.163	Su					
+192.168.106.105						
+192.168.106.106						
+192.168.106.107						
+192.168.107.177			Iranian ADSL Gateway			
+192.168.107.178			Iranian ADSL Router			
+192.168.107.179			Iranian ADSL DSLAM			
+192.168.108.18	Ap					
+192.168.108.19	Su					
+192.168.108.25	GW-Navard Karaj-21					
+192.168.108.26	Ap					
+192.168.108.27	Su					
+192.168.108.33	GW-Navard Karaj-22					
+192.168.108.34	Ap					
+192.168.108.35	Su					
+192.168.108.41	GW-Navard Karaj-9					
+192.168.108.42	Ap					
+192.168.108.43	Su					
+192.168.108.49	GW-Navard Karaj-18					
+192.168.108.50	Ap					
+192.168.108.51	Su					
+192.168.108.57	GW-Navard Karaj-8					
+192.168.108.58	Ap					
+192.168.108.59	Su					
+192.168.108.65	GW-Navard Karaj-15					
+192.168.108.66	Ap					
+192.168.108.67	Su					
+192.168.108.73	GW-Navard Karaj-3					
+192.168.108.74	Ap					
+192.168.108.75	Su					
+192.168.108.81	GW-Navard Karaj-4					
+192.168.108.82	Ap					
+192.168.108.83	Su					
+192.168.108.89	GW-Navard Karaj-4					
+192.168.108.97	GW-Navard Karaj-7					
+192.168.108.98	Ap					
+192.168.108.99	Su					
+192.168.108.105	GW-Navard Karaj-8					
+192.168.108.106	Ap					
+192.168.108.107	Su					
+192.168.108.113	GW-Navard Karaj-13					
+192.168.108.114	Ap					
+192.168.108.115	Su					
+192.168.108.121	GW-Navard Karaj1-18					
+192.168.108.122	Ap					
+192.168.108.123	Su					
+192.168.108.129	GW-Navard Karaj2-3					
+192.168.108.130	Ap					
+192.168.108.131	Su					
+192.168.108.137	GW-Navard Karaj2-3					
+192.168.108.138	Ap					
+192.168.108.139	Su					
+192.168.108.145	GW-Navard Karaj2-4					
+192.168.108.146	Ap					
+192.168.108.147	Su					
+192.168.108.153	GW-Navard Karaj2-6					
+192.168.108.154	Ap					
+192.168.108.155	Su					
+192.168.108.161	GW-Navard Kara2-7					
+192.168.108.162	Ap					
+192.168.108.163	Su					
+192.168.108.177	GW-Navard Karaj2-8					
+192.168.108.178	Ap					
+192.168.108.179	Su					
+192.168.108.185	GW-Navard Karaj1-10					
+192.168.108.186	Ap					
+192.168.108.187	Su					
+192.168.108.193	GW-Navard Karaj2-15					
+192.168.108.194	Ap					
+192.168.108.195	Su					
+192.168.110.82	CRT NavardKaraj Huawei1 SU Manag					
+192.168.112.9	GW-Navard3-8					
+192.168.112.10	Ap					
+192.168.112.11	Su					
+192.168.112.17	GW-Navard3-7					
+192.168.112.18	Ap					
+192.168.112.19	Su					
+192.168.112.25	GW-Navard Iranshahr2-9					
+192.168.112.26	Ap					
+192.168.112.27	Su					
+192.168.112.33	GW-Navard Iranshahr2-10					
+192.168.112.34	Ap					
+192.168.112.35	Su					
+192.168.112.41	GW-Navard Iranshah1-3					
+192.168.112.42	Ap					
+192.168.112.43	Su					
+192.168.112.49	GW-Navard3-11					
+192.168.112.50	Ap					
+192.168.112.51	Su					
+192.168.112.57	GW-Navard3-14					
+192.168.112.58	Ap					
+192.168.112.59	Su					
+192.168.112.137	GW-Navard2-23					
+192.168.112.138	Ap					
+192.168.112.139	Su					
+192.168.112.145	GW-Navard3-8					
+192.168.112.146	Ap					
+192.168.112.147	Su					
+192.168.112.153	GW-Navard1-3					
+192.168.112.154	Ap					
+192.168.112.155	Su					
+192.168.112.161	GW-Navard1-24					
+192.168.112.162	Ap					
+192.168.112.163	Su					
+192.168.112.169	GW-Navard1-6					
+192.168.112.170	Ap					
+192.168.112.171	Su					
+192.168.112.185	GW-Navard4-4					
+192.168.112.186	Ap					
+192.168.112.187	Su					
+192.168.112.193	GW-Navard Iranshahr4-5					
+192.168.112.194	Ap					
+192.168.112.195	Su					
+192.168.112.201	GW-Navard Iranshhar4-6					
+192.168.112.202	Ap					
+192.168.112.203	Su					
+192.168.112.217	GW-Navard Iranshhar4-7					
+192.168.112.218	Ap					
+192.168.112.219	Su					
+192.168.112.225	GW-Navard3-10					
+192.168.112.226	Ap					
+192.168.112.227	Su					
+192.168.112.233	GW-Navard4-11					
+192.168.112.234	Ap					
+192.168.112.235	Su					
+192.168.112.241	GW-Navard1-GIG1, BW4-GIG13					
+192.168.112.242	Ap					
+192.168.112.243	Su					
+192.168.112.249	GW-Navard4-8					
+192.168.112.250	Ap					
+192.168.112.251	Su					
+192.168.113.9	GW-Navard2-8					
+192.168.113.10	Ap					
+192.168.113.11	Su					
+192.168.113.17	GW-Navard1-22					
+192.168.113.18	Ap					
+192.168.113.19	Su					
+192.168.113.25	GW-Navard1-1					
+192.168.113.26	Ap					
+192.168.113.27	Su					
+192.168.113.33	GW-Navard3-23					
+192.168.113.34	Ap					
+192.168.113.35	Su					
+192.168.113.41	GW-Navard2-16					
+192.168.113.42	Ap					
+192.168.113.43	Su					
+192.168.113.49	GW-Navard2-2					
+192.168.113.50	Ap					
+192.168.113.51	Su					
+192.168.113.57	GW-Navard4-12					
+192.168.113.58	Ap					
+192.168.113.59	Su					
+192.168.113.81	GW-Navard2-3					
+192.168.113.82	Ap					
+192.168.113.83	Su					
+192.168.113.89	GW-Navard2-4					
+192.168.113.90	Ap					
+192.168.113.91	Su					
+192.168.113.97	GW-Navard2-6					
+192.168.113.98	Ap					
+192.168.113.99	Su					
+192.168.113.105	GW-Navard1-21					
+192.168.113.106	Ap					
+192.168.113.107	Su					
+192.168.113.121	GW-Navard2-11					
+192.168.113.122	Ap					
+192.168.113.123	Su					
+192.168.113.129	GW-Navard1-5					
+192.168.113.130	Ap					
+192.168.113.131	Su					
+192.168.116.9	GW-Bw1-2					
+192.168.116.10	Ap					
+192.168.116.11	Su					
+192.168.116.25	GW-BW1-5,Valiasr-2					
+192.168.116.26	Ap					
+192.168.116.27	Su					
+192.168.116.41	GW-BW1-6					
+192.168.116.42	Ap					
+192.168.116.43	Su					
+192.168.116.45	Emam Almahdi Ap Mng					
+192.168.116.46	Bank Maskn Huawei					
+192.168.116.49	GW-BW1-11					
+192.168.116.50	Ap					
+192.168.116.51	Su					
+192.168.116.57	GW-Bw1-4					
+192.168.116.58	Ap					
+192.168.116.59	Su					
+192.168.116.65	GW-BW1-8					
+192.168.116.66	Ap					
+192.168.116.67	Su					
+192.168.116.73	GW-BW1-12					
+192.168.116.74	Ap					
+192.168.116.75	Su					
+192.168.116.89	GW-BW1-23					
+192.168.116.90	Ap					
+192.168.116.91	Su					
+192.168.116.97	GW-BW1-7					
+192.168.116.98	Ap					
+192.168.116.99	Su					
+192.168.116.105	GW-BW1-14					
+192.168.116.113	GW-BW1-13					
+192.168.116.114	Ap					
+192.168.116.115	Su					
+192.168.116.121	GW-BW1-19					
+192.168.116.122	Ap					
+192.168.116.123	Su					
+192.168.116.129	GW-BW1-10					
+192.168.116.130	Ap					
+192.168.116.131	Su					
+192.168.116.137	GW-BW1-9					
+192.168.116.138	Ap					
+192.168.116.139	Su					
+192.168.116.145	GW-BW1-15,Valiasr1-17					
+192.168.116.146	Ap					
+192.168.116.147	Su					
+192.168.116.209	GW					
+192.168.116.210	CRT Tavanir SM2 Management AP					
+192.168.116.211	CRT Tavanir SM3 Management AP					
+192.168.117.9	GW-Bw2-20					
+192.168.117.10	Ap					
+192.168.117.11	Su					
+192.168.117.17	GW-Bw2-1					
+192.168.117.18	Ap					
+192.168.117.19	Su					
+192.168.117.25	GW-BW2-8,Dooma-16					
+192.168.117.26	Ap					
+192.168.117.27	Su					
+192.168.117.33	GW-BW2-2					
+192.168.117.34	Ap					
+192.168.117.35	Su					
+192.168.117.41	GW-BW2-6					
+192.168.117.42	Ap					
+192.168.117.43	Su					
+192.168.117.49	GW-BW2-5					
+192.168.117.50	Ap					
+192.168.117.51	Su					
+192.168.117.57	GW-BW2-10					
+192.168.117.58	Ap					
+192.168.117.59	Su					
+192.168.117.65	GW-BW2-11					
+192.168.117.66	Ap					
+192.168.117.67	Su					
+192.168.117.73	GW-BW2-14					
+192.168.117.74	Ap					
+192.168.117.75	Su					
+192.168.117.81	GW-BW2-24					
+192.168.117.82	Ap					
+192.168.117.83	Su					
+192.168.117.89	GW-BW2-4					
+192.168.117.90	Ap					
+192.168.117.91	Su					
+192.168.117.97	GW-BW2-9					
+192.168.117.98	Ap					
+192.168.117.99	Su					
+192.168.117.105	Switch Lan					
+192.168.117.106	Ap					
+192.168.117.107	Su					
+192.168.117.113	GW-BW2-18					
+192.168.117.114	Ap					
+192.168.117.115	Su					
+192.168.118.9	GW-BW3-10					
+192.168.118.10	Ap					
+192.168.118.11	Su					
+192.168.118.17	GW-BW3-16					
+192.168.118.18	Ap					
+192.168.118.19	Su					
+192.168.118.25	GW-BW3-14					
+192.168.118.26	Ap					
+192.168.118.27	Su					
+192.168.118.33	GE-BW3-15					
+192.168.118.34	Ap					
+192.168.118.35	Su					
+192.168.118.41	GW-BW4-8					
+192.168.118.42	Ap					
+192.168.118.43	Su					
+192.168.118.81	GW-BW3-8					
+192.168.118.82	Ap					
+192.168.118.83	Su					
+192.168.118.89	GW-BW3-13					
+192.168.118.90	Ap					
+192.168.118.91	Su					
+192.168.118.97	GW-BW3-18					
+192.168.118.98	Ap					
+192.168.118.99	Su					
+192.168.118.105	GW-BW3-20					
+192.168.118.106	Ap					
+192.168.118.107	Su					
+192.168.118.113	GW-BW3-23					
+192.168.118.114	Ap					
+192.168.118.115	Su					
+192.168.118.121	GW-BW3-8					
+192.168.118.122	Ap					
+192.168.118.123	Su					
+192.168.119.9	GW-Gig9					
+192.168.119.10	Ap					
+192.168.119.11	Su					
+192.168.119.17	GW-BW4-10					
+192.168.119.18	Ap					
+192.168.119.19	Su					
+192.168.119.25	GW-Gig4					
+192.168.119.26	Ap					
+192.168.119.27	Su					
+192.168.119.163	Emam Rack2 Power Monitor						Emam Rack2 Power Monitor
+192.168.119.180	Emam Ziba Huawei Management AP					
+192.168.120.9	GW-Valiasr-3					
+192.168.120.10	Ap					
+192.168.120.11	Su					
+192.168.120.17	Gw-Valiasr-4					
+192.168.120.18	Ap					
+192.168.120.19	Su					
+192.168.120.25	GW-Valiasr-5					
+192.168.120.26	Ap					
+192.168.120.27	Su					
+192.168.120.33	GW-Valiasr1-7					
+192.168.120.34	Ap					
+192.168.120.35	Su					
+192.168.120.41	GW-Valiasr-6					
+192.168.120.42	Ap					
+192.168.120.43	Su					
+192.168.120.49	GW-Valiasr-8					
+192.168.120.50	Ap					
+192.168.120.51	Su					
+192.168.120.57	GW-Valiasr-9					
+192.168.120.58	Ap					
+192.168.120.59	Su					
+192.168.120.65	GW-Valiasr-10					
+192.168.120.66	Ap					
+192.168.120.67	Su					
+192.168.120.73	GW-Valiasr-11					
+192.168.120.74	Ap					
+192.168.120.75	Su					
+192.168.120.81	GW-Valiasr-13					
+192.168.120.82	AP					
+192.168.120.83	SU					
+192.168.120.89	GW-Valiasr-14					
+192.168.120.90	Ap					
+192.168.120.91	Su					
+192.168.126.50	CRT Tavanir Sm SU mang					
+192.168.126.51	Tavanir Parseh Motorola Management AP					
+192.168.126.52	Iran Mobin Vozara Huawei Management AP					
+192.168.126.53	CRT Tavanir SM2 Management SU					
+192.168.126.54	CRT Tavanir SM3 Management SU					
+192.168.126.178	UPS Server Room Rack1 Power Monitor					
+192.168.126.179	UPS Server Room Rack2 Power Monitor					
+192.168.126.180	UPS Server Room Rack3 Power Monitor					
+192.168.126.181	UPS Server Room Rack4 Power Monitor					
+192.168.126.182	UPS Server Room Reserve Power Monitor					
+192.168.127.146	Tavanir To Parseh - Mimosa					
+192.168.127.147	Parseh To Tavanir - Mimosa					
+192.168.131.204	Petiak Airfiber2					
+192.168.132.236	CRT Sadaf Huawei3 Management SU					
+192.168.137.106	CIS Ericson AP Management						CIS Ericson AP Management
+192.168.137.107	CIS Ericson SU Management						CIS Ericson SU Management
+192.168.145.37	LCT SedaSima SM Management AP					
+192.168.145.117	GW			RSPN-Tavanir-Colocation - Gi 1/0/21		
+192.168.145.118	Cacti Server on Tavanir - IPMI port			RSPN-Tavanir-Colocation - Gi 1/0/21		
+192.168.145.242	UPS1					
+192.168.145.243	UPS2					
+192.168.145.244	UPS3					
+192.168.145.246	UPS Share					
+192.168.150.10	CRT ATISAZ Huawei MGMT					
+192.168.150.11	Hezardastan Sarv Sharghi Huawei MGMT					
+192.168.155.2	PSW01 - Private IP 					
+192.168.155.3	PSW02 - Private IP 					
+192.168.155.4	PSW03 - Private IP 					
+192.168.155.5	PSW04 - Private IP 					
+192.168.155.6	PSW05 - Private IP 					
+192.168.155.7	PSW06 - Private IP 					
+192.168.155.8	PSW07 - Private IP 					
+192.168.155.9	PSW08 - Private IP 					
+192.168.155.10	PSW09 - Private IP 					
+192.168.155.11	PSW10 - Private IP 					
+192.168.155.18	PSW01 - IPMI IP 					
+192.168.155.19	PSW02 - IPMI IP 					
+192.168.155.20	PSW03 - IPMI IP 					
+192.168.155.21	PSW04 - IPMI IP 					
+192.168.155.22	PSW05 - IPMI IP 					
+192.168.155.23	PSW06 - IPMI IP 					
+192.168.155.24	PSW07 - IPMI IP 					
+192.168.155.25	PSW08 - IPMI IP 					
+192.168.155.26	PSW09 - IPMI IP 					
+192.168.155.27	PSW10 - IPMI IP 					
+192.168.156.153			ADSL Gateway			
+192.168.156.154			Baran AP			
+192.168.156.155			Baran SU			
+192.168.156.156			Baran ADSL Router			
+192.168.156.157			Baran ADSL DSLAM Gateway			
+192.168.156.158			Baran ADSL DSLAM				
+192.168.157.180	Booali Ofogh Huawei Management AP					
+192.168.160.193			Seda Sima ADSL Gateway			
+192.168.160.194			Seda Sima ADSL Radio AP			
+192.168.160.195			Seda Sima ADSL Radio SU			
+192.168.160.196			Seda Sima ADSL Router			
+192.168.160.197			Seda Sima ADSL DSLAM			
+192.168.162.211	LCT SedaSima SM					
+192.168.162.217	Homa-Express Gateway					
+192.168.162.218	Homa-Express Ap					
+192.168.162.219	Homa-Express Su					
+192.168.163.1	GW of Seda Sima PTMP North Radio					
+192.168.163.2	Seda Sima PTMP North Radio					
+192.168.163.3	Fardad-Parvaz PTMP 					
+192.168.163.4						
+192.168.163.5	Peugeot PTMP					
+192.168.163.6						
+192.168.163.7	Komak Resan PTMP					
+192.168.163.8						
+192.168.163.9	Jabone PTMP					
+192.168.163.10	Sarmayegozari Tadbir ptmp					
+192.168.163.11						
+192.168.163.12						
+192.168.163.13						
+192.168.163.14						
+192.168.163.15						
+192.168.163.16						
+192.168.163.17						
+192.168.163.18						
+192.168.163.19						
+192.168.163.20						
+192.168.163.21						
+192.168.163.65	GW of Seda Sima PTMP East Radio					
+192.168.163.66	Seda Sima PTMP East Radio					
+192.168.163.67	Petroshimi Takht Jamshid PTMP					
+192.168.163.68	Iran Danesh PTMP					
+192.168.163.128						
+192.168.163.129	GW of Seda Sima PTMP South Radio					
+192.168.163.130	Seda Sima PTMP South Radio					
+192.168.163.131	kargozari sanat o maadan					
+192.168.163.132	Narin Shahr Kala PTMP					
+192.168.163.133						
+192.168.163.134	Etebar Gostar Kish PTMP					
+192.168.163.135	Hotel Bimarestan Gandi PTMP					
+192.168.163.136						
+192.168.163.137						
+192.168.163.193	GW of Seda Sima PTMP West Radio					
+192.168.163.194	Seda Sima PTMP West Radio					
+192.168.163.195	Siman Fars Tehran PTMP					
+192.168.163.196	Bank Toos ptmp					
+192.168.163.197	Pishtazan Javan Su					
+192.168.164.203			CRT Negin SU MGM			
+192.168.169.33	GW			RSPN-LCT-IDC-SW2 __ Gi 0/21		
+192.168.169.34	ESXI LCT IS					
+192.168.171.138	SM-Alfo Plus2						LCT MGMT
+192.168.171.139	Bank-Mellat-AP MGM					
+192.168.171.140	Romak-AP-MGM Ericssoc					
+192.168.171.141	Bertina-Ercsson					
+192.168.176.197	Alborz Venus SM AP Management					
+192.168.176.220	CIS Huawei2 AP MNG						CIS Huawei2 AP MNG
+192.168.176.221	CIS Huawei2 SU MNG						CIS Huawei2 SU MNG
+192.168.190.17			Saba ADSL Gateway				
+192.168.190.18			Saba ADSL Router			
+192.168.190.19			Saba ADSL DSLAM			
+192.168.190.83	Emam Saba Huawei1&2 Management SU					
+192.168.192.169	GW - Samaghand Switch					
+192.168.192.170	Respina Anbar Backup AP					
+192.168.192.171	Respina Anbar Backup SU					
+192.168.192.172	Anbar azadi Mikrotik LAN			RTE-AW-001		
+192.168.192.173	free					
+192.168.192.177	Default Gateway					
+192.168.192.179						
+192.168.192.182	Printer					
+192.168.192.183						
+192.168.192.184						
+192.168.192.185	Mr. Saeidi					
+192.168.192.186	S.Talebi-TC					
+192.168.192.188	Mr. Kanani IPPhone					
+192.168.192.189	Mr. Kanani					
+192.168.192.190	Time Report					
+192.168.192.193	Default Gateway					
+192.168.195.161	Default Gateway					
+192.168.195.162	Camera					
+192.168.195.163	Camera					
+192.168.195.164	Camera					
+192.168.195.165	Camera					
+192.168.195.166	Camera					
+192.168.195.167	Camera					
+192.168.195.168	Camera					
+192.168.195.169	Camera					
+192.168.195.170	Camera					
+192.168.195.171	Camera					
+192.168.195.172	Camera					
+192.168.197.1	Gateway Eskan PTMP1					
+192.168.197.2	Rocket EskanPTMP1					
+192.168.197.3	Mr Bayati Zafar SU					
+192.168.197.4	Pishgam Fara Sanat ptmp					
+192.168.197.5	Kar Andishe PTMP					
+192.168.197.6	Mr Bayati Zafar SU					
+192.168.197.7	Mr Nasiri SU					
+192.168.197.33	Gateway PTMP Eskan2					
+192.168.197.34	Ap Rocket  PTMP2					
+192.168.197.35	Almanar PTMP					
+192.168.197.36	Pishgam Fara Sanat PTMP					
+192.168.197.65	Gateway PTMP3					
+192.168.197.66	Radio Rocket PTMP3					
+192.168.197.67						
+192.168.197.68	Carbon Iran PTMP					
+192.168.197.69	Sanat Iran PTMP					
+192.168.197.70						
+192.168.197.71	bime moalem2 PTMP					
+192.168.197.97	Gateway Rocket PTMP4					
+192.168.197.98	Eskan Rocket PTMP4					
+192.168.197.99	Negin khodro Mirdamad PTMP					
+192.168.197.100	free					
+192.168.197.129	Gateway PTMP5					
+192.168.197.130	Rocket  PTMP5					
+192.168.197.131	Saman Daroo					
+192.168.197.132	Free					
+192.168.197.133	Padyab Teb Tehran					
+192.168.197.134	Ava Pardis Salamat					
+192.168.197.161	Eskan PTMP6 South Gateway					
+192.168.197.162	Eskan PTMP6 South Rocket					
+192.168.197.163	Rahnama PTMP					
+192.168.197.164	Mana Macaron PTMP					
+192.168.198.177	GW			RSPN-LCT-IDC-SW2 __ Vlan5		
+192.168.198.178	ESXI LCT IS					
+192.168.199.226	LCT-Zabbix-DB-Master					
+192.168.199.227	LCT-Zabbix-DB-Slave					
+192.168.199.228	LCT-Zabbix-Web-1					
+192.168.199.229	LCT-Zabbix-Web-2					
+192.168.199.230	RSPN-IVL76					
+192.168.199.231	RSPN-IVL77					
+192.168.199.232	RSPN-VIP					
+192.168.199.238	Anti Spam					
+192.168.202.14	Iranian Ariyan managment Sm (Ariyan)					
+192.168.203.82	Ariyan Power Monitor					
+192.168.205.86	IPM Pamchal Huawei Management SU					
+192.168.206.35	Almahdi Saman SM1 AP Management						Almahdi Saman SM1 AP Management
+192.168.206.36	Almahdi Saman SM1 SU Management						Almahdi Saman SM1 SU Management
+192.168.206.54	BozorgMehr Almahdi Huawei Management SU					
+192.168.209.132						
+192.168.212.1	PTMP Gateway					
+192.168.212.2	Dooma North					
+192.168.212.3	Atlas Pooshan Diba					
+192.168.212.4	Schneider PTMP					
+192.168.212.5	Arta Mehr PTMP					
+192.168.212.6	Arad Poosh Atlas Local					
+192.168.212.33			Dooma North West Gateway			
+192.168.212.34			Dooma North West			
+192.168.212.35			Naft Eni Iran			
+192.168.212.65	Gateway Dooma PTMP3		PTMP Gateway			
+192.168.212.66	Rocket Dooma PTMP3			PTMP AP		
+192.168.212.67						
+192.168.212.68	Payasazan Aris ptmp		Payasazan Aris			
+192.168.212.69	Arita SU PTMP					
+192.168.212.70	Atlas Global PTMP					
+192.168.212.97	Dooma South East Gatway					
+192.168.212.98	Dooma South East					
+192.168.212.99	Otagh Bazargani					
+192.168.212.129	Dooma South West Gateway					
+192.168.212.130	Dooma South West					
+192.168.212.131	Overseas Mehmansara					
+192.168.212.161	Dooma West  Gateway					
+192.168.212.162	Dooma West AP					
+192.168.212.163	Salian Safar Agency					
+192.168.212.165	Man Melk					
+192.168.217.138	Arvand Tolue Rayaneh Qom MGMT						Arvand Tolue Rayaneh Qom
+192.168.218.33	Tandis North Gateway					
+192.168.218.34	Tandis North AP Radio					
+192.168.218.65	Tandis North East GW					
+192.168.218.66	Tandis North East Radio AP					
+192.168.218.97	Tandis East Radio GW					
+192.168.218.98	Tandis East Radio					
+192.168.218.99						
+192.168.218.129	Tandis South East Gateway					
+192.168.218.130	Tandis South East AP Radio					
+192.168.218.131						
+192.168.218.161	Tandis South West GW					
+192.168.218.162	Tandis South West AP Radio					
+192.168.218.193	Tandis North West GW					
+192.168.218.194	Tandis North West AP Radio PTMP					
+192.168.218.195	Farjam Parvaz					
+192.168.218.196	Omid Iranian					
+192.168.218.197	Salam Parvaz PTMP					
+192.168.219.193						
+192.168.219.194						
+192.168.222.1	 					
+192.168.222.2	 					
+192.168.222.3	 					
+192.168.222.33	 					
+192.168.222.34	 					
+192.168.222.35	 					
+192.168.222.36	 					
+192.168.222.37						
+192.168.222.38						
+192.168.222.39	 					
+192.168.222.41						
+192.168.222.65			Mahan East Gateway			
+192.168.222.66			Mahan East			
+192.168.222.67			Free			
+192.168.222.97			Mahan South East Gateway			
+192.168.222.98			Mahan South East			
+192.168.222.99						
+192.168.222.110			Noavaran Teb			
+192.168.222.129	 		 			
+192.168.222.130	 		 			
+192.168.222.131	 		 			
+192.168.222.132	 		 			
+192.168.222.133	 					
+192.168.222.161	 					
+192.168.222.162						
+192.168.222.163	 					
+192.168.224.6	pdu manegment		pdu manegment	pdu manegment		
+192.168.230.65	Azadi Mang GW					
+192.168.230.66	Golrang System Ap Management					
+192.168.230.67						
+192.168.230.68						
+192.168.230.69	 LCT Azadi Huawei MGMT						 LCT Azadi Huawei MGMT
+192.168.232.1						
+192.168.232.2	Bank Mellat Management Ap					
+192.168.232.3	Bank Mellat Management SU					
+192.168.234.13	PCG Derakhti SM Management SU					
+192.168.235.186	Emam BozorgMehr Management SU					
+192.168.235.187	BozorgMehr Almahdi Huawei Management AP					
+192.168.244.225	Gateway					
+192.168.244.226	RWL-006-WEST-244226					
+192.168.244.227	Mr Shabani Hamravand					
+192.168.244.229	Mr Hadadi (Hamravand)					
+192.168.244.230	Noandishan Safi					
+192.168.245.1	Gateway PTMP1					
+192.168.245.2	PTMP1					
+192.168.245.3	Mr Najian (Hamravand)					
+192.168.245.4	Fanavaran Tolue Shabakeh Parseskan3					
+192.168.245.5	Nikan Darman					
+192.168.245.6	Sanaie Nikkhah					
+192.168.245.33	Radio Gateway					
+192.168.245.34	Venus PTMP3					
+192.168.245.37	Mr Abasian Hamravand					
+192.168.245.40						
+192.168.245.169	GW					
+192.168.245.170	Alborz Venus SM SU Management					
+192.168.255.249	GW-BW1					
+192.168.255.250	AP					
+192.168.255.251	SU					
